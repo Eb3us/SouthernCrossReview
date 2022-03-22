@@ -1,0 +1,210 @@
+﻿/* Stars Fading */
+.content{ z-index:-2; position:absolute; top:0px; left:0px; width:100%; height:1000px;background:url('sc2.jpg') no-repeat;background-size:100%}
+
+.FadeAway{
+        z-index: -1;
+    position: absolute; top:0px; left:0px; width:100%; height:1000px;
+        background:transparent;
+        background: linear-gradient(top, rgba( 144, 51, 153, 255 ) 0%, rgba( 144, 51, 153, 1 ) 100% );
+        background: -moz-linear-gradient(top, rgba( 144, 51, 153, 0) 0%, rgba( 144, 51, 153, 1 ) 100% );
+        background: -ms-linear-gradient(top, rgba( 144, 51, 153, 0 ) 0%, rgba( 144, 51, 153, 1 ) 100% );
+        background: -o-linear-gradient( top, rgba( 144, 51, 153, 0 ) 0%, rgba( 144, 51, 153, 1 ) 100% );
+        background: -webkit-linear-gradient( top, rgba( 144, 51, 153, 0 ) 0%, rgba( 144, 51, 153, 1 ) 100% );
+        -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#550000FF, endColorstr=#550000FF);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00ffffff, endColorstr=#ffffffff);
+}
+/* End of Stars Fading */
+
+body {
+	background-color: rgb(144,51,153);
+    }
+/* navigation bar*/
+ul {
+    top: 0;
+	left: 0;
+    position: fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #442288;
+	width: 100%;
+	text-align: center;
+	z-index: 2;
+		}
+
+li {
+    display: inline-block;
+			}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: gold;
+    text-align: center;
+    padding: 4px 6px;
+    text-decoration: none;
+	font-family: "Baar Metanoia";
+	font-size: 1.2vw;
+	
+	
+		}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: #8800aa;
+	text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.8);
+	    }
+.active {
+    background-color: rgb(144,51,153);
+}
+li.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgba(70,60,100,0.9);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.dropdown-content a {
+    color: #bba700;
+    padding: 6px 10px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-family: "Baar Metanoia";
+    font-weight: bold;
+}
+
+.dropdown-content a:hover {background-color: rgba(50,34,105,1.6)}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+/* end of navigation bar*/
+
+p.date {
+	font-family: "comic sans ms";
+    font-size: 20px;
+    text-align:center;
+	margin-right:22px;
+    margin-bottom:30px;
+	margin-top:0px;
+	color: gold;
+}
+h2 {
+	margin-top: 30px;
+    color: gold;
+	text-align:center;
+	font-size: 30px;
+	font-family: "comic sans ms";
+	font-weight: normal;
+        
+}
+h1 {
+	margin-bottom: 80px;
+    margin-top: 140px;
+    color: gold;
+	text-shadow: 10px 8px 8px #000000;
+	text-align: center;
+	font-family: "Baar Metanoia";
+	font-size: 65px;
+	font-weight: bold;
+	font-style: italic;
+}
+img.a {
+    border-radius: 10px;
+    width:600px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+p.img {
+    margin-right: 100px;
+    margin-left: 100px;
+    color: gold;
+    font-size: 22px;
+    font-family: "Calibri";
+	}
+/*bookreview image*/
+.containerbr {
+    position: relative;
+	z-index: 0;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+.center {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5vw;
+	color: #900000;
+	font-weight: bold;
+	background-color: rgba(255, 249, 242, 0.7);
+	text-shadow: 2px 2px 8px #000000;
+	
+	
+	
+}
+
+img.br { 
+   	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+	width: 50%;
+    height: auto;
+    opacity: 1;
+	}
+/*end bookreview image*/
+
+table {
+	margin: auto;
+	border: 1px solid #fff9f2;
+	width: 80%;
+	height: auto;
+	background-color: #fff9f2;
+	padding: 20px 110px;
+	}
+.title1 {
+	color: rgb(130,51,153);
+	font-weight: bold;
+	font-style: italic;
+	font-size: 30px;
+	font-family: "calibri";
+}
+.title2 {
+	color: black;
+	font-size: 25px;
+	font-style: italic;
+	font-family: "calibri";
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.text {
+	color: black;
+	font-size: 17px;
+	font-family: "calibri"
+	text-align: justify;
+	text-justify: auto;
+	}
+div.web a:link {
+	color: gold
+}
+div.web a:visited {
+	color: gold
+}
+div.web a:hover {
+	color: gold;
+}
+div.web a:active {
+	color: gold;
+}
+img.b {
+	border-radius: 10px;
+}
