@@ -1,0 +1,653 @@
+/*RESET*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/*endreset*/
+/* font downloaded from 1001freefonts.com and converted using font-converter.net. */
+@font-face {
+	font-family: typef;
+	src: url("/fonts/Fluox.eot"); /* IE9 Compat Modes */
+	  src: url("/fonts/Fluox.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+	    url("/fonts/Fluox.otf") format("opentype"), /* Open Type Font */
+	    url("/fonts/Fluox.svg") format("svg"), /* Legacy iOS */
+	    url("/fonts/Fluox.ttf") format("truetype"), /* Safari, Android, iOS */
+	    url("/fonts/Fluox.woff") format("woff"), /* Modern Browsers */
+	    url("/fonts/Fluox.woff2") format("woff2"); /* Modern Browsers */
+	  font-weight: normal;
+	  font-style: normal;
+}
+/* font downloaded from 1001freefonts.com and converted using font-converter.net. */
+@font-face {
+	font-family: norton-1;
+	src: url("/fonts/NORTON.eot"); /* IE9 Compat Modes */
+  src: url("/fonts/NORTON.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/fonts/NORTON.otf") format("opentype"), /* Open Type Font */
+    url("/fonts/NORTON.svg") format("svg"), /* Legacy iOS */
+    url("/fonts/NORTON.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/fonts/NORTON.woff") format("woff"), /* Modern Browsers */
+    url("/fonts/NORTON.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+/* font downloaded from 1001freefonts.com and converted using font-converter.net. */
+@font-face {
+	font-family: sensation;
+	src: url("/fonts/SensationsandQualities.eot"); /* IE9 Compat Modes */
+  src: url("/fonts/SensationsandQualities.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/fonts/SensationsandQualities.otf") format("opentype"), /* Open Type Font */
+    url("/fonts/SensationsandQualities.svg") format("svg"), /* Legacy iOS */
+    url("/fonts/SensationsandQualities.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/fonts/SensationsandQualities.woff") format("woff"), /* Modern Browsers */
+    url("/fonts/SensationsandQualities.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+#titleDes {
+	display: none;
+
+}
+body {
+  margin: 0;
+  padding: 0;
+	overflow-x: : hidden;
+	background-color: #aa88cc;
+}
+a:hover {
+	color: darkblue;
+}
+.preheader {
+	position: fixed;
+	top: 0;
+	background-color: #442288;
+	margin :0;
+	width: 99%;
+	color:#ddd;
+	padding: 7px;
+	overflow: hidden;
+	z-index: 2;
+}
+.date {
+	font-size:0.8em;
+}
+#share {
+	display: none;
+}
+header {
+
+  background-color: #aa88cc;
+  clear: both;
+	background-image: url(southerncrossbanner2.jpg);
+	background-repeat:no-repeat;
+	background-position: top;
+	background-size: 98%;
+	background-blend-mode:luminosity;
+	color: #303;
+	text-align: center;
+	padding-top: 2.7em;
+	margin-bottom: 0.5em;
+	overflow: hidden;
+}
+h1 {
+  font-family: norton-1;
+  font-size: 12vw;
+  margin-left: 3vw;
+  margin-bottom: 3vh;
+  text-shadow:-2px -4px 6px #442277, 2px 4px 10px #ccaaff;
+	margin-top: 3vh
+
+}
+h2 {
+  font-family: sensation;
+  font-size: 12vw;
+  text-shadow: 4px 4px 8px #aa99cc;
+  text-align: center;
+	background-color: rgba(255,255,255,0.0);
+	text-shadow: 2px 4px 6px #442277, -2px -4px 6px #ccaaff;
+	margin-top: 14vw;
+}
+h3 {
+	font-family: typef;
+	font-size: 9vw;
+		color: #fdf;
+	font-style:italic;
+	margin-bottom:1em;
+	margin-top:0.5em;
+	text-shadow: 2px 4px 9px #220055;
+text-align: center;
+}
+h4 {
+	font-family: typef;
+	font-size: 7vw;
+	font-style:italic;
+	margin-bottom: 0.5em;
+	text-align: center;
+
+}
+
+/*NAV-BAR*/
+#navbar {
+display: none;
+}
+
+/*navigation bar-mobile*/
+/* Add a black background color to the top navigation */
+.topnav {
+   margin-top:0px;
+   margin-left: 0px;
+   background-color: #442288;
+   overflow: hidden;
+   position:fixed;
+   top:1.5em;
+   left:0;
+   width: 100vw;
+   z-index: 2;
+
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+   float: left;
+   display: block;
+   color: gold;
+   text-align: center;
+   padding: 0.23vw 16px;
+   text-decoration: none;
+   font-size: 17px;
+   margin: 0;
+
+   }
+
+/* Change the color of links on hover */
+.topnav a:hover {
+   background-color: #8800aa;
+   color: gold;
+}
+
+/* Add an active class to highlight the current page */
+.active {
+   background-color: #4CAF50;
+   color: white;
+
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+   display: none;
+}
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 1024px) {
+.topnav a:not(:first-child) {display: none;}
+.topnav a.icon {
+  float: right;
+  display: block;
+}
+}
+@media screen and (max-width: 300px) {
+
+
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 1024px) {
+  .topnav.responsive {   position:fixed;
+		top:1.5em;
+     left:0;
+     width: 100vw;
+   z-index: 2;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+/* end of navigation bar-mobile*/
+
+/* Page content */
+
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+ position: fixed;
+ top: 0;
+ width: 100%;
+ z-index: 2;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+ padding-top: 60px;
+}
+
+
+
+/* navigation bar-desktop*/
+#navbar ul {
+    top: 0;
+	left: 0;
+      list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #aa88cc;
+	text-align: center;
+	z-index: 2;
+		}
+
+#navbar li {
+    display: inline-block;
+    margin: 0
+  			}
+
+#navbar li a, .dropbtn {
+    display: inline-block;
+    color: black;
+    padding: 2vh 0.35vw;
+    text-decoration: none;
+	font-family: "Baar Metanoia";
+	font-size: 1.28vw;
+
+
+		}
+
+#navbar li a:hover, .dropdown:hover .dropbtn {
+    background-color: rgba(153,119,187,0.3) ;
+	text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.9);
+	border-radius: 10px;
+	    }
+
+
+.active {
+    background-color: rgb(144,51,153);
+}
+li.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgba(110,100,140,0.9);
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
+    z-index: 1;
+    border-radius: 5px;
+		text-align: left;
+		padding-left: 0.5em;
+		padding-right: 0.5em;
+
+
+}
+
+.dropdown-content a {
+    color: #aa88cc;
+	   text-decoration: none;
+      font-family: "Baar Metanoia";
+    font-weight: bold;
+
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+/* end of navigation bar-desktop*/
+
+img.a {
+
+    width:95%;
+
+}
+p.imgtext {
+	color: gold;
+	font-size:1.3em;
+
+}
+/*e-book library image*/
+.containerbr {
+  position: relative;
+	z-index: 0;
+	width: 32%;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+	max-height: 25vh;
+	min-height: 25vh;
+	overflow: hidden;
+	display:table-cell;
+  text-align: center;
+	margin-bottom: 1em;
+	}
+	.containerbr2 {
+	  position: relative;
+		z-index: 0;
+		width: 32%;
+		margin-right: auto;
+		margin-left: auto;
+		float: left;
+		max-height: 25vh;
+		min-height: 25vh;
+		overflow: hidden;
+		display:table-cell;
+	  text-align: center;
+		margin-bottom: 1em;
+		}
+	.containerbr1 {
+		overflow: hidden;
+		position: relative;
+		z-index: 0;
+		width: 35%;
+	  float: left;
+		max-height: 25vh;
+		min-height: 25vh;
+		display: block;
+		}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3vw;
+	color: #900000;
+	font-weight: bold;
+	background-color: rgba(255, 249, 242, 0.6);
+	width: 90%;
+	text-align: center;
+}
+
+
+img.br {
+   	margin: 0;
+	  width:100%;
+    opacity: 1;
+		min-height: 25vh;
+		margin-left: auto;
+
+	}
+/*end e-book library image*/
+
+div.dark {
+	border-radius: 5px;
+	margin-left:5px;
+	margin-right:5px;
+	overflow:hidden;
+	background-color:rgba(0,0,0,0.4);
+	padding:20px;
+	margin-bottom:5vh;
+	clear:both;
+}
+div.white {
+	border-radius: 5px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 20px;
+	margin-bottom: 8vh;
+	width:95%;
+	background-color:#fff9a2;
+	padding:10px;
+	overflow: hidden;
+}
+div.mainimg {
+	width:105%;
+	margin-left:auto;
+	margin-right: auto;
+	margin-bottom: 1.5em;
+}
+div.textimg {
+	width:100%;
+	text-align: left;
+}
+p.titleimg {
+	font-size:2em;
+	text-align:center;
+	margin-bottom:20px;
+	color: gold;
+}
+div.transparent {
+	clear:both;
+	margin-top:50px;
+	margin-left:0;
+	margin-right:0;
+	overflow:hidden;
+	padding:10px;
+}
+div.cover {
+	width: 70vw;
+	margin-left: auto;
+	margin-right: auto;
+}
+.h12 {
+	font-family: norton-1;
+	font-size:2.3em;
+	margin-bottom:0.1em;
+margin-left: 5vw;
+}
+.h13 {
+		display: none;
+}
+.proudly {
+	font-size:2em;
+	margin-bottom:0.4em
+}
+div.quote {
+	margin: 0;
+	padding: 0;
+	width:100%;
+	padding-top:0;
+	text-align: center;
+}
+div.getithere2 {
+font-size:3.5vw;
+margin-bottom:0.4em;
+
+}
+div.getithere1 {
+	display: none;
+}
+p.robertofox {
+	font-size:5vw;
+	margin-bottom:0.3em;
+}
+p.alterego {
+	font-size: 3.3vw;
+	margin-bottom: 0.5em;
+}
+div.ebook {
+	border-radius: 10px;
+background-color: rgba(0,0,0,0.4);
+		padding-top: 1em;
+		padding-bottom: 0.1em;
+		padding-left: 1vw;
+	width:97%;
+	height: 100%;
+	margin-right:auto;
+	margin-left:auto;
+		overflow: hidden;
+}
+img.fts {
+	border-radius:10px;
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+	width:25%;
+	margin-bottom:10px
+}
+p.find {
+	font-size:1.3em;
+	color:black;
+		text-align:left;
+	margin:1em;
+	float: right;
+}
+div.ebook a:link {
+	color: gold;
+}
+div.ebook a:hover {
+	color: yellow;
+}
+div.ebook a:visited {
+	color: orange;
+}
+
+div.book {
+	max-width:100%;
+	background-color:rgba(255,255,255,0.5);
+	margin: 0;
+	border-radius:10px;
+	overflow: hidden;
+	padding: 0.2em;
+	margin: 1vw;
+	}
+img.book {
+width:100%;
+max-width: 400px;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:1em;
+}
+p.backcover {
+	text-align:left;
+	font-size:1.5em;
+	margin-bottom:0.4em;
+	margin: 1em;
+
+}
+img.square {
+	border-radius: 10px;
+	margin-bottom: 0vh;
+	max-width: 70vw;
+	max-height: 60vh;
+	min-width: 55vw;
+	min-height: 55vw;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+img.hor {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+	border-radius: 10px;
+  margin-bottom: 5vw;
+	max-width: 75vw;
+	max-height: 55vh;
+	min-width: 70vw;
+	min-height: 40vw;
+}
+img.vert {
+  display: block;
+	border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 5vw;
+	margin-bottom: 5px;
+	max-width: 60vw;
+	max-height: 90vh;
+	min-width: 45vw;
+	min-height: 63vw;
+}
+.figure1 {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1em;
+	color:#302;
+  display: table;
+	color:#302;
+	font-style: italic;
+}
+figcaption {
+  caption-side: bottom;
+  font-size: 4.5vw;
+	margin-top: 5px;
+  }
+p.text {
+	margin: 3vh;
+	font-size: 1.25em;
+	text-align: left;
+
+}
+
+img.square:hover {
+	box-shadow: 4px 4px 10px 2px #aa88aa;
+}
+img.vert:hover {
+	box-shadow: 4px 4px 10px 2px #aa88aa;
+}
+img.hor:hover {
+	box-shadow: 4px 4px 10px 2px #aa88aa;
+}
+.containerbr2:hover {
+	box-shadow: 0px 0px 10px 2px #aa88aa;
+}
+.containerbr2:hover .center {
+		color: #cc0000;
+}
+.containerbr:hover {
+	box-shadow: 0px 0px 10px 2px #aa88aa;
+}
+.containerbr:hover .center {
+		color: #cc0000;
+}
+.containerbr1:hover {
+	box-shadow: 0px 0px 10px 2px #aa88aa;
+}
+.containerbr1:hover .center {
+		color: #cc0000;
+}
+span.author {
+	font-size:smaller;
+	color:#434;
+}
+footer {
+	position:relative;
+	bottom: 0;
+	margin-bottom: 0 !important;
+	clear: both;
+	background-color:rgba(200,200,200,0.7);
+	padding:2vw;
+}
+#footer1{
+	width:95%;margin-right:2.5em;height:100%;overflow:hidden
+}
+#footer2 {
+width:95%;overflow:hidden;padding-top:1em;margin-right:2em
+}
+#footer3 {
+	width:95%;overflow:hidden;padding-top:1.5em;
+}
+#footerdark {
+	margin-left: auto;margin-right: auto;width:80%;background-color:rgba(0,0,0,0.7);border-radius:5px;padding:2vw;
+}
+#footer4 {
+	overflow:hidden;padding-top:1.5em;width:95%;margin-left:1em
+}
+.backcover a:link {
+	color: #ddd;
+}
+.backcover a:hover {
+	color: #ff9;
+}
+.backcover a:visited {
+	color: #aaa;
+}
+.backcover a:visited:hover {
+	color:  #ff9;
+}

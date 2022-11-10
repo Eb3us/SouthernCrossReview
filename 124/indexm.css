@@ -1,0 +1,316 @@
+
+#navd {display: none;}
+#titlehr {display: none;}
+body {
+  background-image: url(sc2gr.jpg);
+  background-color: rgb(144,51,153);
+  background-repeat: no-repeat;
+
+    }
+/* navigation bar-desktop*/
+ul {
+    top: 0;
+	left: 0;
+    position: fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #442288;
+	width: 100%;
+	text-align: center;
+	z-index: 2;
+		}
+
+li {
+    display: inline-block;
+    margin: 0
+  			}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: gold;
+    text-align: center;
+    padding: 0.23vw 0.35vw;
+    text-decoration: none;
+	font-family: "Baar Metanoia";
+	font-size: 1.2vw;
+
+
+		}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: #8800aa;
+	text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.8);
+	    }
+.active {
+    background-color: rgb(144,51,153);
+}
+li.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgba(70,60,100,0.9);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.dropdown-content a {
+    color: #bba700;
+    padding: 6px 10px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-family: "Baar Metanoia";
+    font-weight: bold;
+}
+
+.dropdown-content a:hover {background-color: rgba(50,34,105,1.6)}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+/* end of navigation bar-desktop*/
+/* navigation bar-mobile*/
+/* Add a black background color to the top navigation */
+.topnav {
+   margin-top:0px;
+   margin-left: 0px;
+   background-color: #442288;
+   overflow: hidden;
+   position:fixed;
+   top:0;
+   left:0;
+   width: 100vw;
+   z-index: 2;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+   float: left;
+   display: block;
+   color: gold;
+   text-align: center;
+   padding: 0.23vw 16px;
+   text-decoration: none;
+   font-size: 17px;
+   margin: 0;
+
+   }
+
+/* Change the color of links on hover */
+.topnav a:hover {
+   background-color: #8800aa;
+   color: gold;
+}
+
+/* Add an active class to highlight the current page */
+.active {
+   background-color: #4CAF50;
+   color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+   display: none;
+}
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 1024px) {
+.topnav a:not(:first-child) {display: none;}
+.topnav a.icon {
+  float: right;
+  display: block;
+}
+}
+@media screen and (max-width: 300px) {
+
+
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 1024px) {
+  .topnav.responsive {   position:fixed;
+     top:0;
+     left:0;
+     width: 100vw;
+   z-index: 2;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+/* end of navigation bar-mobile*/
+
+p.date {
+	font-family: "comic sans ms";
+    font-size: 4.5vw;
+    text-align:center;
+
+    margin-bottom:3vw;
+	margin-top:0px;
+	color: gold;
+}
+h2 {
+	margin-top: 1vw;
+  margin-left: 0.2vw;
+  margin-right: 0.2vw;
+  color: gold;
+	text-align:center;
+	font-size: 7vw;
+	font-family: "comic sans ms";
+	font-weight: normal;
+
+}
+h1 {
+	margin-bottom: 10vw;
+    margin-top: 10vw;
+    color: gold;
+	text-shadow: 10px 8px 8px #000000;
+	text-align: center;
+	font-family: "Baar Metanoia";
+	font-size: 11vw;
+	font-weight: bold;
+	font-style: italic;
+}
+img.a {
+    border-radius: 10px;
+    width:70vw;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    cursor: pointer;
+}
+p.img {
+    text-align: justify;
+    margin-right: 5vw;
+    margin-left: 5vw;
+    color: gold;
+    font-size: 22px;
+    font-family: "Calibri";
+	}
+  p.imgt {
+    text-align: center;
+    margin-top: 1vw;
+    color: gold;
+    font-size: 5vw;
+  }
+/*bookreview image*/
+.containerbr {
+    position: relative;
+	z-index: 0;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+.center {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5vw;
+	color: #900000;
+	font-weight: bold;
+	background-color: rgba(255, 249, 242, 0.7);
+	text-shadow: 2px 2px 8px #000000;
+
+
+
+}
+
+img.br {
+   	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+	width: 50%;
+    height: auto;
+    opacity: 1;
+	}
+/*end bookreview image*/
+
+table {
+	margin: auto;
+	border: 1px solid #fff9f2;
+	width: 98%;
+	height: auto;
+	background-color: #fff9f2;
+	padding: 2vw 2vw;
+	}
+.title1 {
+	color: rgb(130,51,153);
+	font-weight: bold;
+	font-style: italic;
+	font-size: 6vw;
+	font-family: "calibri";
+}
+.title2 {
+	color: black;
+	font-size: 5.5vw;
+	font-style: italic;
+	font-family: "calibri";
+	font-weight: bold;
+	margin-bottom: 2vw;
+}
+.text {
+	color: black;
+	font-size: 5vw;
+	font-family: "calibri"
+	text-align: justify;
+	text-justify: auto;
+  margin-left: 1px;
+	}
+div.web a:link {
+	color: gold
+}
+div.web a:visited {
+	color: gold
+}
+div.web a:hover {
+	color: gold;
+}
+div.web a:active {
+	color: gold;
+}
+img.square {
+	border-radius: 10px;
+	margin-bottom: 0vh;
+	max-width: 60vw;
+	max-height: 60vh;
+	min-width: 55vw;
+	min-height: 55vw;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+img.hor {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+	border-radius: 10px;
+  margin-bottom: 5vw;
+	max-width: 75vw;
+	max-height: 55vh;
+	min-width: 70vw;
+	min-height: 40vw;
+}
+img.vert {
+	border-radius: 10px;
+	float: left;
+  margin-top: 5vw;
+	margin-right: 5vw;
+	margin-bottom: 5px;
+	max-width: 50vw;
+	max-height: 90vh;
+	min-width: 45vw;
+	min-height: 63vw;
+}

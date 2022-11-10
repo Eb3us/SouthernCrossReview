@@ -1,0 +1,19 @@
+<rss version="2.0">
+    <channel>
+        <title>SouthernCrossReview</title>
+        <link>https://southerncrossreview.org</link>
+        <description>Review of Anthroposophy, fiction, education, science, current events, essays, book reviews, poetry</description>
+        <copyright>CC 4.0 – BY-SA</copyright>
+        <item>
+            <title>Berlin Queries and other poems</title>
+            <link>http://southerncrossreview.org/142/lord-berlin-poems-2.html</link>
+            <description>
+                <br></br>
+                <br></br>
+                <br></br>
+            </description>
+            <author>Richard Lord</author>
+            <enclosure url="" type="image/jpg"></enclosure>
+        </item>
+    </channel>
+</rss>

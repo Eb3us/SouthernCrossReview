@@ -1,0 +1,17 @@
+{
+  "name": "137-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rollup ./145/scripts/script.js --format iife --name SCR145 --file ./145/scripts/script-root.min.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^2.56.3",
+    "xml-formatter": "^2.6.1",
+    "xml2json": "^0.12.0"
+  }
+}

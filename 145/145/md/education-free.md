@@ -1,0 +1,226 @@
+# The necessity of truly Free Education
+
+![](educacion-libre.jpg){class="a"}
+
+## by Carlos Mönckeberg (d), Frank Thomas Smith and Dr. William L. Chapman (d) 
+
+Any reform decided upon cannot have the desired effect if it does not
+get to the root of the problem of education in this country and in the
+world: the dependence of educational institutions on the political
+state.
+
+If we analyze the evolution of social forms in history, we find three
+archetypal elements that constitute an organized society. The State
+proper, that is, the bearer of the element of rights.
+
+The sector which we could call cultural, and which encompasses all
+manifestations of religion, culture, art and education, since to educate
+is precisely to make the contents of culture available to the learner.
+
+And finally, the sector of economic life, which includes the processes
+of production, distribution and consumption of goods and services.
+
+Although this plan of a social organism seems convincing, it is only
+applicable to the present, and this present is a consequence of the
+preceding historical evolution. Formerly, in the early epoch of the
+evolution of humanity, the social organization started from an
+all-embracing theocracy which, from the top of the pyramid, for example
+the Egyptian Pharaoh, who ruled as a representative of the divinity and
+as a secular lord simultaneously.
+
+In this way, everything was organized and regulated: as much religion as
+the relationship between individuals, and between the different estates,
+that is to say rights -- or lack thereof -- and also agricultural
+planting and sowing seasons, etc., in other words the Economic aspect.
+Examples of this theocracy and its organization can be found throughout
+ancient history, in America, and, as remnants of that past, in recent
+European history in the absolutist monarchies that derived their
+attributes and powers from divine law.
+
+Transformed theocratic impulses still persist In modern times, replacing
+divine right as justification for the absolute and all-encompassing
+character of the monarchical state with abstract concepts such as
+\"popular will\", \"sovereignty\", or other abject ones such as \"racial
+spirit\", just to mention a few. However, the function of the state
+today consists, in reality, only in guaranteeing legal equality among
+people: \"the equality of man before the law\". This aspect only emerged
+in the history of mankind when divine law was replaced by human law,
+legislated law, especially in the Roman Empire with the law that bears
+its name.
+
+It is only recently, with the birth of industrialization in the West,
+that the economic aspect or science has emerged as an independent sector
+within society, alongside the science of law. A reflection of all this
+evolution can be found in history since the 16th century, when man found
+the path to spiritual freedom in religious struggles. In the French
+Revolution he sought to secure his juridical equality as a citizen, and
+in the social struggles of the twentieth century he sought to define the
+character of human relations in economic life, struggles which have not
+yet ended, but which are not the subject of this paper.
+
+It should be understood that any of the factors that integrate the
+structures of an organized society should be at the service of humanity
+and not the latter being of service to them. Neither the structures that
+integrate the spiritual-cultural-educational element, nor the State nor
+the economy, exist by themselves, but only in function of human beings.
+The human being must be considered as such and not as a mere "citizen\"
+or \"producer\" or \"consumer\", because every human being participates
+at the same time in the three aspects of social life, and each of these
+is governed by the laws that are intrinsic to it.
+
+If the economic sector encroaches on the political state - whether
+through its lobbyists, influence in legislative bodies, justice, or in
+the administration - \"equality before the law\" will be violated to the
+benefit of economic interests. If economic interests invade the
+spiritual-cultural-educational sector, it will not consider the
+individual needs of the student, but will organize education according
+to its production needs, or it will control research, so it will *not*
+be at the service of the welfare and evolution of humanity, but of its
+own enrichment, which is the case today in all the so-called developed
+countries.
+
+The result is the plundering of natural resources through the
+application of scientific resources, the destruction of the ecological
+environment and, in short, the questioning of human survival.
+
+If the political sector is the one that invades the
+spiritual-cultural-educational sector, the latter will become an
+expression of the struggle for political and ideological power, or,
+indirectly, of economic power. Expressions such as \"Aryan culture\" (in
+National Socialism), \"popular culture\", \"national culture\", are
+manifestations of this invasion, which prevent the emergence of the only
+valid element: culture itself, without attachments, this being the free
+expression of the spiritual, cultural, artistic and educational
+faculties of each individual human being.
+
+From the latter results the only true requirement to educate: ability,
+which can only be offered by the community of educators, not by a
+ministry or a state secretariat or by any other sector of the political
+establishment.
+
+In the course of history it has been necessary for the political state
+to take responsibility for education in order to ensure that it is
+available to all. This goal has been achieved, and now it is time for
+the State to give education its freedom. The State is a political entity
+and has its political task, which is to ensure human and civil rights.
+Everyone has the right to education and the State must guarantee this
+right. However, the State should not control or administer education, a
+task that does not fall within its natural sphere and for which it is
+incompetent, a fact amply demonstrated by the situation of education in
+this country. There is a tendency to look to other countries as models;
+in the case of education this outward look does not serve us well. The
+sad fact is that education is in the hands of the State all over the
+world and world education suffers as a consequence. You may ask: if the
+state is not responsible for education, who is? The answer is so simple
+as to be obvious: those who educate. And these teachers and professors -
+are they in a position to take on this additional task? Perhaps not
+immediately, but at least more so than political bureaucrats. After all,
+it is they who daily teach children in schools, who best know the
+pedagogical and spiritual needs of children because they know them as
+real people and not as mere statistical abstractions.
+
+Ability also means knowledge of that to which it is directed, that is,
+the student\'s education. From objective observation and experience, the
+educator will extract knowledge of the learner\'s needs, the only
+parameter to determine the method and content of education, and not an
+"educational policy\", a term that in itself is contradictory and
+aberrant.
+
+From all of the above it is clear that in order for the
+cultural-spiritual activity to develop organically, an environment of
+total freedom from the state-political establishment and from the
+economic sector is required. The ideal situation would be for the
+teaching staff of each school to run its own institution without a
+director. However, if the teaching staff feels that a principal is
+necessary, it can choose one of its members to perform this function. In
+this way, teachers would grow with their task and would know what
+pedagogical methods to apply without being ordered by some minister of
+education. It also means, in the case of education, that it should be
+detached, administratively and even economically, from the State, and
+organized on the basis of self-management, as a totally independent
+sector. The self-management or self-government of the educational sector
+would be in the hands of those who \"know the subject\", those who are
+qualified, that is to say, *the educators*.
+
+Each school would form a community of educators, or, perhaps, a
+community of educators together with a community of parents, giving rise
+to the movement of a school that would determine the education to be
+imparted to the children attending it, without the interference of
+inspectors, ministries or any other entity belonging to the political
+state.
+
+It will be difficult to achieve educational freedom as long as the state
+controls finances. Therefore, it may be necessary to change economic
+procedure as well. Communal and provincial Autonomous Educational
+Commissions may be formed. These commissions, composed of
+representatives of the cultural and educational sector of society, will
+receive the funds earmarked for education in each locality and
+distribute it according to the needs of each school. Where will this
+money come from? Basically it is the same money generated by the
+country\'s productive labor that is now diverted through the State and
+would instead go directly to the Educational Commissions.
+
+Each community should participate directly in securing the financial
+means for education in its locality. This active participation would
+awaken the individual and collective creative forces of society. It is
+understood that the more economically powerful communities should share
+their resources with the less favored ones. This could be coordinated
+through regional educational commissions.
+
+It would be ideal that each educational institution be self-financed in
+accordance with the idea of fraternity in the economic aspect. Each
+parent or student should contribute whatever his situation allows him to
+contribute; each teacher would withdraw what his or her needs determine.
+In order to solve the economic needs of the schools, we suggest two
+possible measures:
+
+a\) Everything that the national, provincial or municipal budget
+provides for the maintenance of the educational system is automatically
+transferred to the autonomous educational sector, which, through its own
+administration, freely disposes of those resources, or
+
+b\) a voucher is issued for each school-age child, which would be
+delivered to the parents, who in turn would deliver such voucher to the
+school to which they freely wish to send their children. For its part,
+the school would exchange this voucher with the State for funds that the
+State receives through taxation.
+
+This system (a or b) could be applied to all public schools, which would
+be administered by the respective educators, totally detached from the
+sphere of the State. The current private schools could continue to
+exist, but state subsidies to them should gradually disappear in order
+to allow them a healthy autonomous development. This system of
+cultural-educational freedom should be applied to the three main levels
+of education and teaching, since it is the only one that guarantees the
+full development of the creative capacities of the individual, and with
+it the basis for the healthy evolution of the social organism of a
+nation, of a people.
+
+In our country \[Argentina\] there is already a precedent for partial
+detachment of educational bodies from governmental entities. This is the
+university system that allows universities - both state and private - to
+dictate their own statutes and govern themselves, without the
+intervention of public authorities. This regime has positive ingredients
+of spiritual freedom, since it is the university faculties that decide
+for themselves their contents and teaching-learning methods, without
+being imposed by government officials. But this freedom is only partial,
+since government agencies maintain their power to interfere in the
+educational activities of state universities, through control of the
+financial resources. The state universities depend for their development
+and progress on the national budget, so in this sense the negative
+influence of the political-state sphere and the economic sphere on
+spiritual life is evident.
+
+It should be emphasized that although the economic sphere is important,
+the essence of the reform is the liberation of education from the
+political state and economic interests alien to the integral development
+of the human being. Through true educational freedom, the spirit of the
+country can be transformed and a model can be presented to a world
+desperately in need of new paths.
+
+This paper was written (in Spanish) in 1987 for consideration by the
+Pedagogical Congress studying educational reform in Argentina.
+Obviously it was not taken into account. 
+
+[Español](http://southerncrossreview.org/144/educacion-libre.html)
+

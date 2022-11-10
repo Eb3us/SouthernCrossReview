@@ -1,0 +1,129 @@
+body {
+    background-color: #0a032b;
+}
+#top-bar {
+    background-color: #150816;
+    box-shadow: 0 1px 10px 4px #050010;
+}
+#top-bar,
+#top-bar-left-div {
+    color: ivory;
+}
+#logo-face {
+    background-image: url(/images/social/social-1_logo-facebook.svg);
+}
+#logo-twitter {
+    background-image: url(/images/social/social-1_logo-twitter.svg);
+}
+#logo-mail {
+    background-image: url(/images/social/mail-gray.png);
+}
+#light-dark-warning {
+    background-color: rgba(48, 0, 80, 0.9);
+    color: #ffdbb9;
+}
+header h1 {
+    color: #400040;
+    text-shadow: 1px 1px 5px #fff;
+}
+header h2 {
+    color: #f67e7d;
+    text-shadow: 1px 1px 3px #1020bf;
+}
+.nav-menu {
+    background-color: #150816;
+}
+.nav-menu div {
+    color: #ffb997;
+}
+.nav-menu div:hover {
+    color: #f07879;
+}
+.nav-menu li {
+    color: #000;
+}
+.nav-menu li:before {
+    color: #0a032b;
+}
+.nav-menu input:checked + label div {
+    background-color: #ffb997;
+    color: #0a032b;
+}
+.nav-menu input:checked + label li:hover {
+    color: #500050;
+}
+#subscribe {
+    background-color: #080109;
+    color: #ffdbb9;
+}
+#email-color {
+    color: #f06976
+}
+#double-check {
+    color: #f06976;
+}
+.subscribe-button {
+    background-color: #300050;
+    color: #ffdbb9;
+}
+.subscribe-button:hover {
+    background-color: #f67e7d;
+    color: #400040;
+}
+.subscribe-button:active {
+    background-color: #f06976;
+    border: 2px inset #a9a9a9;
+}
+.subscribe-alert {
+    background-color: #080109;
+    color: #ffdbb9;
+}
+.susbcribe-alert-close-btn:hover {
+    color: #f07879;
+}
+.article-style {
+    background-color: #300050;
+}
+#main-div h1 {
+    color: #ffb997;
+}
+#main-div h2, #main-div h3 {
+    color: #f06976;
+}
+#main-div p {
+    color: #ffdbb9;
+}
+#footer-fourth a,
+#footer-third a,
+.article-style a, #subscribe a {
+    color: #ffb997;
+}
+
+#footer-fourth a:hover,
+#footer-fourth a:visited,
+#footer-third a:hover,
+#footer-third a:visited,
+.article-style a:hover,
+.article-style a:visited,
+#subscribe a:hover,#subscribe a:visited {
+    color: #f06976;
+}
+
+footer {
+    background-color: #150816;
+    box-shadow: 0 3px 10px 4px #002;
+    color: #ffdbb9;
+}
+#footer-first h1 {
+    color: #150816;
+    text-shadow: 1px 1px 3px #f67e7d, -1px -1px 2px #ffdbb9;
+}
+#abnormal-name {
+    color: #ffb997;
+}
+@media (max-width: 1024px) {
+    #light-dark-warning {
+        background-color: rgba(48, 0, 80, 0.9);
+        box-shadow: inset 2px 2px 2px #100030, inset -2px -2px 2px #100030;
+    }
+}

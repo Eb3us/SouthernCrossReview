@@ -1,0 +1,163 @@
+body {
+	background-color: #fff9f2;
+	margin: 10vh 7vw;
+		font-size: 22px;
+	text-align: left;
+	font-family: "calibri";
+}
+
+h2 a:link {
+	color: #600030;
+	text-decoration: none;
+
+}
+h2 a:visited {
+	color: #400000;
+	text-decoration: none;
+}
+h2 a:hover {
+	color: #f030c0;
+	text-decoration: none;
+}
+h2 a:active {
+	color: #f09009;
+	text-decoration: none;
+}
+
+a:link {
+	color: #a000a0
+
+}
+a:visited {
+	color: #600050
+}
+a:hover {
+	color: #f030c0;
+}
+a:active {
+	color: #f09009;
+}
+h1 {
+	color: #600000;
+	text-align: center;
+	font-family: "comic sans ms";
+	font-size: 43px;
+	margin-top: 15px;
+	font-weight: normal;
+	text-shadow: 1px 1px 5px rgba(150, 0, 0, 0.4);
+}
+h3 {
+	color: #700000;
+	text-align: center;
+	font-family: "comic sans ms";
+	font-size: 30px;
+	margin-top: 15px;
+	font-weight: normal;
+}
+h2 {
+	color: #000000;
+	text-align: center;
+	font-family: "calibri";
+	font-size: 25px;
+	font-style: italic;
+	font-weight:bold;
+	margin-bottom: 50px;
+	text-shadow: 1px 1px 5px rgba(0, 90, 0, 0.4);
+
+}
+h4 {
+	color: #000000;
+	font-size: 23px;
+	text-decoration: underline dotted red;
+	font-weight: bold;
+	font-family: carlito, calibri;
+
+}
+p.intro::first-letter {
+    color: #800000;
+    font-size:120%;
+			font-weight: bold;
+	}
+.indent {
+	text-indent: 50px;
+}
+.quote {
+	margin-left: 3vw;
+	margin-right: 3vw;
+	font-style: italic;
+}
+footer {
+	font-style: italic;
+		}
+footer a {
+	font-style: normal;
+}
+.poem {
+	line-height:50%;
+	text-indent	: 10vw;
+	margin-top: 10vh;
+	margin-bottom: 10vh;
+}
+img.a {
+	border-radius: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	max-width: 35vw;
+	max-height: 60vh;
+	min-width: 20vw;
+	min-height: 20vw;
+	height: auto;
+}
+img.alarge {
+	border-radius: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	max-width: 40vw;
+	max-height: 80vh;
+	min-width: 30vw;
+	min-height: 20vw;
+	height: auto;
+}
+img.center {
+	border-radius: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.polaroid {
+  display: block;
+  float: left;
+  width: 15vw;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 10px;
+  margin-right: 15px;
+}
+
+div.container {
+  text-align: center;
+  padding: 2% 2%;
+
+}
+hr {
+	width: 65%;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+#divmbl1 {
+	display: none;
+}
+#divmbl2 {
+	display: none;
+	}
+.figfloatR {
+	width: 45%;
+	float:right;
+	margin:0;
+	margin-left:1em;
+	font-size:smaller;
+}

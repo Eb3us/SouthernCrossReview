@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+
+body {
+	background-color: ivory;
+	margin: 10vh 12vw;
+	font-size: 22px;
+	text-align: left;
+	font-weight: 300;
+}
+
+.titleBar {
+    text-shadow: 2px 4px 18px  #443366,-2px -4px 10px #443366;	
+    font-family: 'Potta One', cursive;
+    font-size: 5vw;
+}
+

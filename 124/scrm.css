@@ -1,0 +1,100 @@
+body {
+	background-color: #fff9f2;
+	margin: 10% 7%;
+	font-size: 4.5vw;
+	text-align: left;
+	font-family: "calibri";
+}
+
+a:link {
+	color: #a000a0
+}
+a:visited {
+	color: #600050
+}
+a:hover {
+	color: #f030c0;
+}
+a:active {
+	color: #f09009;
+}
+.header {
+	color: #800000;
+	text-align: center;
+	font-family: "comic sans ms";
+	font-size: 8vw;
+	margin-top: 2vw;
+	font-weight: normal;
+	text-shadow: 1px 1px 5px rgba(150, 0, 0, 0.4);
+}
+.header-small {
+	color: #700000;
+	text-align: center;
+	font-family: "comic sans ms";
+	font-size: 5vw;
+	margin-top: 3vw;
+	font-weight: bold;
+}
+.author {
+	color: #000000;
+	text-align: center;
+	font-family: "calibri";
+	font-size: 6vw;
+	font-style: italic;
+	font-weight:bold;
+	margin-bottom: 4vw;
+	text-shadow: 1px 1px 5px rgba(0, 90, 0, 0.4);
+
+}
+.header2 {
+	color: #000000;
+	font-size: 5vw;
+	text-decoration: underline dotted red;
+	font-weight: bold;
+	font-family: carlito, calibri;
+
+}
+p.intro::first-letter {
+    color: #800000;
+    font-size:110%;
+	font-weight: bold;
+}
+.indent {
+	text-indent: 50px;
+}
+.footnote {
+	font-style: italic;
+		}
+.footnote a {
+	font-style: normal;
+}
+.poem {
+		margin: 10vw;
+}
+img.a, img.alarge{
+	border-radius: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	max-width: 99%;
+	max-height: 150vh;
+	min-width: 50vw;
+	min-height: 50vw;
+}
+
+div.polaroid {
+  display: block;
+  float: left;
+	width: 30vw;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-bottom: 1.1vh;
+	margin-right: 2vw;
+}
+
+div.container {
+	text-align: center;
+
+}
+hr {width: 65%}

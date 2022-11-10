@@ -1,0 +1,449 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Dancing+Script:wght@500;700&family=Permanent+Marker&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+html {
+    overflow-y: hidden;
+}
+body {
+    font-family: Roboto, sans-serif;
+}
+.intro-screen-wrapper {
+    background-color: #000009;
+    height: 100vh;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    transition: opacity 1s;
+    width: 100vw;
+    z-index: 2;
+}
+.fade-out {
+    opacity: 0;
+}
+.intro-screen-outer-div {
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    width: 100vw;
+    z-index: 2;
+}
+.intro-screen-column-1,
+.intro-screen-column-2 {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    width: 50vw;
+}
+.intro-screen-column-1 div,
+.intro-screen-column-2 div {
+    height: 50%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+.c1-d1 img {
+    -webkit-animation: stars 1.5s ease-out infinite;
+    animation: stars 1.5s ease-out infinite;
+    bottom: 2.5em;
+    filter: hue-rotate(310deg);
+    position: absolute;
+    right: -1.5em;
+    width: 16em;
+}
+.c1-d2 img {
+    -webkit-animation: stars 1.5s ease-out 0.4s infinite;
+    animation: stars 1.5s ease-out 0.4s infinite;
+    right: 1em;
+    top: -2em;
+    width: 13em;
+}
+.big-star,
+.c1-d2 img {
+    filter: hue-rotate(180deg);
+    position: absolute;
+}
+.big-star {
+    -webkit-animation: stars 1.5s ease-in-out 1.2s infinite;
+    animation: stars 1.5s ease-in-out 1.2s infinite;
+    bottom: 2.5em;
+    left: 0;
+    width: 12em;
+}
+.small-star {
+    -webkit-animation: stars 1.5s ease-out 1.7s infinite;
+    animation: stars 1.5s ease-out 1.7s infinite;
+    bottom: -3em;
+    filter: hue-rotate(70deg);
+    left: 1em;
+    position: absolute;
+    width: 9em;
+}
+.c2-d2 img {
+    -webkit-animation: stars 1.5s ease-out 1s infinite;
+    animation: stars 1.5s ease-out 1s infinite;
+    filter: hue-rotate(180deg);
+    left: 3em;
+    position: absolute;
+    top: 7em;
+    width: 13em;
+}
+.intro-screen-title {
+    position: absolute;
+    text-align: center;
+}
+.intro-screen-title h1 {
+    color: #0a032b;
+    font-family: Potta One;
+    font-size: 3em;
+    text-shadow: 0 0 5px #fff;
+}
+.intro-screen-title h2 {
+    -webkit-animation: stars 1.5s ease-in infinite;
+    animation: stars 1.5s ease-in infinite;
+    color: #ffb997;
+    font-family: Dancing Script;
+    font-size: 2em;
+    margin-left: 1em;
+}
+#top-bar {
+    display: flex;
+    justify-content: space-between;
+    left: 0;
+    padding: 0.5em 0 0.5em 0.5em;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+#top-bar-left-div {
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
+#top-bar-title {
+    align-items: center;
+    font-family: Potta One, cursive;
+}
+#date-and-issue {
+    align-items: center;
+    display: flex;
+}
+#top-bar-right-div {
+    display: flex;
+    justify-content: flex-end;
+}
+#search-bar {
+    background-color: #d3d3d3;
+    border-radius: 6px;
+    height: 1.75em;
+}
+#share-icons {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-evenly;
+}
+#share-icons a {
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#logo-face:hover {
+    background-image: url(/images/social/social-1_logo-facebook-white.svg);
+}
+#logo-twitter:hover {
+    background-image: url(/images/social/social-1_logo-twitter-white.svg);
+}
+#logo-mail:hover {
+    background-image: url(/images/social/mail-white.png);
+}
+#light_dark,
+#light_dark div {
+    display: flex;
+    justify-content: space-evenly;
+}
+#light_dark div,
+#light_dark img {
+    cursor: pointer;
+}
+#light-dark-warning {
+    -webkit-animation: scroll 10s ease-out;
+    animation: scroll 10s ease-out;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+    border-radius: 0 0 8px 8px;
+    position: fixed;
+}
+#light-dark-warning p {
+    cursor: default;
+}
+header {
+    background-image: url(/images/transparent-banner.png);
+    background-repeat: no-repeat;
+}
+header h1 {
+    font-family: Potta One, cursive;
+}
+header h2 {
+    font-family: Dancing Script, cursive;
+}
+#main-wrapper {
+    display: flex;
+}
+.nav-menu div {
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Architects Daughter, sans-serif;
+    font-weight: 700;
+    height: auto;
+    margin: 0.6em 0;
+    max-height: 1.7em;
+    overflow: hidden;
+    text-align: center;
+    transition: max-height 0.8s ease-out, background-color 0.8s ease-out, color 0.4s ease-out;
+    white-space: nowrap;
+}
+.nav-menu p {
+    margin: 0;
+}
+.nav-menu ul {
+    list-style: none;
+    margin: 0.35em 0 0.5em;
+    white-space: normal;
+    font-family: 'Roboto', sans-serif;
+}
+.nav-menu li {
+    font-size: 55%;
+    font-weight: 400;
+    margin-right: 1em;
+    opacity: 0;
+    text-align: left;
+    text-decoration: none;
+}
+.nav-menu li:before {
+    content: "\2022";
+    display: inline-block;
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-left: -1.5em;
+    width: 0.5em;
+}
+.nav-hidden-inputs {
+    display: none;
+}
+.nav-menu input:checked + label div {
+    border-radius: 10px;
+    max-height: 7em;
+}
+.nav-menu input:checked + label li {
+    opacity: 1;
+}
+#subscribe {
+    margin-top: 0.8em;
+    overflow: hidden;
+    padding: 1em;
+}
+#subscribe input {
+    max-width: 90%;
+}
+.subscribe-button {
+    border: none;
+    border-radius: 45%;
+    cursor: pointer;
+    font-family: Architects Daughter;
+    font-size: 110%;
+    font-weight: 700;
+    margin-top: 1em;
+    outline: none;
+    padding: 0.8em;
+}
+.subscribe-alert {
+    font-family: Architects Daughter, cursive;
+    margin-top: 0.8em;
+    padding: 1.5em;
+    text-align: center;
+}
+.susbcribe-alert-close-btn {
+    cursor: pointer;
+    float: right;
+    font-size: 1em;
+    margin-right: -1em;
+    margin-top: -1em;
+    padding: 0;
+    position: relative;
+    right: 10px;
+    top: 10px;
+}
+#main-div {
+    margin: 0;
+    overflow: hidden;
+}
+#main-div h1 {
+    font-family: Architects Daughter;
+    font-size: 2em;
+    margin-top: 0;
+    text-align: center;
+
+}
+#main-div h2 {
+    font-style: italic;
+    text-align: center;
+    margin-top: 0.3em;
+    margin-bottom: 0;
+}
+#main-div h2,
+#main-div h3 {
+    font-family: Architects Daughter, cursive;
+}
+.article-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main-div p {
+    text-align: justify;
+}
+#pic-nav-menu {
+    justify-content: space-evenly;
+}
+#pic-nav-menu,
+#pic-nav-menu a {
+    align-items: center;
+    display: flex;
+}
+#pic-nav-menu a {
+    border-radius: 49%;
+    cursor: pointer;
+    font-family: Architects Daughter;
+    font-weight: 700;
+    justify-content: center;
+    margin-top: 1em;
+    text-align: center;
+    text-decoration: none;
+}
+#pic-nav-menu a:hover {
+    text-decoration: underline;
+}
+#pic-nav-archive {
+    background: url(/images/ebooks-donkey2.jpg) -10px -13.5px;
+    font-size: 1.8em;
+    height: 130px;
+    width: 20%;
+}
+#pic-nav-letters {
+    background: url(/images/goya-letter2.jpg) -2em -3em;
+    font-size: 1.5em;
+}
+#pic-nav-ebooks {
+    background-image: url(/images/scr-nr1.jpg);
+    background-size: cover;
+    font-size: 1.8em;
+    height: 130px;
+}
+footer {
+    display: flex;
+    margin: 0;
+    overflow: hidden;
+}
+#footer-first h1 {
+    font-family: Potta One;
+    font-size: 1.6em;
+    text-align: center;
+}
+#footer-first p {
+    font-family: Dancing Script;
+    font-size: 1.7em;
+    text-align: center;
+}
+#footer-second {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 70%;
+    padding-top: 0;
+}
+#footer-second p {
+    font-family: sans-serif;
+    font-size: 110%;
+    font-style: italic;
+}
+#footer-second img {
+    border-radius: 20%;
+    width: 95%;
+}
+#footer-fourth {
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    padding: 0;
+    position: relative;
+}
+#logo {
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+    left: 20em;
+    position: absolute;
+    top: 1em;
+}
+.logo-animation {
+    -webkit-animation: rotate-in 1s ease-out, color 0.5s ease-in-out 3.3s;
+    animation: rotate-in 1s ease-out, color 0.5s ease-in-out 3.3s;
+}
+#abnormal-name {
+    display: block;
+    font-family: Permanent Marker;
+    font-size: 1.8em;
+    line-height: 80%;
+    margin-bottom: 0;
+    margin-top: 8px;
+}
+@-webkit-keyframes rotate-in {
+    0% {
+        left: 20em;
+        transform: rotate(-1turn);
+    }
+    to {
+        left: 0;
+        transform: rotate(0deg);
+    }
+}
+@keyframes rotate-in {
+    0% {
+        left: 20em;
+        transform: rotate(-1turn);
+    }
+    to {
+        left: 0;
+        transform: rotate(0deg);
+    }
+}
+@-webkit-keyframes stars {
+    0% {
+        opacity: 0;
+    }
+    35% {
+        opacity: 1;
+    }
+    65% {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+@keyframes stars {
+    0% {
+        opacity: 0;
+    }
+    35% {
+        opacity: 1;
+    }
+    65% {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}

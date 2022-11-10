@@ -1,0 +1,134 @@
+body {
+	background-color: #fff9f2;
+	margin: 10% 7%;
+	font-size: 3.8vw;
+	text-align: left;
+	font-weight: 400;
+}
+
+a:link {
+	color: #a000a0
+}
+a:visited {
+	color: #600050
+}
+a:hover {
+	color: #f030c0;
+}
+a:active {
+	color: #f09009;
+}
+h1 {
+	color: #800020;
+	text-align: center;
+	font-size: 9vw;
+	margin-top: 2vw;
+	font-weight: normal;
+	text-shadow: 1px 1px 5px rgba(150, 0, 0, 0.4);
+}
+h3 {
+	color: #700020;
+	text-align: center;
+	font-size: 5.5vw;
+	margin-top: 3vw;
+	font-weight: bold;
+}
+h2 {
+	color: #000000;
+	text-align: center;
+	font-size: 6vw;
+	font-weight:400;
+	margin-bottom: 4vw;
+	text-shadow: 1px 1px 5px rgba(0, 90, 0, 0.4);
+
+}
+h4 {
+	color: #000000;
+	font-size: 5vw;
+	text-decoration: underline dotted red;
+	font-weight: bold;
+	font-family: carlito, calibri;
+
+}
+p.intro::first-letter {
+    color: #800000;
+    font-size:110%;
+	font-weight: bold;
+}
+.indent {
+	text-indent: 50px;
+}
+footer {
+	font-style: italic;
+		}
+footer a {
+	font-style: normal;
+}
+.poem {
+		margin: 10vw;
+}
+.quote {
+	margin-left: 6vw;
+	margin-right: 2vw;
+	font-style: italic;
+}
+img.a, img.alarge{
+	border-radius: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	max-width: 99%;
+	max-height: 150vh;
+	min-width: 50vw;
+	min-height: 50vw;
+}
+img.center {
+	border-radius: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.polaroid {
+  display: block;
+  float: left;
+	width: 30vw;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-bottom: 1vh;
+	margin-right: 3vw;
+	line-height: 10px;
+	font-size: 3vw;
+}
+
+div.container {
+	text-align: center;
+
+}
+hr {
+	width: 65%;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+#divdes1 {
+	display: none;
+}
+#divdes2 {
+	display: none;
+}
+.figfloatR {
+	font-size: smaller;
+	margin-bottom: 2em;}
+
+figure {
+	text-align: center;
+	color: #400000;
+	margin-top: 0;
+	font-style: italic;
+}
+figure .alarge {
+	margin-bottom: 10px;
+}
+figure .a {
+	margin-bottom: 10px;
+}

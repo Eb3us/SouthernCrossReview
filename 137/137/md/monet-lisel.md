@@ -1,0 +1,68 @@
+# Monet Refuses the Operation
+  
+![Street Lights in Paris by Claude Monet](street-scene.jpg){class="a"}
+  
+## by Lisel Mueller
+  
+Doctor, you say there are no haloes  
+around the streetlights in Paris  
+and what I see is an aberration  
+caused by old age, an affliction.  
+I tell you it has taken me all my life  
+to arrive at the vision of gas lamps as angels,  
+to soften and blur and finally banish  
+the edges you regret I don\'t see,  
+to learn that the line I called the horizon  
+does not exist and sky and water,  
+so long apart, are the same state of being.  
+Fifty-four years before I could see  
+Rouen cathedral is built  
+of parallel shafts of sun,  
+and now you want to restore  
+my youthful errors: fixed  
+notions of top and bottom,  
+the illusion of three-dimensional space,  
+wisteria separate  
+from the bridge it covers.  
+What can I say to convince you  
+the Houses of Parliament dissolve  
+night after night to become  
+the fluid dream of the Thames?  
+I will not return to a universe  
+of objects that don\'t know each other,  
+as if islands were not the lost children  
+of one great continent. The world  
+is flux, and light becomes what it touches,  
+becomes water, lilies on water,  
+above and below water,  
+becomes lilac and mauve and yellow  
+and white and cerulean lamps,  
+small fists passing sunlight  
+so quickly to one another  
+that it would take long, streaming hair  
+inside my brush to catch it.  
+To paint the speed of light!  
+Our weighted shapes, these verticals,  
+burn to mix with air  
+and change our bones, skin, clothes  
+to gases. Doctor,  
+if only you could see  
+how heaven pulls earth into its arms  
+and how infinitely the heart expands  
+to claim this world, blue vapor without end.
+  
+**Lisel Mueller** (born **Elisabeth Neumann**, February 8, 1924 --
+February 21, 2020) was a German-born American poet, translator and
+academic teacher. Her family fled the Nazi regime, and she arrived in
+the U.S. in 1939 at the age of 15. She worked as a literary critic and
+taught at the [University of
+Chicago](https://en.wikipedia.org/wiki/University_of_Chicago), [Elmhurst
+](https://en.wikipedia.org/wiki/Elmhurst_College)[College](https://en.wikipedia.org/wiki/Elmhurst_College)
+and [Goddard College](https://en.wikipedia.org/wiki/Goddard_College).
+She began writing poetry in the 1950s and published her first collection
+in 1965, after years of self-study. She received awards including the
+[National Book Award](https://en.wikipedia.org/wiki/National_Book_Award)
+in 1981 and the [Pulitzer
+Prize](https://en.wikipedia.org/wiki/Pulitzer_Prize) for Poetry in 1997,
+as the only German-born poet awarded that prize
+\-\-\--
