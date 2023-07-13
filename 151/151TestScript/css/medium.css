@@ -1,0 +1,182 @@
+body {
+    margin: 0;
+}
+.intro-screen-title {
+    left: 42%;
+    top: 35%;
+}
+#top-bar-title {
+    font-size: 120%;
+    margin-right: 1em;
+}
+#date-and-issue {
+    font-size: 70%;
+}
+#top-bar-right-div {
+    padding-right: 1em;
+    width: 100%;
+}
+#search-bar {
+    margin: 1px 0;
+    width: 13vw;
+}
+#share-icons {
+    margin-left: 3px;
+    width: 18vw;
+}
+#logo-face,
+#logo-mail,
+#logo-twitter {
+    width: 1.9em;
+}
+#logo-mail {
+    margin-top: 0.25em;
+}
+#light_dark {
+    align-items: center;
+    font-size: 70%;
+}
+#light_dark div {
+    justify-content: space-evenly;
+}
+#light_dark img {
+    width: 50%;
+}
+#light-dark-warning {
+    font-size: 1.2vw;
+    padding: 5.5em 0.5em 0;
+    right: 0;
+    width: 10vw;
+}
+header {
+    background-position: 100%;
+    background-size: contain;
+    margin-top: 2em;
+    padding: 0.5em 0.5em 0.5em 3.5em;
+}
+header h1 {
+    font-size: 3em;
+}
+#title-break-2 {
+    display: none;
+}
+header h2 {
+    font-size: 2.2em;
+    font-weight: 700;
+    width: 100%;
+}
+#nav-col {
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    margin: 1%;
+    order: 2;
+    width: 27%;
+}
+.nav-menu {
+    padding: 0.2em;
+    white-space: nowrap;
+}
+.nav-menu div {
+    font-size: 130%;
+}
+.subscribe-button:active {
+    font-size: 70%;
+    margin-bottom: 3px;
+}
+.subscribe-alert {
+    font-size: 0.8em;
+}
+main {
+    margin: 1% 0 1% 2%;
+    width: 80%;
+}
+#main-div {
+    padding: 0.5em 1em 1.5em 2em;
+}
+#main-div h1 {
+    font-size: 1.8em;
+    margin-bottom: 0.6em;
+}
+#main-div h2 {
+    font-size: 2.5em;
+    line-height: 99%;
+    margin-bottom:1.2em;
+}
+#main-div h3 {
+    line-height: 99%;
+    font-size: 1.8em;
+    text-align:center;
+    margin-top: -1em;
+}
+.article-img {
+    border-radius: 5px;
+    float: left;
+    margin-bottom: 0.5em;
+    margin-right: 1em;
+    max-width: 55%;
+}
+#main-div p {
+    margin-left: 2em;
+    margin-right: 2em;
+}
+#pic-nav-archive {
+    width: 25%;
+}
+#pic-nav-letters {
+    font-size: 1.5em;
+    height: 160px;
+    width: 23%;
+}
+#pic-nav-ebooks {
+    width: 25%;
+}
+
+footer {
+    flex-direction: column;
+    padding: 0.5em;
+    width: 100%;
+}
+footer [data-footer-div] {
+    padding: 1em 2em 1em 1em;
+    width: 50%;
+}
+#footer-left,
+#footer-right {
+    display: flex;
+    width: 100%;
+}
+#footer-fourth {
+    padding-left: 2em;
+}
+.desktop-hide {
+    display: none;
+}
+@-webkit-keyframes scroll {
+    0% {
+        top: -10rem;
+    }
+    12% {
+        top: 2rem;
+    }
+    65% {
+        top: 2rem;
+    }
+    to {
+        top: -10rem;
+    }
+}
+@keyframes scroll {
+    0% {
+        top: -10rem;
+    }
+    12% {
+        top: 2rem;
+    }
+    65% {
+        top: 2rem;
+    }
+    to {
+        top: -10rem;
+    }
+}
