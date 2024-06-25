@@ -1,0 +1,423 @@
+# WAS DARWIN WRONG?
+
+![Darwin](darwin-1.png)
+
+### Yes — His Logic was Fatally Flawed
+
+## by Don Cruse
+
+A ‘quantum’ revolution has taken place in the science of physics, we see
+it written about and discussed everywhere today. It is the focus of many
+popular works, like Gary Zukav’s The Dancing Wu Li Masters, and Amit
+Goswami’s The Self-Aware Universe, to name only two. Zukav summed up
+what has changed in these words:
+
+“Today, particle accelerators, bubble chambers, and computer printouts
+are giving birth to another world view. This worldview is as different
+from the worldview at the beginning of this \[20th\] century as the
+Copernican worldview was from its predecessors. It calls upon us to
+relinquish many of our close-clutched ideas. In this world view there is
+no \[physical\] substance.”
+
+Zukav also cites Heisenberg’s comments on how difficult it really is for
+us to relinquish old ideas:
+
+“….when new groups of phenomena compel changes in the pattern of
+thought…even the most eminent of physicists find immense difficulties.
+For the demand for change in the thought pattern may engender the
+feeling that the ground is to be pulled from under one’s feet… I believe
+that the difficulties at this point can hardly be overestimated. Once
+one has experienced the desperation with which clever and conciliatory
+men of science react to demand for a change in the thought pattern, one
+can only be amazed that such revolutions in science have actually been
+possible at all.”
+
+Interesting yes, but what has this to do with Darwinism? The quantum
+revolution has largely been limited to physics, and even though it now
+claims, as was stated by Sir Arthur Eddington, that “The stuff of the
+world is mind-stuff” and that ‘Consciousness’ lies at the root of all
+physical phenomena, this has done little to influence biology. The
+Darwinian and neo-Darwinian theories still insist that Consciousness
+plays no role whatever in shaping the organic world, which it has long
+argued is primarily the product of chance. My task here will be to
+suggest that a similar revolution is overdue in biology, and that when
+it comes it will not challenge evolution itself, but will throw very
+serious doubt on Darwin’s account of how it all happened; it will not be
+a religious argument.
+
+To begin with it must be admitted that Darwinism is a nineteenth century
+worldview, and that while twentieth century discoveries in the realm of
+DNA have seemed, on the surface at least, to support that worldview,
+they are themselves gradually becoming suspect for their adherence to
+the “central dogma of genetics.” Which is "the view that an organism's
+genome — its total complement of DNA — should fully account for its
+characteristic assemblage of inherited traits." This dogma was strongly
+argued against by the octogenarian scientist Barry Commoner in the
+article *Unravelling the Myth of DNA*, published in Harper’s Magazine in
+Feb 2002. He writes:
+
+“Why, then, has the central dogma continued to stand? To some degree the
+theory has been protected from criticism by a device more common to
+religion than science: dissent, or merely the discovery of a discordant
+fact, is a punishable offence, a heresy that might easily lead to
+professional ostracism. Much of this bias can be attributed to
+institutional inertia, a failure of rigor, but there are other, more
+insidious, reasons why molecular geneticists might be satisfied with the
+status quo; the central dogma has given them such a satisfying,
+seductively simplistic explanation of heredity that it seemed
+sacrilegious to entertain doubts. The central dogma was simply too good
+not to be true”
+
+The same thing may be said of the Darwinian theory. It is held in place
+by a kind of scientific lethargy, by the “seductive simplicity” of its
+proffered solution, and by an all but complete failure to think through
+the theory’s inner logic, as I will now demonstrate.
+
+#### Substance
+
+Darwinism is the principal survivor today of the old ‘mechanistic’ world
+view that we associate with Newtonian physics, that which was displaced
+first by Albert Einstein’s relativity theory, and then even more
+completely by the quantum revolution. So we may legitimately ask, why
+does it still survive in biology? In Darwin’s worldview there still is
+physical ‘substance.’ In fact apart from chance that is all that there
+is in the theory, and words, of course, lots and lots of words — wherein
+lies the cause of his many errors in logic. It is not whether or not
+evolution has occurred that is open to question, the evidence for that
+is indeed overwhelming, but Darwin’s explanation of how it all happened
+is quite another matter; here there are unresolved rational issues of
+such profundity that the reputation of modern science is called into
+serous disrepute by it, and it all started with one close-clutched idea,
+with the single word "mechanism”.
+
+#### Mechanism
+
+Etymologically speaking, the word ‘mechanism’ has a long history, going
+back into the ancient Greek. Today it is normally used to describe some
+contrivance or device created by human ingenuity to perform a specific
+function or purpose. How well it performs that function depends upon how
+well it was designed; a poorly designed machine will either not do what
+is expected of it, or it will quickly breakdown, i.e. physically fail.
+The word ‘design’ in normal usage, therefore, includes the concept of a
+‘purpose’ that the design was intended to fill; all of which tells us
+that the word ‘mechanism’ denotes a human idea.
+
+The first to attribute the idea of ‘mechanism’ to nature itself was the
+French philosopher Rene Descartes (1596-1650), who postulated that the
+created world evidenced a top-down split between two principles, the
+upper part being Mind, or God, and the lower part being body, or
+mechanism; the upper part being responsible for ‘designing’ and creating
+the lower part. For a while this concept prevailed, and natural
+philosophy at the time of Newton and beyond was unabashedly religious
+and mechanistic. Gradually however, the top part of Descartes’ equation
+weakened and eventually, with the coming of the Darwinian theory, it
+vanished altogether. God the Designer, it was claimed, was now an
+“unnecessary hypothesis”. Even for Darwin himself, however, disposing of
+God was a very slow process. In an early (1845) version of his theory,
+the activity of Natural Selection was attributed to the work of a “great
+being”, but by 1859 the great being had disappeared and Natural
+Selection went on to do its work alone. Some have speculated that the
+death of his twelve-year-old favourite daughter, Annie, had turned
+Darwin against God, but doubtless he had also come to understand that
+science did not want a ‘great being’ in its theory. It wanted instead to
+completely free itself of religion, which is what has since happened —
+but at considerable cost to the idea of there being a higher than
+individual purpose to human existence.
+
+The absence of a Designer, however, created a logical dilemma that
+worried Darwin, and he dealt with it in this short passage from Origins:
+
+“In the literal sense of the word, no doubt, Natural Selection is a
+false term; but who ever objected to chemists speaking of the elective
+affinities of the various elements? – and yet an acid cannot strictly be
+said to elect the base with which it in preference combines. . . .
+Everyone knows what is meant and is implied by such metaphorical
+expressions; and they are almost necessary for brevity.” (1876 ed., 66)
+
+However, the chemists that Darwin refers to, were not using metaphor in
+an attempt to dislodge the Designer God from nature, and so to deny the
+existence of divine Ideas in nature. Quite the opposite in fact. They
+still believed in a Designer God, so for them no problem in causal logic
+was created, such as what had arisen for Darwin himself, although he
+barely noticed it. It is indeed subtle, yet a more total contradiction
+will not be found in all of logic. Having excused himself in this way
+however, he does not revisit the problem, but feels free to ignore it.
+He then goes on to make copious use of such language throughout his
+theory, as the following passage demonstrates:
+
+“It may be metaphorically said that Natural Selection is daily and
+hourly scrutinizing, throughout the world, the slightest variations;
+rejecting those that are bad, and adding up all that are good; silently
+and insensibly working whenever and wherever opportunity offers, at the
+improvement of each organic being.” (1876 ed., 68-69)
+
+Here he warns us in advance that he is using metaphor, but this does not
+change the logical dilemma that the use of such language inevitably
+creates. And this same language is scattered throughout his theory, so
+much so that Stanley Edgar Hyman, in his book The Tangled Bank, writes:
+
+“Darwin starts by insisting that nature is not a goddess but a metaphor.
+As soon as he begins to talk about nature, however, she is transformed
+into a female divinity with consciousness and will.”
+
+Henry Gee, Senior Editor for the science periodical Nature, in an
+article on “concepts” in the December 2002 issue(Vol. 420, p 611),
+argued that any concept of ‘progress’ used in relation to Darwinian
+evolution must be viewed as invalid, because a theory based upon chance
+simply does not support that concept. He tells us that the irrational
+concept of evolutionary progress exists widely, even among scientists,
+which he attributes to a romanticism that lies deeply rooted in nature
+philosophy, adding: “Perhaps there is a Nature Philosopher in all of
+us.” Undoubtedly he is right, but he was concentrating only on the
+conflict between the concept of chance and the idea of progress, of
+evolutionary “improvement” — what about all the rest of Darwin’s
+metaphors?
+
+This is the problem that I wish to draw attention to here, because
+eventually the entire validity of Darwin’s theory must hang upon it.
+Since his day, proponents of his theory have made the same frequent use
+of metaphor, of what is termed ‘intentional’ or ‘volitional’ language;
+language that suggests the workings in nature of a human-like
+consciousness. Writers like Stephen J. Gould, Daniel Dennett and Richard
+Dawkins argue that this is merely a ‘convention’ established by Darwin
+himself and so fully acceptable in science. Dennett goes even further in
+his book The Intentional Stance; he claims that Darwinists only use this
+language “as if” it were true, while knowing all the time that it is
+not. What would we think of a logician who claimed that in defending
+thesis ‘A’ (scientific materialism) he is justified in using the
+principal arguments from its antithesis ‘B’ (spiritual and mental
+causes) because otherwise he cannot prove the truth of ‘A’? I suspect we
+would want to send him back to school in a hurry to study basic logic.
+But this is only the beginning of the problem.
+
+#### Mechanical Breakdown
+
+There are two ways in which a failure may occur in nature, one involves
+the cessation of a physical process, as when a chemical reaction reaches
+completion, or a stream dries up, or a star passes through the many
+stages in the cycle of its existence. This is the kind of ‘failure’ that
+we expect to find in physics, in the inorganic realm, and it is fully
+explainable in terms of the workings of ‘natural law’.
+
+In biology, however, we are confronted with a different kind of failure;
+that of an organism which sickens or dies or otherwise malfunctions. The
+concept of physical cessation cannot explain this, except marginally in
+cases of starvation, but even there it leads to a breakdown in the
+organism’s functioning parts, like hearts, brains or lungs. Illness and
+death then are failures of quite a different sort. They are of the kind
+that we normally associate with the breakdown of a mechanism. But you
+will recall that ‘mechanism’ is a human idea involving a human designer,
+and that Descartes was only able to attribute this idea to nature
+because he had included God the Designer in his plan. When science took
+God out of the equation, as was the case in the final version of
+Darwin’s theory, then all of the language of design ought to have gone
+out with Him. It did not, because without it the Darwinian theory just
+could not be seen to work. Instead we enshrined the word ‘mechanism’ as
+a dictionary definition of scientific materialism, and continued on as
+if there was nothing wrong with what we were doing; but there was, and
+very much so.
+
+Cornell University Professor William Provine puts the resulting thought
+pattern this way:
+
+Modern science directly implies that the world is organized in
+accordance with mechanistic principles. There are no purposive
+principles whatever in nature. There are no gods and no designing forces
+that are rationally detectable.
+
+The problem here, of course, is that “mechanistic principles” are the
+principles that govern the construction of purposeful machines, and so
+they are inseparable in our minds both from the ‘idea’ of a machine, and
+from the concept of ‘purpose’. And to suggest that they exist in the
+natural world without either ‘purpose’ or ‘Ideas,’ just makes no
+rational sense, our minds are just being played with. Such principles
+could only meaningfully exist in nature in conjunction with both
+purposes and Ideas, but the Darwinian theory needs us not to notice
+this. It needs both functionality and purpose in nature, but it needs
+them, as it were, in disguise, because it cannot admit that nature
+contains real ‘purposes’ and real ‘Ideas.’ For then the question will
+arise, whose ideas? Not human ideas to be sure, we did not create the
+natural world, but the fact that the theory makes use of human ideas in
+order to appear even credible begins to look very suspicious indeed. It
+appears that we have made use of the word ‘mechanism,’ and of almost the
+entire sub-set of intentional words in language, to unconsciously
+smuggle human ideas into nature in place of the divine Ideas that we
+want to get rid of, because without ideas of some sort nature at the
+organic level just cannot be made to either function or fail. But it
+does function and fail, which means that the idea of ‘mechanism,’ or its
+organic and purposeful equivalent, must actually be present in nature.
+There is no way around it, the word or idea ‘mechanism’ will not help,
+except marginally perhaps in our own minds. It has to be there in
+nature, and it cannot be there without purposes and Ideas. Just as
+without a Consciousness present in nature itself there can be no
+legitimate use of words like ‘selection.’ Putting the word ‘natural’ in
+front of ‘selection’ in no way alters this, the word still retains its
+intentional meaning and the theory needs it to retain it, but it cannot
+admit this or it would all be over.
+
+In this light, consider the following widely circulated comparison,
+attributed to A.G. Cairns-Smith, which I think everyone will agree makes
+apples and oranges look like child’s play:
+
+A machine is explained in terms of physics and chemistry plus (at least)
+an engineer.
+
+An organism is explained in terms of physics and chemistry plus (at
+least) evolution through natural selection.
+
+The purpose of this comparison seems to be to equate a human engineer
+with Natural Selection, and thereby to transfer to nature, in the mind
+of the reader at least, the creative ideas of an engineer. In this way a
+supposedly mindless nature, thought of as being void of all Ideas of its
+own, is illegitimately given the mind and ideas of a trained engineer—a
+transfer that completely negates the comparison being attempted. Were
+nature not mindless it would have those creative Ideas in it anyway, and
+far greater ones besides, and so it would not need to surreptitiously
+borrow them from any human engineer. This kind of thinking, wherever it
+appears in relation to evolution, represents an abject failure to
+observe the simple rules of logic, the very last thing that science
+should be guilty of.
+
+This is the effect that the use of intentional idioms in the Darwinian
+theory always creates. The theory attempts to deny the presence of
+divine Ideas in nature by putting human ideas in their place, which is
+doubly ironic since many philosophers, both ancient and modern, tell us
+that nature is where we get our own ideas from in the first place. This
+partly unconscious but totally illicit substitution is hardly a
+promising basis for the development of science.
+
+#### The Knowledge Problem
+
+In a talk given to a ‘systematics’ group in America in 1981, Colin
+Patterson, Senior Palaeontologist at the British Museum of Natural
+History, quoted from the work Darwin and the Problem of Creation, by the
+American historian Neal C. Gillespie, in which Gillespie had argued that
+Creationism was “not a research governing theory, since its power to
+explain is only verbal, but an anti-theory, a void that has the function
+of knowledge but conveys none.” Patterson agreed with Gillespie on this,
+but then he added statements to the effect that the very same
+observation was true of Darwinism also, and that after studying Darwin’s
+theory for more than twenty years he had learned “not one thing”. He
+went on to challenge his audience to tell him one thing that they knew
+for sure from their Darwinian studies. There followed a long silence,
+before some humorist interjected “we know that it ought not to be taught
+in high schools.”
+
+There are very good grounds for Patterson’s assertion that Darwinism
+also is “not a research governing theory.” They are: (1) that the theory
+is deeply contradictory in its use of language; (2) that the findings of
+any laboratory research project, or the observation of nature herself
+and of the fossil record, important though these may be in our
+understanding of the way that nature works, can do nothing to ‘prove’
+the Darwinian theory itself, because all such findings and observations
+can just as readily be explained in terms of an indwelling Consciousness
+in nature—only the theory, not the evidential facts themselves, call for
+its absence—so only the interpretation of evidence and not the evidence
+itself needs to be changed; (3) that the phrases ‘God did it’ and
+‘Chance did it’ are equally useless in providing grounds for scientific
+research. As the British philologist Owen Barfield correctly asserted in
+his book Saving the Appearances:
+
+“Chance, in fact, equals no hypothesis” and to resort to it in the name
+of science means “that the impressive vocabulary of technological
+investigation (associated with evolutionary biology) was actually being
+used to denote its \[science’s\] breakdown; as though, because it is
+something that we can do with ourselves in water, drowning should be
+included as one of the ways of swimming”.
+
+It is very clear that Patterson did not intend his remarks to be taken
+in support of Creationism, but that is what has since happened. Just
+about the only place that you will find his talk made available now is
+on Creationist web sites. Perhaps this is why he did not mention the
+matter in public again prior to his death in 1998.
+
+#### Conclusion
+
+Evolution itself is factually true, but the Darwinian theory itself is a
+logician’s worst nightmare and the evidence for it, when viewed in the
+light of what has been said here, is all but nonexistent. In any other
+realm of scientific enquiry the kind of contradictions that this theory
+embraces would have led to its demise long ago, because once it is made
+conscious science cannot live with this kind of irrationality. Let me
+then repeat what this irrationality consists in: (1) Darwin’s own use of
+metaphorical and intentional language, now established as a ‘convention’
+which certain defenders of the theory, notably Richard Dawkins, now make
+use of with considerable relish; (2) the maladoption of the word
+‘mechanism,’ and with it all of the language of mechanical ‘design,’ to
+serve as a dictionary-authorized synonym for scientific materialism; (3)
+Dennett’s “as if” excuse; (4) Provine’s purposeless “mechanistic
+principles;” (5) because the concepts of ‘purpose’ and ‘design’ are
+inseparable, the widespread notion of ‘Designer-less design,’ promoted
+by Dawkins and others, translates directly into the oxymoronic concept
+of ‘purposeless purpose;’ (6) A.G. Cairns-Smith with his “apples and
+oranges” comparison (7) the now much discussed fact that the phrase
+‘survival of the fittest’ (not used by Darwin) is a logical tautology
+that has no value at all for knowledge. These, of course, are all
+different examples of the same basic contradiction that underlies the
+entire Darwinian theory. It ought to be three strikes and you’re out,
+but such was the importance of this theory in the historical
+emancipation of science from religion, that scientists have been more
+than willing to disregard these logical defects, extreme though they may
+be, and even try to turn them into virtues rather than face up to the
+fact that in any other realm of scientific enquiry irrationality on so
+broad a scale would long ago have proven fatal to any theory that
+contained it.
+
+It is reasonable to suggest that as the twenty-first century progresses
+biology will gradually catch up with physics and will awaken to the now
+inevitable conclusion, as expressed in the words of Sir Arthur
+Eddington, that “The stuff of the world is mind-stuff”. This will
+inevitably be a tremendous wrench; however, it will have the same kind
+of impact on human thought that the Copernican revolution once had — as
+Johann Wolfgang von Goethe described it:
+
+“Perhaps a greater demand has never been made upon mankind; for by this
+admission \[that the earth is not the centre of the universe\], how much
+else did not collapse in dust and smoke: a second paradise, a world of
+innocence, poetry, and piety, the faith; no wonder men had no stomach
+for all this, that they ranged themselves in every way against such a
+doctrine…”
+
+Stephen J. Gould has argued that there is no necessary conflict between
+science and religion, that they are merely talking about different
+things. That may be, but there is no denying that Darwinism has all but
+vanquished the Creator God from modern religious discourse, leaving only
+the Saviour God for those who still believe. A development in the
+reverse direction, which I see to be inevitable, might well increase our
+respect for religion, but it would not mean that science must return to
+its religious roots. Too much time has passed for that to happen, during
+which science has made enormous progress in other realms of knowledge,
+realms in which there is no immediate conflict in causal logic.
+
+In order to solve the problem of origins, however, science must, for the
+first time in nearly two centuries, again begin to take the possibility
+of spiritual causes in nature seriously. This will require that the
+concept of ‘empiricism’ be expanded beyond the realm of sense
+observation to include observations made in the realm of ‘Ideas,’ as it
+was in the work of Goethe, the great German poet/scientist, whose genius
+gave the world the basis for a non-materialistic epistemology. One based
+on the realization that both sense perception and imaginative thought,
+if properly disciplined, can lead to scientific objectivity.
+
+“Scientists, animated by the purpose of proving they are purposeless,
+constitute an interesting subject for study.” Alfred North Whitehead
+
+Don Cruse born 1933 (London, England) - died 2011 (Edmonton, Canada)
+
+By Don Cruse: 'Evolution and the New Gnosis, Anti-establishment Essays
+on Knowledge, Science, Religion and Causal Logic' (ISBN 0-595-22445-8)
+
+Why Darwinism is the result of a serious error in verbal logic. (essays
+3,4,8,19, 11 & 21).
+
+Why 'goodness' not 'truth' should be the principal concern of religion.
+(essay 16)
+
+Democracy is often defined as the 'rule of law', but if the law itself
+is unjust it is tyranny that rules. How may we ensure that only just
+laws can exist? What constitutes a sufficient 'theory of legal
+obligation?' (essay 18).
+
+Many of these essays have been published by Southern Cross Review and
+may be found in our archives.
+

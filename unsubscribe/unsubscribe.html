@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title></title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="unsubscribe/css/style.css" rel="stylesheet" />
+    <script src="unsubscribe/scripts/script.js" defer></script>
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"
+    ></script>
+    <script type="text/javascript">
+        emailjs.init("KfOYXUD1lqBnu1zJx");
+    </script>
+  </head>
+  <body>
+  <nav><a href="https://southerncrossreview.org" id="nav-title">SouthernCrossReview</a>
+    <p id="nav-category">UNSUBSCRIBE</p>
+
+    <a href="https://southerncrossreview.org" id="home-icon-div"><p id="home-text">HOME</p><img id="home-icon" src="home.png"></a>
+  </nav>
+
+    <h1>Sorry to see you go!</h1>
+
+    <form id="unsubscribe_form">
+      <input type="email" id="email_id" name="Email" placeholder="E-mail" required />
+      <input type="text" id="name" name="Name" placeholder="Name (optional)" />
+      <p class="desc">Why are you leaving?</p>
+      <textarea
+        id="message"
+        type="textarea"
+        name="Message"
+        placeholder="Message (optional)"
+      ></textarea>
+      <button type="submit">UNSUBSCRIBE</button>
+    </form>
+  </body>
+</html>

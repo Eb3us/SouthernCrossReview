@@ -1,0 +1,223 @@
+import { prefix } from "./variables.js"
+
+export const articles = {
+  "Spiritual Science": [
+    {
+      "title": "Decolonizing Stewardship:",
+      "sub-title": "",
+      "author": "Gerhard Häfner",
+      "description":[
+        "You could have had a perfect career in physics, philosophy, economy, or academia, but you didn’t. Why not?",
+        "I gave up my academic path even though I was totally passionate about quantum theory. I chose to dedicate my life to ecological work and activism because I realized that, yes, I would have amazing mental challenges—I could have been busy with quantum puzzles for 100 years—but it would have been an indulgence. Small studies were actually saving valleys, rivers, and forests. I realized that my service must go to the earth and to people.",
+        "When did you know that you needed to do something for the earth?",
+        "It began visiting a forest before I went off to do my Ph.D in Canada. I just wanted to carry memories with me and the oak forest that I wanted to trek in had been destroyed. I felt it as a personal, physical pain. That’s when I heard about the Chipko movement, where women of my region decided, “We’re going to hug the trees.” Chipko means to hug. “You will have to kill us before you kill the trees.” So I said, “Okay, I’ll do my PhD, but every vacation I will volunteer for this movement.” It became my other university and that’s what I’ve done since then: being an activist in the Chipko style.",
+      ],
+      "imgUrl": `${prefix}shiva-hafner-img.png`,
+      "link": `${prefix}shiva-hafner-decolonizing.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Fiction": [
+    {
+      "title": "My Parallel Universe (or)",
+      "sub-title": "",
+      "author": "Frank Thomas Smith",
+      "description":[
+        "April is the cruelest month, breeding lilacs out of the dead land, mixing memory and desire, stirring dull roots with springrain.",
+        "T.S. Eliot",
+        "Something very unusual was happening. The news! I turned on the TV. The anchorperson was talking about the war in Iraq. More suicide bombers, a mosque blown up. I waited until he casually mentioned that the snow had caused long delays at all airports. Nothing more. I turned on my living room heater and picked up the phone from my desk. When I dialed Alicia’s number a man answered. I was surprised because it was 8 o’clock on Friday morning and no man should have been there. “Er…Alicia, please?” I said.",
+        "“Wrong number,” the man said, and hung up. That’s a relief, I thought and dialed again, more carefully this time. The same man answered. “Excuse me,” I said, “am I speaking with 760-4903?” He said yes, “…and no Alicia lives here.” He hung up again, this time with a bang and not a whimper. I couldn’t believe that Alicia had changed her number without telling me. But then women do strange things sometimes. I usually called her every day that we hadn’t seen each other, but lately I’d been busy with a lot of new clients, mostly because I designed a website for Charlie García, the rock star, and my phone had been ringing off the hook with future stars wanting a site like Charlie’s. When I told them the price (greatly increased since I became a star in my own right thanks to Charlie) and that payment was in advance, as well as the fact that I was backlogged for three months, most said they’d think about it and let me know.",
+      ],
+      "imgUrl": `${prefix}parallel-universe.jpg`,
+      "link": `${prefix}april-cruelest-month.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "The Spell",
+      "sub-title": "",
+      "author": "Frank Thomas Smith",
+      "description":[
+        "Jenny Howard pushed open the unpainted, waist-high gate and walked into the front yard of her house. She paused a few feet from the door in order to take the key from her bag. As her eyes moved down to the bag she saw something on the worn doormat that caused her to take a step back and place her hand over her mouth to stifle a scream: a chicken's head with the blood not yet dry, alongside it two broken vials with their contents of red and yellow powder spilled out over the mat. She knew what it was of course. Anyone who lived in Brazil would recognize a Macumba spell. She breathed deeply several times, fished out her keys and stepped carefully over the abomination.",
+        "Jenny was an American school teacher under contract to a foundation dedicated to enhancing educational levels in the third world. She was an idealistic young woman who was prepared for the sacrifices inherent in that kind of work. Her house, for example, was not much better than the shacks her pupils lived in a few blocks away in the favela, or shanty-town.",
+      ],
+      "imgUrl": `${prefix}the-spell-img.png`,
+      "link": `${prefix}fts-the-spell.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "Love in the Life of Spies - Chapter 6 & 7",
+      "sub-title": "",
+      "author": "Frank Thomas Smith",
+      "description":[
+        "Camp King, Oberursel, West Germany",
+        "Second Lt. Marvin Jacks tied his sneaker shoelaces and stood up. He heard basketball sounds coming from the gym: hard bounces on a wooden floor, the clang when the ball hit the rim, a whumpf when it went through cleanly. Shouts of triumph or despair. He looked at himself in the locker- room mirror and smiled with satisfaction. Smiling back at him was a young handsome face, the only imperfection on it being a slightly bent nose broken in a street fight during adolescence. He'd never had it straightened because it provided the manly touch his baby-face needed if he was to be taken seriously. He was only slightly above average height, too small for basketball, at least for the professional sort.",
+        "He opened the door to the gym and was surprised to see one person, playing by himself, in the act of sinking a jump shot. He retrieved the ball and said \"Hi\" to Jacks.",
+      ],
+      "imgUrl": `${prefix}love-life-spies-cover.jpg`,
+      "link": `${prefix}love-spies-6-7.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "Quarantined",
+      "sub-title": "",
+      "author": "Frank Thomas Smith",
+      "description":[
+        "If I were to tell you that Matthew Jones feels bewitched, bothered and bewildered I would be putting it mildly. He is sitting in an apartment with its spectacular view of Palermo Park in Buenos Aires wringing his hands and pulling his hair. Actually, he doesn't feel bewitched because he doesn't believe in witches, but bothered and bewildered, yes.",
+        "He left Salt Lake City by car the previous day, arriving in Chicago's O'Hare airport in plenty of time for American's flight to Miami, from where he flew to Buenos Aires. He couldn't have flown from Salt Lake City because he would have been recognized at the airport by everyone. But nobody recognized him in Chicago, Miami or – least of all – Buenos Aires.",
+        "Once settled in first class, he had a glass of champagne, dinner with Chilean tinto and a sleeping pill. He slept almost all the way to Argentina's international airport at Ezeiza, Buenos Aires. He had no checked baggage, only a backpack carry-on, so he was one of the first through customs and immigration. The immigration agent frowned at the Argentine passport Jones showed him, with the name Matheu Tomás Jones. He answered before he was asked. He had no exit stamp from Argentina because the passport was new, issued by the Argentine consulate in Washington, where he had been living for several years. The agent shrugged, stamped him in and said, Bienvenido a casa, Señor Hoe-ness.” A young woman dressed in white handed him a printed page when he passed through the exit. Something about a “Cuarentena”. He stuffed it into his pocket without reading, to be disposed of at the next waste paper receptacle.",
+      ],
+      "imgUrl": `${prefix}<meta property="og:image" content="https://southerncrossreview.org/130/cuarentena-arg.jpeg`,
+      "link": `${prefix}quarantined.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Science": [
+    {
+      "title": "WAS DARWIN WRONG?",
+      "sub-title": "",
+      "author": "Don Cruse",
+      "description":[
+        "A ‘quantum’ revolution has taken place in the science of physics, we see it written about and discussed everywhere today. It is the focus of many popular works, like Gary Zukav’s The Dancing Wu Li Masters, and Amit Goswami’s The Self-Aware Universe, to name only two. Zukav summed up what has changed in these words:",
+        "Zukav also cites Heisenberg’s comments on how difficult it really is for us to relinquish old ideas:",
+        "Interesting yes, but what has this to do with Darwinism? The quantum revolution has largely been limited to physics, and even though it now claims, as was stated by Sir Arthur Eddington, that “The stuff of the world is mind-stuff” and that ‘Consciousness’ lies at the root of all physical phenomena, this has done little to influence biology. The Darwinian and neo-Darwinian theories still insist that Consciousness plays no role whatever in shaping the organic world, which it has long argued is primarily the product of chance. My task here will be to suggest that a similar revolution is overdue in biology, and that when it comes it will not challenge evolution itself, but will throw very serious doubt on Darwin’s account of how it all happened; it will not be a religious argument.",
+      ],
+      "imgUrl": `${prefix}darwin-1.png`,
+      "link": `${prefix}cruse-darwin-wrong.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Anthroposophy": [
+    {
+      "title": "Toward a Threefold Society",
+      "sub-title": "",
+      "author": "Rudolf Steiner",
+      "description":[
+        "Basic issues of the Social Question was written in 1919 for the German-speaking peoples of central Europe. It deals with the social problems of that time and suggests solutions. The question therefore arises: Is this book still relevant today, in a new millennium, for a worldwide readership?",
+        "In order to answer this question, let us first look at the book's very last paragraph: “One can anticipate the experts who object to the complexity of these suggestions and find it uncomfortable even to think about three systems cooperating with each other, because they wish to know nothing of the real requirements of life and would structure everything according to the comfortable requirements of their thinking. This must become clear to them: either people will accommodate their thinking to the requirements of reality, or they will have learned nothing from the calamity and will cause innumerable new ones to occur in the future.”",
+      ],
+      "imgUrl": `${prefix}toward-threefold-book-cover.png`,
+      "link": `${prefix}basic-issues-introduction.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "Lineamientos Antroposóficos",
+      "sub-title": "",
+      "author": "Rudolf Steiner",
+      "description":[
+        "1. La Antroposofía es un camino de conocimiento que guía lo espiritual en el ser humano hacia lo espiritual en el cosmos. Se manifiesta como una necesidad del corazón y del sentimiento. Encuentra su justificación en satisfacer esta necesidad. Sólo aquellos que encuentran en la Antroposofía lo que buscan en este sentido pueden apreciarla. Por ello, sólo pueden ser antropósofos quienes sienten ciertas preguntas sobre la naturaleza del hombre y del mundo como necesidades de la vida tan básicas como el hambre y la sed. 2. La Antroposofía imparte conocimientos obtenidos por medios espirituales. Sin embargo, sólo lo hace porque una vida cotidiana y una ciencia basada únicamente en la percepción de los sentidos y en la actividad intelectual conducen a un límite en el cual el alma humana se marchita si no logra cruzarlo. Sin embargo, no son esta vida cotidiana y esta ciencia las que impiden que el alma humana cruce este límite, sino que es justamente en la frontera en donde la percepción de los sentidos y el intelecto se agotan donde el mundo espiritual es revelado por el alma misma. 3. Algunas personas creen que todo el conocimiento termina en los límites de la percepción sensorial. Si estuvieran atentos a cómo toman conciencia de estos límites, también encontrarían en esta misma conciencia la capacidad de trascender esos límites. Un pez nada hasta los límites del agua; pero no puede cruzarlos porque carece de los órganos físicos para vivir fuera del agua. El hombre llega hasta los límites de su percepción sensorial; pero puede darse cuenta de que en el camino ha adquirido suficiente fuerza en su alma como para vivir en aquello que existe más allá de la percepción de los sentidos. 4. El hombre necesita el conocimiento del mundo espiritual para la seguridad de sus sentimientos y para el sano desarrollo de su voluntad. Entonces puede percibir en gran medida la grandeza, la belleza y la sabiduría del mundo natural. Sin embargo, este mundo natural no responde a las preguntas sobre su propio ser. Este ser es quien mantiene la materia y las fuerzas del mundo natural unidas en la forma corporal humana hasta que la persona cruza el umbral de la muerte. En ese momento, la naturaleza se apodera de la forma. Ella sola no puede mantenerla unida; sólo puede desgarrarla. Observando la Naturaleza en su grandeza, hermosura, y sabiduría intrínseca sólo podemos responder la pregunta de cómo se desintegra la forma humana, pero no de cómo se mantiene unida. Si un alma humana sensible decide no engañarse a sí misma, ninguna objeción teórica puede borrar esta pregunta  Y es esta pregunta la que sostiene en un alma humana verdaderamente despierta el deseo incesante de recorrer los caminos espirituales hacia el conocimiento del cosmos.",
+        "",
+      ],
+      "imgUrl": `${prefix}guidelines-image.jpg`,
+      "link": `${prefix}guidelines-1-4-esp.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "Anthroposophical Guidelines",
+      "sub-title": "",
+      "author": "Rudolf Steiner",
+      "description":[
+        "1. Anthroposophy is a path of knowledge which guides the spiritual in the human being to the spiritual in the cosmos. It manifests as a necessity of the heart and feeling. It must find its justification in being able to satisfy this need. Only those who find in anthroposophy what they seek in this respect can appreciate it. Therefore only those who feel certain questions about the nature of man and the world as basic necessities of life, like hunger and thirst, can be anthroposophists.",
+        "2. Anthroposophy imparts knowledge obtained by spiritual means. Yet it only does this because everyday life and a science dependent only upon sense-perception and intellectual activity lead to a boundary where the human being’s soul must wither if it cannot cross. This everyday life and this science do not lead to the boundary in a way that one is prevented from crossing it; rather at this boundary of sense-perception the view of the spiritual world is revealed by the soul itself.",
+      ],
+      "imgUrl": `${prefix}guidelines_image.jpg`,
+      "link": `${prefix}guidelines-1-4.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Current Events": [
+    {
+      "title": "What Would Real “National Defense” Look Like?",
+      "sub-title": "",
+      "author": "William J. Astore",
+      "description":[
+        "A progressive Pentagon? Talk about an oxymoron! The Pentagon continues to grow and surge with ever larger budgets, ever more expansive missions (for example, a Space Force to dominate the heavens and yet more bases in the Pacific to encircle China), and ever greater ambitions to dominate everywhere, including if necessary through global thermonuclear warfare. No wonder it’s so hard, to the point of absurdity, to imagine a Pentagon that would humbly and faithfully serve only the interests of “national defense.”",
+        "Yet, as a thought experiment, why not imagine it? What would a progressive Pentagon look like? I’m not talking about a “woke” Pentagon that touts and celebrates its “diversity,” including its belated acceptance of LGBTQ+ members. I’m glad the Pentagon is arguably more diverse and tolerant now than when I served in the Air Force beginning in the early 1980s. Yet, as a popular meme has it, painting “Black Lives Matter” and rainbow flags on B-52 bombers doesn’t make the bombs dropped any less destructive. To be specific: Was it really a progressive milestone that the combat aircraft in last year’s Super Bowl flyover were operated and maintained entirely by female crews? Put differently, are the bullets and bombs of trans Black G.I. Jane somehow more tolerant and less deadly than cis White G.I. Joe’s?",
+      ],
+      "imgUrl": `${prefix}iron-triangle.png`,
+      "link": `${prefix}astore-pentagon-progresive.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "Are We the Dinosaurs of the 21st Century?",
+      "sub-title": "",
+      "author": "Tom Engelhardt",
+      "description":[
+        "Let’s admit it: We are indeed mad creatures.",
+        "This should truly have been the time of our discontent. The northern hemisphere just experienced the hottest summer in recorded history, including month by month the warmest June, July, August, and (by a country mile) September ever. Staggering heat records were set in place after place globally. Fires from Canada to Hawaii to Europe broke all records. (In fact, those Canadian summer fires are now threatening to burn straight into the winter months for the first time — and I fear this phrase is going to be become all-too-boringly repetitive — in history.) The southern hemisphere had a “winter” from — yes! — hell. In Europe, which was burning up, Greece experienced unprecedented fires and floods as well. Libya had a significant part of a major city washed away. China, too, experienced unprecedented flooding around its capital, where 1.2 million people had to be evacuated, and in Hong Kong, too. The sea ice in the Antarctic fell to the lowest levels (yes again!) in recorded history, as did sea ice in the Arctic, helping to ensure a future in which rising sea levels could flood coastal cities. And Greenland has been lending a hand to that same future, starting 2023 with temperatures unmatched in at least 1,000 years and still setting new temperature records in July. Worse yet, that’s just to begin down a list that increasingly seems unending.",
+      ],
+      "imgUrl": `${prefix}engelhardt-asteroid-img.png`,
+      "link": `${prefix}engelhardt-asteroid.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Book Review": [
+    {
+      "title": "Dementia - Anthroposophical Perspectives",
+      "sub-title": "",
+      "author": "Judith von Halle",
+      "description":[
+        "Judith von Halle is mostly known for her books and lectures about the life and meaning of Jesus Christ. In this book she concentrates on a medical phenomenon which today has taken on the characteristics of a plague. Senility, involving short term memory loss and the general weakening of mental faculties associated with old age, has been known for centuries, but the illness we now call dementia or, in its more extreme stages, Alzheimer’s disease, has become more and more prevalent in modern society. Not only the aged are affected, but symptoms have been detected increasingly in the middle-aged, even in children. Before going further, it should be noted that there is a difference between “normal” old age forgetfulness and the illness which can lead to the affected persons becoming little more than living vegetables. The former is benign, the latter devastating.",
+        "In her introduction von Halle describes why she decided to expand the first edition of this book, which was directed to readers who were familiar with anthroposophy and its terminology. When she was invited to give a talk at a Swiss retirement home, where many of the listeners would have little or no familiarity with anthroposophy, she decided to first give a basic overview of anthroposophical concepts before going into the details concerning the nature and causes of dementia. After her talk, members of the audience, both those with no previous knowledge of anthroposophy and even anthroposophists, told her that the inclusion of her explanation of anthroposophical concepts made everything much clearer. So for the new edition she decided to include the explanation. I won't blame anyone for thinking that as the translator of the book I may be prejudiced. However, I can honestly say that one of the reasons for which I offered to translate it was the clarity and conciseness of this short explanation in the chapter What is the Human Being, which begins:",
+      ],
+      "imgUrl": `${prefix}<meta property="og:image" content="https://southerncrossreview.org/125/dementia-cover.jpg`,
+      "link": `${prefix}dementia.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "The Suicide Museum",
+      "sub-title": "",
+      "author": "Ariel Dorfman",
+      "description":[
+        "Ariel Dorfman and I have a long history together. I first came across his work when I devoured How to Read Donald Duck, which he and Armand Mattelart wrote in Salvador Allende’s democratic, socialist Chile. The New England Free Press, where I was working as a printer, then distributed it as part of its political literature program.  (After General Augusto Pinochet’s 1973 military coup overthrew Allende and sent Dorfman into exile, the Chilean military impounded many copies of it, burning some of them and throwing others in the ocean.) I first met Ariel in the early 1980s when I was an editor at Pantheon Books and published his pop-cultural critique of so many of the symbolic toys, books, and radio and TV shows of my own childhood, The Empire’s Old Clothes: What the Lone Ranger, Babar, and Other Innocent Heroes Do to Our Minds. Then I did Widows, his classic novel about the disappeared (in World-War-II-era Greece, though his own Chile was there by implication). In this century, I began publishing pieces of his at TomDispatch.",
+        "Only recently, I read his new… well, I don’t quite know what to call it… novel? In it, he’s the central character and his life and events in Chile (as well as the question of how Salvador Allende died and how, on an ever more embattled planet, all of us may die) are at the heart of everything. It’s both a unique and uniquely gripping book, a mix of memoir and fiction of a sort I’ve never seen before. Its title, no less gripping, is The Suicide Museum and its cover illustration is a stunning giant woodpecker. I won’t tell you more. I’ll just say that I read every one of its more than 600 pages with fascination and that I think you should get your hands on it, too. Note that, in my 22 years at TomDispatch, I’ve never put up a recommendation like this with a piece not written by the book’s author but by me, though on a subject that’s all too central to The Suicide Museum.",
+      ],
+      "imgUrl": `${prefix}suicide-cover.jpg`,
+      "link": `${prefix}engelhardt-suicide-museum.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Social Science": [
+    {
+      "title": "Favela Children - Chapter 8",
+      "sub-title": "",
+      "author": "Ute Creamer",
+      "description":[
+        "Macumba is a widely disseminated religious cult in Brazil, a spiritist movement with Afro-Indian roots mixed with Catholicism and even Islamic elements. It is hard to imagine a Macumba without having heard the wild, hours-long, stimulating yet monotone drumming through the night, and without having seen the participants falling into convulsive ecstasy as though shaken by a powerful invisible hand. It is questionable whether the word human can be used to describe these volitionless, wildly dancing creatures. They seem rather to be vessels into which a god or a spirit has been poured, who acts and romps and uses the mouth of an earthly being as his instrument, giving advice and answering questions which are asked via the medium. To be human means to be able to say \"I\", to use your head. But the overwhelming impression one gets at a Macumba is: away with the head, away with thinking and consciousness. The I is extinguished in order to make room for a supernatural being.",
+      ],
+      "imgUrl": `${prefix}favela-cover.jpg`,
+      "link": `${prefix}favela-children-8.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Children's Corner": [
+    {
+      "title": "The Magic Mound - Chapters 8 & 9",
+      "sub-title": "",
+      "author": "Frank Thomas Smith",
+      "description":[
+        "Queen Mamara and Mara were exceedingly pleased when, the next morning, Sergio told them that he and his brother were willing to undertake Mireya's rescue. When Sergio asked how they were to find her, Mamara pointed in the direction behind the palace and said, \"Go that way,\" as though expecting them to simply start walking until they bumped into Mireya. Sergio had the impression that Maxanians were more like children than he or his little brother.",
+        "\"But we'll need more exact directions than that,\" he protested.",
+        "\"I drew you a map,\" Mamara said.",
+        "\"But you kept it.\"",
+      ],
+      "imgUrl": `${prefix}magic-mound-3.jpg`,
+      "link": `${prefix}magic-mound-8-9.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+}

@@ -1,0 +1,228 @@
+import { prefix } from "./variables.js";
+
+export const articles = {
+  "Featured Book": [
+    {
+      title: "Exile's End",
+      "sub-title": "",
+      author: "",
+      description: [
+        'The paperback book is now available for purchase in paperback and kindle at Amazon: <a href="https://www.amazon.com/Exiles-End-Frank-Thomas-Smith/dp/1948302616"> Exile’s End – a Memoir</a> and book stores.',
+        "Exile's End<br /><em>My faraway home is a land of lovers.<br />A greeting there is no touch of the hand,<br />No nod of the head, no Guten Tag, Herr ...<br /> In that distant land my friends all embrace me<br />And kiss me and tell me: Estás en tu casa.<br />A cleansing wind blows in from the Pampas,<br />It swirls even now in the streets of my mind ...</em><br />… to be continued.",
+        "<span style=\"font-weight:bold\">I</span>n order to make an intelligent choice, or even a stupid one, you have to have reached a certain age, not necessarily a legal age, but at least one which allows thinking to function. On the other hand, according to some, including myself, your spirit exists both before birth and after death. And during the time between death and the future birth you train for the big moment, which includes choosing your future parents. If your future parents live in Brooklyn, NY as mine did, you will necessarily be born there — as I was. This implies that I made my first choice (possibly influenced by previous events and choices, intelligent or stupid) before I was even born. The way things turned out it was a very good choice. My parents were neither rich nor poor, originally working class, but after my father somehow became the U.S. sales representative for a Cuban tobacco company (before Castro), we at least approached middle class. When Castro took over Cuba the company lost its tobacco source, but the owners had moved their money and themselves to Florida. We stayed in Brooklyn and my father traveled a lot seeking tobacco in Mexico, and South and Central America. I had no sisters or brothers, don't know why. Neither my parents nor other relatives of that generation were intellectuals, nor did they have much faith in education, which they had lacked, having gone to work before finishing high school. So, they left me on my own in that respect.",
+        "What follows is a description of choices I have made during my life on earth. I have sometimes wondered to what extent they are strictly true. You may see what I mean by that from what follows. The descriptions are not necessarily or completely true, for memory is never exact and egotism tends to bend events to bend events to favor oneself...",
+      ],
+      imgUrl: `${prefix}exiles-end-cover.jpg`,
+      link: '',
+      poem: false,
+      mainImg: true,
+    },
+  ],
+  "Current Events": [
+    {
+      title: "There Is Only One Spaceship Earth",
+      "sub-title": "",
+      author: "William J. Astore",
+      description: [
+        "When I was in the U.S. military, I learned a saying (often wrongly attributed to the Greek philosopher Plato) that only the dead have seen the end of war. Its persistence through history to this very moment should indeed be sobering. What would it take for us humans to stop killing each other with such vigor and in such numbers?",
+        "Song lyrics tell me to be proud to be an American, yet war and profligate preparations for more of the same are omnipresent here. My government spends more on its military than the next 10 countries combined (and most of them are allies). In this century, our leaders have twice warned of an “axis of evil” intent on harming us, whether the fantasy troika of Iraq, Iran, and North Korea cited by President George W. Bush early in 2002 or a new one — China, Russia, and North Korea — in the Indo-Pacific today. Predictably given that sort of threat inflation, this country is now closing in on a trillion dollars a year in “defense spending,” or close to two-thirds of federal discretionary spending, in the name of having a military machine capable of defeating “evil” troikas (as well as combatting global terrorism). A significant part of that huge sum is reserved for producing a new generation of nuclear weapons that will be quite capable of destroying this planet with missiles and warheads to spare.",
+      ],
+      imgUrl: `${prefix}astore-img.png`,
+      link: `${prefix}astore-spaceship-earth.html`,
+      poem: false,
+      mainImg: false,
+    },
+    {
+      title: "The Distortion of Campus Protests over Gaza",
+      "sub-title": "",
+      author: "Helen Benedict",
+      description: [
+        "Helicopters have been throbbing overhead for days now. Nights, too. Police are swarming the streets of Broadway, many in riot gear. Police vans, some as big as a city bus, are lined up along side streets and Broadway. ",
+        "Outside the gates of the Columbia University campus, a penned-in group of pro-Israel demonstrators has faced off against a penned-in group of anti-genocide and pro-Palestinian protesters. These groups are usually small, often vastly outnumbered by the police around them, but they are loud and they are not Columbia students. They’ve been coming every day this April to shout, chant, and hold up signs, some of which are filled with hateful speech directed at the other side, equating protests against the slaughter in Gaza with being pro-Hamas, and calls to bring home the hostages with being pro-genocide.",
+        "Inside the locked gates of the campus, the atmosphere is entirely different. Even as the now-notorious student tent encampment there stretches through its second week, all is calm. Inside the camp, students sleep, eat, and sit on bedspreads studying together and making signs saying, “Nerds for Palestine,” “Passover is for Liberation,” and “Stop the Genocide.” The Jewish students there held a seder on Passover. The protesters even asked faculty to come into the encampment and teach because they miss their classes. Indeed, it’s so quiet on campus that you can hear birds singing in the background. The camp, if anything, is hushed.",
+      ],
+      imgUrl: `${prefix}benedict-protests-gaza.png`,
+      link: `${prefix}benedict-protests-gaza.html`,
+      poem: false,
+      mainImg: false,
+    },
+    {
+      title: "Dead on Arrival",
+      "sub-title": "",
+      author: "Ellen Cantarow",
+      description: [
+        "Words can’t express the horrors of Israel’s genocide in Gaza. To actually feel the nightmare, you would have to be there under the bombs, fleeing with Palestinians desperately seeking a safe place that doesn’t exist; seeing building after building destroyed; treading through blood in one of the few, only partially standing hospitals; and witnessing children and other patients sprawled on hospital floors, limbs amputated without anesthesia (Israel having blocked all medical supplies).",
+        "It has taken the Jewish state’s savagery to break decades of silence about its history of crimes against humanity. U.S. military historian Robert Pape has called the onslaught against Gaza “one of the most intense civilian punishment campaigns in history.” Former U.N. Assistant Secretary-General for Human Rights Andrew Gilmour has said that we are witnessing “probably the highest kill rate of any military… since the Rwandan genocide of 1994.”",
+      ],
+      imgUrl: `${prefix}cantarow-img.png`,
+      link: `${prefix}cantarow-genocide.html`,
+      poem: false,
+      mainImg: false,
+    },
+    {
+      title: "Living on the Wrong World",
+      "sub-title": "",
+      author: "Tom Engelhardt",
+      description: [
+        "On this planet of ours, it almost doesn’t matter who’s right and who’s wrong when it comes to our wars.",
+        "Actually, let me correct that thought slightly: it certainly does matter, but what matters so much more is that we humans simply can’t stop fighting them. That is (or at least should be) a stunning and deeply saddening reality. What obvious lessons we seem congenitally incapable of learning! In the previous century, after all, there were two truly global wars, World War I and World War II, that were estimated to have left significantly more than 100 million military personnel and civilians dead, while decimating parts of the planet. The second of those conflicts ended with the obliteration of the Japanese cities of Hiroshima and Nagasaki on August 6th and 9th, 1945, with the loss of possibly 200,000 dead, and the arrival in our world of a shattering new weapon, the atomic bomb. After so many centuries of endless warfare, it finally brought humanity to the edge of future annihilation.",
+      ],
+      imgUrl: `${prefix}wrong-world.png`,
+      link: `${prefix}engelhardt-wrong-world.html`,
+      poem: false,
+      mainImg: false,
+    },
+  ],
+  Anthroposophy: [
+    {
+      title: "The Yearning of the Jews for Palestine",
+      "sub-title": "",
+      author: "Rudolf Steiner",
+      description: [
+        "GA 31",
+        'Many intelligent people will find it superfluous to speak about the strange gathering that took place in Basel a few days ago under the name "Zionist Congress." The fact that a number of European Jews came together to promote the idea of establishing a new Palestinian empire and encouraging the Jews to emigrate to this new "promised land" was seen to be the insane idea of a morbidly excited fantasy. In this judgment, they calmed down. They did not discuss the matter anymore. I believe, however, that these wise men have lagged ten years behind in their judgments. And ten years is a small eternity in our time when events are flowing so fast. Ten years ago, with some justification, one could think that a Jew was half mad who had the idea of moving his people to Palestine. Today one may only consider him hypersensitive and vain; but in another ten years things can be very different.',
+      ],
+      imgUrl: `${prefix}steiner-jews-palestine.png`,
+      link: `${prefix}steiner-jews-palestine.html`,
+      poem: false,
+      mainImg: false,
+    },
+  ],
+  Poetry: [
+    {
+      title: "Christ Comes to Skopelos",
+      "sub-title": "",
+      author: "Frank Thomas Smith",
+      description: [
+        "Christ consents to be called<br/>To Skopelos<br/>One Easter Sunday<br />Several years before his year<br />Two-thousand.",
+        "They'd been calling him continually<br/>In all their white-walled<br/>Icon-laden churches,<br/>Never expecting he'd hear their songs.",
+      ],
+      imgUrl: `${prefix}christ-skopelos-image.png`,
+      link: `${prefix}fts-christ-skopelos.html`,
+      poem: true,
+      mainImg: false,
+    },
+    {
+      title: "Starlight Like Intuition Pierced the Twelve",
+      "sub-title": "",
+      author: "Delmore Schwartz",
+      description: [
+        'The starlight\'s intuitions pierced the twelve,<br/>The brittle night sky sparkled like a tune<br/>Tinkled and tapped out on the xylophone.<br/>Empty and vain, a glittering dune, the moon<br/>Arose too big, and, in the mood which ruled,<br/>Seemed like a useless beauty in a pit;<br/>And then one said, after he carefully spat,<br/>"No matter what we do, he looks at it!"',
+        '"I cannot see a child or find a girl<br/>Beyond his smile which glows like that spring moon."<br/>--"Nothing no more the same," the second said,<br/>"Though all may be forgiven never quite healed<br/>The wound I bear as witness, standing by,<br/>No ceremony surely appropriate,<br/>Nor secret love, escape or sleep because<br/>No matter what I do, he looks at it--"',
+      ],
+      imgUrl: `${prefix}schwartz-starlight-img.png`,
+      link: `${prefix}schwartz-starlight.html`,
+      poem: true,
+      mainImg: false,
+    },
+    {
+      title: "Coming Clean",
+      "sub-title": "",
+      author: "Lynn Strongin",
+      description: [
+        "Georgia O’Keeffe as a child<br/>always ate round the raisin in the cookie:<br/>sought more sky than land in her world,<br/>but held the jewel at core: renewal<br/>saved best for last.",
+        "I recall the black child<br/>of nine or ten, a girl<br/>who told me with gem-clear eyes<br/>how her mother’d say “Always wear clean undies,<br/>for you never know when you might get hit by a truck.”",
+      ],
+      imgUrl: `${prefix}strongin-poems-img.png`,
+      link: `${prefix}strongin-poems.html`,
+      poem: true,
+      mainImg: false,
+    },
+    {
+      title: "Breathe",
+      "sub-title": "",
+      author: "Becky Hemsley",
+      description: [
+        "She sat at the back and they said she was shy,<br />She led from the front and they hated her pride,<br />They asked her advice and then questioned her guidance,<br />They branded her loud, then were shocked by her silence,",
+        "When she shared no ambition they said it was sad,<br />So she told them her dreams and they said she was mad,<br />They told her they'd listen, then covered their ears,<br />And gave her a hug while they laughed at her fears,",
+      ],
+      imgUrl: `https://southerncrossreview.org/141/forest.jpg`,
+      link: `https://southerncrossreview.org/141/hemsley-breathe.html`,
+      poem: true,
+      mainImg: false,
+    },
+  ],
+  "Children's Corner": [
+    {
+      title: "The Talking Trees",
+      "sub-title": "",
+      author: "by Frank Thomas Smith",
+      description: [
+        '<span style="font-style:italic">Nicolás</span> lives in a small town in the north of the country. The house he lives in is on the outskirts of the town near a forest. When Nicolás looks out of his bedroom window he sees the forest. It has been there as long as he can remember. In fact, it is one of the first things he ever saw, after his mother of course. When he was a baby she used to hold him up so he could look out the window at the forest.',
+        "When Nicolás was old enough to walk he went with his mother into the forest along a footpath, but only as far as a Talking Tree. The tree didn't talk to him then naturally, because he wouldn't have understood. It was the tallest and thickest tree around and Nicolás's mother told him it was an oak.",
+
+        '<span style="font-style:italic">Alma</span> lives in another small town in the north of country. The house she lives in is on the outskirts of the town near the same forest. When Alma looks out her bedroom window she sees the forest. It has been there as long as she can remember. In fact, it is one of the first things she ever saw, after her father of course. When she was a baby he used to hold her up so she could look out the window at the forest.',
+        "When Alma was old enough to walk she went with her father into the forest  along a footpath, but only as far as a Talking Tree. The tree didn't talk to her then naturally, because she wouldn't have understood. It was the tallest and thickest tree around and Alma's father told her it was an oak.",
+      ],
+      imgUrl: "https://southerncrossreview.org/122/oak-tree.jpg",
+      link: "https://southerncrossreview.org/122/talking-trees.html",
+      poem: false,
+      mainImg: false,
+    },
+    {
+      title: "Nature Spirits",
+      "sub-title": "",
+      author: "Frank Thomas Smith",
+      description: [
+        "Nicolás and Carolina were lost in the woods and didn’t know which way to turn. Whichever way they went they seemed to get more lost. They sat down on the roots of a tree and Carolina began to cry. Her brother told her not to cry, that they would find their way out eventually, but the truth was that he felt like crying too.",
+        "Suddenly, they heard a faint sound of someone moaning: “Oh, oh! help me! oh, oh!” They held their breath and waited. It happened again: “Oh, oh!”",
+        "“Maybe it’s only the wind,” Nicolás said.",
+        "“No, it’s someone crying for help,” Carolina objected. “What should we do?”",
+      ],
+      imgUrl: `${prefix}bosque1.jpg`,
+      link: `${prefix}fts-nature-spirits.html`,
+      poem: false,
+      mainImg: false,
+    },
+  ],
+  "Social Science": [
+    {
+      title: "Favela Children",
+      "sub-title": "",
+      author: "Ute Creamer",
+      description: [
+        "Londrina, 16 January 1972",
+        "Up and away to Marumbi!",
+        "I rode the whole night in the bus. Luckily, Daiggers brought my two impossibly large suitcases to the station. In Apucarana I made the usual connection with the Viacao Londrinense, the Londrina bus company, famed for its busses breaking down after a few miles, which is exactly what happened. We all got out and sat at the side of the road waiting for the replacement bus. We were covered with dust by the time it arrived in a cloud of red dust an hour later. It got as far as Faxinal before giving up the ghost.",
+        "Thank God I was only going that far, where a jeep was waiting to take me and my voluminous luggage the remaining fifteen miles to Cido's adobe hut. It flew over rocks and holes, at one point getting stuck in one, and had to be pulled out. When I finally arrived, children and dogs came running and jumping all over me. They were all happy that I had really come again. I was given something to eat right away: a cucumber, saved especially for me, rice, beans and a piece of smoked bacon. And everyone talked, talked, talked, the children about how they had counted the days to my arrival, how they listened to the sound of every jeep; I, about how I had run around Sao Paulo inquiring about schools and work and how I told everyone about their life at the sitio (home on the land) and that everybody gave me things for them: dresses, shoes, shirts, suits, school-books, notebooks, pencils, sweets and a chocolate Santa Claus which was divided into twenty parts so all could have a taste.",
+      ],
+      imgUrl: `${prefix}favela-cover.jpg`,
+      link: `${prefix}favela-children-11.html`,
+      poem: false,
+      mainImg: false,
+    },
+  ],
+  Memoir: [
+    {
+      title: "Exile's End - a Memoir",
+      "sub-title": "",
+      author: "Frank Thomas Smith",
+      description: [
+        "In order to make an intelligent choice, or even a stupid one, you have to have reached a certain age, not necessarily a legal age, but at least one which allows thinking to function. On the other hand, according to some, including myself, your spirit exists both before birth and after death. And during the time between death and the future birth you train for the big moment, which includes choosing your future parents. If your future parents live in Brooklyn, NY as mine did, you will necessarily be born there — as I was. This implies that I made my first choice (possibly influenced by previous events and choices, intelligent or stupid) before I was even born. The way things turned out it was a very good choice. My parents were neither rich nor poor, originally working class, but after my father somehow became the U.S. sales representative for a Cuban tobacco company (before Castro), we at least approached middle class. When Castro took over Cuba the company lost its tobacco source, but the owners had moved their money and themselves to Florida. We stayed in Brooklyn and my father traveled a lot seeking tobacco in Mexico, and South and Central America. I had no sisters or brothers, don't know why. Neither my parents nor other relatives of that generation were intellectuals, nor did they have much faith in education, which they had lacked, having gone to work before finishing high school. So, they left me on my own in that respect.",
+        "What follows is a description of choices I have made during my life on earth. I have sometimes wondered to what extent they are strictly true. You may see what I mean by that from what follows. The descriptions are not necessarily or completely true, for memory is never exact and egotism tends to bend events to bend events to favor oneself...",
+      ],
+      imgUrl: `${prefix}exiles-end-cover.jpg`,
+      link: `${prefix}exiles-end-memoir.pdf`,
+      poem: false,
+      mainImg: false,
+    },
+
+  ],
+  Fiction: [
+    {
+      title: "Judgments",
+      "sub-title": "",
+      author: "Gary Beck",
+      description: [
+        "The minute they walked into the store I knew they were cops, but not locals. Some kind of state boys come up from Cheyenne by the look of them. I started for the bathroom to avoid them, but the meaner looking one, in a blue suit that looked like he found it in a thrift shop, called me.",
+        "“Just a minute, sir. We’d like to talk to you.”",
+        "I turned to my assistant, Bobby Runs-with-Elks.",
+        "“Why don’t you help these gentlemen, Bobby.”",
+      ],
+      imgUrl: `${prefix}horses.jpeg`,
+      link: `${prefix}beck-judgments.html`,
+      poem: false,
+      mainImg: false,
+    },
+  ],
+};
