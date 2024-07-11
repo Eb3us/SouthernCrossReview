@@ -40,4 +40,4 @@ const menuBar = document.querySelector("#mobile-menu-bar");
 const pageName = document.querySelector("#page-name");
 /*change prefix from "./" for test page inside the issue's 
 folder to "./issue-number/" for root index file */
-const prefix = "./";
+const prefix = "./158/";
