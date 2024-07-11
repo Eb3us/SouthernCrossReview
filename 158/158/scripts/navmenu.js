@@ -54,6 +54,7 @@ export function createNavMenu(navMenuElement) {
       div.appendChild(p);
       navMenuElement.appendChild(div);
     };
+    createSingleLink("Letters to the Editor", "pic-nav-menu");
     createSingleLink("Other Sections", "pic-nav-menu");
     createSingleLink("Subscribe", "subscribe");
   }
