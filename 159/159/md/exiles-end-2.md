@@ -1,0 +1,195 @@
+# Exile's End
+
+![](exiles-end-cvr-sm.jpg){class="a"}
+
+## by Frank Thomas Smith
+
+### Episode 2
+
+
+#### Brooklyn Prep**
+
+Sometimes you make a choice that fails. The result may be positive or
+negative or simply meaningless. The failure of this choice was
+positive, although I didn\'t realize it until much later.
+
+Upon graduating from elementary school, P.S. 152, I applied for
+admission to Brooklyn Preparatory High School. I don\'t remember why,
+although it was probably because some friend convinced me that it was
+cool and small and had a good but humble football team. It was located
+in downtown Brooklyn, so would require a trolley-bus trip to and from
+every day. This didn\'t bother me, on the contrary I rather looked
+forward to it. I had to take an admission test, which didn\'t bother
+me either, because until then I had found school examinations easy.
+Much later I came to suspect that the teachers who prepared them
+feared their teaching ability would appear incompetent if many
+students failed, in the public schools at least.
+
+I remember only one question on the Brooklyn Prep test --- in
+mathematics or, rather, arithmetic --- that I had a problem with. It
+asked to solve a half dozen square roots --- numbers with a symbol
+that looks like a fishhook (√). I had no idea how to do that, most
+likely because I was playing hooky on the day we learned about square
+roots in P.S. 152. Just to put something, I divided all the numbers by
+two, knowing it was incorrect. A week or two later, I received a
+letter from the school informing me that I had passed the test with
+around 75% (I think), but because their system is competitive, I would
+not be admitted to the school. Just for spite I never did learn how to
+calculate square roots, beyond guessing, which worked for small
+numbers, but not for high ones. Today it\'s a piece of cake for
+computers. It was a choice that failed --- apparently, but in a
+positive way for my future. I later (much later) discovered that
+Brooklyn Prep was a Catholic school run by Jesuits.
+
+> "*Brooklyn Preparatory School, commonly referred to as Brooklyn Prep,
+> was a highly selective
+> [Jesuit](https://en.wikipedia.org/wiki/Jesuit) preparatory school
+> founded by the Society of Jesus in 1908. The school educated
+> generations of young men from throughout New York City and Long Island
+> until its closure in 1972. As a Jesuit institution, Brooklyn Prep was
+> noted for its religious values, classical roots (e.g.
+> [Latin](https://en.wikipedia.org/wiki/Latin) and Greek), and dress
+> code (ties and jackets) --- all part of its goal of turning out
+> well-rounded, educated men \... But whether a student could solve
+> algebraic equations with unusual facility or consistently throw cross
+> body blocks that led to touchdowns, he submitted as a prepster to an
+> iron, relentless discipline \...*" (New York Times --- 1972).
+
+Obviously, it was not my cup of tea. Furthermore, if I had studied
+there, I might well have become a fanatical Roman Catholic, perhaps
+even a priest, a bishop, even a pope instead of the Argentine Jorge
+Bergoglio, who calls himself Francisco. I wouldn\'t even have had to
+change my name. Now, in case you think that I, as pope, would redeem a
+dying medieval institution by allowing women to become priests,
+kicking out sexually abusive priests, throwing the myth of celibacy
+overboard, etc., you might be disappointed, given that I could have
+been successfully brainwashed by the Jesuits of Brooklyn Prep and kept
+things as they still are, or worse. Oh, the gods of Jesuitism don\'t
+give up so easily. They tried again at university level.
+
+ **The University of Vermont**
+
+Why I went to the University of Vermont, of all places, is hard to
+explain, even to myself. My friend Jerry (his real name), a year or
+two older than me, who went there and told me how great it was and
+that he would get me into the best national fraternity, was certainly
+an influence, for I would never even have heard of it otherwise. Also,
+it was a time when Brooklyn College, where I should have gone, was
+determining admission by an examination. Perhaps I was still
+traumatized by having failed the entrance examination for Brooklyn
+Prep. To make the choice even more absurd, I applied for the college
+of agriculture. Why? Because I had just seen a movie with Alan Ladd
+about farming and combines and crooks who Alan, a courageous farmer,
+defeats and wins the farmer\'s daughter. Or maybe I just wanted to get
+away from home, which seems illogical though, because my parents were
+not at all domineering, rather the opposite. They were non-academic
+types, having skipped high school in favor of or need to work. If I
+wanted to go to the U. of Vermont, of all places, why not?
+
+I was thoroughly miserable in the so-called city of Burlington, the
+frozen apple of Vermont, down the hill from the university. Compared
+to the big apple core of the civilized world, New York, it was
+Deadsville, dry as a bone. I turned eighteen in October and couldn\'t
+even get a legal beer without buying a meal to go with it. I also
+realized how deficient my high school education had been. As an
+agriculture major, I naturally had a course in chemistry, something I
+had not the slightest idea about, not having studied it in high
+school. (I am still abysmally ignorant of chemistry, by the way.) My
+knowledge of mathematics was sketchy, to say the least. About the only
+subject I liked and did well in was English literature. What made the
+University of Vermont bearable was football. I made the freshman team
+and would surely have gone on to the varsity team in a year or two,
+except for a blow to the side of my head. (We wore leather helmets
+those days.) It caused an infection in my right earlobe, eventually a
+cyst. Prompt medical attention might have taken care of it, but my
+guardian angel must have whispered into that ear, "Let it Be." It
+ended my football career and, indirectly and eventually, my incipient
+academic career. I still have the cyst to remind me.
+
+Then there was the restaurant in Burlington where students liked to
+hang out. I forget its name, so I\'ll call it Jane\'s. Jane was the
+Saturday night waitress. Whenever I had enough pocket money I\'d walk
+downtown to Jane\'s, order a bottle of beer and a hamburger, the
+latter enabling me to repeat the beer order ad infinitum. One Saturday
+night I walked the waitress home, intending to seduce her. As it
+turned out she, experienced, seduced me, the novice. A few days later
+I was visiting a fellow football player in his dorm room. He was a
+bruising tackle. Above his bed, as though it were a painting, a real
+waitress apron was pinned. Under it the beast had written, in black
+crayon, "manhole cover." I was shocked, embarrassed, angry. I left the
+room as soon as possible, and never returned. If I remember correctly,
+I didn\'t return to Jane\'s either.
+
+In another place, a diner, I met Bill Este one night. He was a few
+years older than me, getting educated on his veteran\'s benefits. We
+got talking over hamburgers and beer about Dostoevsky, especially *The
+Brothers Karamazov*. Bill was surprised not only that I had heard of
+it, but that I had actually *read* it. I read a lot, thanks to the New
+York Public Library having a branch in Brooklyn where we lived. That
+branch wasn\'t very big, and it didn\'t have many books, but if you
+wanted something, they\'d get it for you in a week from the central
+library on Fifth Avenue in Manhattan.
+
+Bill and I thought ourselves to be intellectually superior, because we
+were probably the only students in UVM who had read Dostoevsky --- or
+had even heard of him. Finally, after meeting a few times more with
+conversation and beer, we agreed that the U. of Vermont was inferior
+to our talents (despite my imminent failing in chemistry and
+mathematics). Bill had a plan, a solution. He said he had only decided
+to enroll in UVM because the skiing was said to be so good. Well, it
+was already November, and it hadn\'t even snowed yet. And it was
+bitter cold. Bill suggested that we abandon Vermont and transfer to
+Georgetown University in Washington DC. He knew important people
+there, he claimed, and he could get us both accepted. We could leave
+the next morning. He had a Volkswagen Beetle, which I admired almost
+as much as I did him. He said we could share driving and be there in a
+couple of days. In order to understand why I agreed to this crazy
+plan, you must know that I had consumed an inordinate quantity of beer
+and was, to be honest, drunk. Bill said he\'d call for me in the lobby
+of my dorm at eight o\'clock the next morning. "Be ready!" he ordered.
+The next morning, a Saturday, my roommate, a Vermont hick, shook me
+awake. There\'s a guy outside looking for you, he said.
+
+"Let\'s go, Frankie," Bill Este said. I remembered last night through
+the haze of a hangover and looked at him numbly.
+
+"You coming, or not?" he said, clearly angry. I thought about what
+I\'d tell my parents, that I just decided to take a trip to Washington
+DC in a VW beetle with an older guy I barely knew. I made a choice.
+"Er \... no, Bill, I changed my mind," I mumbled weakly. He seemed to
+want to say something, but just turned on his heel and left. I never
+saw him again. It was a good choice. I found out later that Georgetown
+was and still is a Jesuit university that supplies the government with
+many of its most powerful politicians, as well as the Supreme Court.
+
+*The Jesuit order relied on the plantations and slave labor to sustain
+the clergy and to help finance the construction and the day-to-day
+operations of churches and schools, including Georgetown, the nation's
+first Catholic institution of higher learning. *\[Wikipedia\]
+
+I had escaped again by the skin of my teeth. Maybe it was the
+proverbial last straw, in that it cut off an avenue of escape from the
+cold, the hillbillies, chemistry, math and, worst blow of all, the end
+of my football career. I went home by train on the Christmas break and
+proved to my eighteen-year-old-self that there\'s no place like home.
+I told my parents that I didn\'t want to go back to Vermont (good
+choice) and they just shrugged. My dad asked about all my stuff that
+was still up there and I said I\'d just have to go back and get it.
+"Let\'s drive up there and get it," he said. "You can drive." I had
+turned eighteen in October, so the first thing I had done on arriving
+in Brooklyn was applying for and obtaining my driver\'s license ---
+thanks to my dad, who had taught me how to drive.So, we drove up to
+Burlington in his Hudson Hornet. (That was before General Motors and
+Ford bought or forced out all the smaller competition.) I went right
+to my room in the dorm and told my roommate --- a hick farmer, but a
+nice guy --- that I was leaving for good and to please tell whomever
+it may concern that I\'m gone. He stared at me with bulging eyes and
+open mouth while watching me pack. Finally, he asked if I wanted help,
+which I did, so he carried one of my two suitcases down to the car. We
+shook hands (boys didn\'t embrace those days) and that was it.
+
+To be continued
+
+[Episode One](https://southerncrossreview.org/158/exiles-end-1.html)
+
+Exile's End - a Memoir is available in paperback and ebook from [Barnes &amp; Noble](https://www.barnesandnoble.com/w/exiles-end-frank-thomas-smith/1145558806?ean=9781948302616)  and [Amazon](https://www.amazon.com/Exiles-End-Frank-Thomas-Smith/dp/1948302616)
