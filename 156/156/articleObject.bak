@@ -1,228 +1,0 @@
-import { prefix } from "./variables.js"
-
-export const articles = {
-  "True Tales": [
-    {
-      "title": "O Americano, Outra Vez!",
-      "sub-title": "",
-      "author": "Richard P. Feynman",
-      "description":[
-        "One time I picked up a hitchhiker who told me how interesting South America was, and that I ought to go there. I complained that the language is different, but he said just go ahead and learn it - it’s no big problem. So I thought, that’s a good idea: I’ll go to South America.",
-        "Cornell had some foreign language classes which followed a method used during the war, in which small groups of about ten students and one native speaker speak only the foreign language-nothing else. Since I was a rather young-looking professor there at Cornell, I decided to take the class as if I were a regular student. And since I didn’t know yet where I was going to end up in South America, I decided to take Spanish, because the great majority of the countries there speak Spanish.",
-        "So when it was time to register for the class, we were standing outside, ready to go into the classroom, when this pneumatic blonde came along. You know how once in a while you get this feeling, WOW? She looked terrific. I said to myself, “Maybe she’s going to be in the Spanish class - that’ll be great!” But no, she walked into the Portuguese class. So I figured, What the hell - I might as well learn Portuguese.",
-      ],
-      "imgUrl": `${prefix}richard_feynman.jpg`,
-      "link": `${prefix}feynman-brazil.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-   ],
-  "Current Events": [
-    {
-      "title": "Bombing Muslims for Peace",
-      "sub-title": "",
-      "author": "William J. Astore",
-      "description":[
-        "Like many American boys of the baby-boomer generation, I played “war” with those old, olive-drab, plastic toy soldiers meant to evoke our great victory over the Nazis and “the Japs” during World War II. At age 10, I also kept a scrapbook of the 1973 Yom Kippur War between Israel and its various Arab enemies in the Middle East. It was, I suppose, an early sign that I would make both the military and the study of history into careers.",
-        "I recall rooting for the Israelis, advertised then as crucial American allies, against Egypt, Syria, and other regional enemies at least ostensibly allied with the Soviet Union in that Cold War era. I bought the prevailing narrative of a David-versus-Goliath struggle. I even got a book on the Yom Kippur War that captivated me by displaying all the weaponry the U.S. military had rushed to Israel to turn the tide there, including F-4 Phantom jets and M-60 main battle tanks. (David’s high-tech slingshots, if you will.) Little did I know that, in the next 50 years of my life, I would witness increasingly destructive U.S. military attacks in the Middle East, especially after the oil cartel OPEC (largely Middle Eastern then) hit back hard with an embargo in 1973 that sent our petroleum-based economy into a tailspin.",
-      ],
-      "imgUrl": `${prefix}astore-bombing-image.jpg`,
-      "link": `${prefix}astore-bombing-muslims.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-    {
-      "title": "The Military-Industrial Complex Is the Winner (Not You)",
-      "sub-title": "",
-      "author": "William D. Hartung",
-      "description":[
-        "2023 was a year marked by devastating conflicts from Russia’s ongoing invasion of Ukraine to Hamas’s horrific terror attacks on Israel, from that country’s indiscriminate mass slaughter in Gaza to a devastating civil war in Sudan. And there’s a distinct risk of even worse to come this year. Still, there was one clear winner in this avalanche of violence, suffering, and war: the U.S. military-industrial complex.",
-        "In December, President Biden signed a record authorization of $886 billion in “national defense” spending for 2024, including funds for the Pentagon proper and work on nuclear weapons at the Department of Energy. Add to that tens of billions of dollars more in likely emergency military aid for Ukraine and Israel, and such spending could well top $900 billion for the first time this year.",
-        "Meanwhile, the administration’s $100-billion-plus emergency military aid package that failed to pass Congress last month is likely to slip by in some form this year, while the House and Senate are almost guaranteed to add tens of billions more for “national defense” projects in specific states and districts, as happened in two of the last three years.",
-      ],
-      "imgUrl": `${prefix}war-is-hell.jpeg`,
-      "link": `${prefix}hartung-disarming-you.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-    {
-      "title": "Israel, the United States, and the Rhetoric of the War on Terror",
-      "sub-title": "",
-      "author": "Maha Hilal",
-      "description":[
-        "In a New Yorker piece published five days after the attacks of September 11, 2001, American critic and public intellectual Susan Sontag wrote, “Let’s by all means grieve together. But let’s not be stupid together. A few shreds of historical awareness might help us understand what has just happened, and what may continue to happen.” Sontag’s desire to contextualize the 9/11 attacks was an instant challenge to the narratives that President George W. Bush would soon deploy, painting the United States as a country of peace and, most importantly, innocent of any wrongdoing. While the rhetorical strategies he developed to justify what came to be known as the Global War on Terror have continued to this day, they were not only eagerly embraced by Israel in 2001, they also lie at the heart of that country’s justification of the genocidal campaign that’s been waged against the Palestinian people since October 7, 2023.",
-      ],
-      "imgUrl": `${prefix}netanyahu.jpg`,
-      "link": `${prefix}hilal-israel-terror.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-   ],
-  "Children's Corner": [
-    {
-      "title": "The Magic Mound",
-      "sub-title": "",
-      "author": "Frank Thomas Smith",
-      "description":[
-        "The trail became steeper and the vegetation scarcer as Sergio, Divino and Platero continued to climb. It was also much colder and the boys were grateful for their tararobes and Platero was grateful for his silver necklace. Their breath formed miniature clouds that were whisked behind them by a brisk wind. It took them three days to reach a point from where Arman's castle was visible. Divino saw it first when they woke up on the fourth morning after having separated from Tamoshot. It was wreathed in mist and blended so well into the mountain rock that less observant eyes would not have noticed it.",
-        "\"What will Arman do if he catches us?\" Divino asked his brother.",
-        "\"We should have asked Tamoshot about that,\" Sergio answered. \"It's too late now though, so let's go on.\"",
-        "\"I'm afraid, Sergio.\"",
-      ],
-      "imgUrl": `${prefix}magic-mound-cover.png`,
-      "link": `${prefix}magic-mound-12-13.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-   ],
-  "Social Science": [
-    {
-      "title": "Favela children",
-      "sub-title": "",
-      "author": "Ute Creamer",
-      "description":[
-        "October 1971",
-        "The Spring holidays were reserved for my long overdue visit to the Vila da Fraternidade in Londrina/Paraná. For four years saudade-letters have been going back and forth, and now the legendary figure - a Rute do Jardim, Ute of the kindergarten - will appear in flesh and blood. On the one hand I am looking forward to it; on the other I am thinking: will they be disappointed when the real me stands before them, after having become idealized with time?",
-        "I packed two huge suitcases with all the presents accumulated over four years in Germany as well as in Sao Paulo, bought my ticket, not for the bus but for a narrow-gauge railway, second class (I wanted to arrive as I had left Londrina then) and was seen off by Katerina. I remember clearly the feeling I had as I rode four years ago through the gloomy, endless outskirts of Sao Paulo and imagined how queer it must be for people loaded down with belongings and a dozen children coming from the northeast and hurled into such a confusingly enormous city and then having to adapt to an industrialized society. The first stop for most of them is the bus or train station, in which they find themselves among the crowd wrapped in rags or lying on newspapers. The second stop for many is a favela or sleeping places under bridges and underpasses.",
-      ],
-      "imgUrl": `${prefix}favela-cover.jpg`,
-      "link": `${prefix}favela-children-10.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-   ],
-  "Spiritual Science": [
-    {
-      "title": "Death is not Proud",
-      "sub-title": "",
-      "author": "Frank Thomas Smith",
-      "description":[
-        "“Everyone now living will be dead in 100 years.”",
-        "“Not necessarily so,” my interlocutor objects. “Modern technology could change that…radically.”",
-        "“Do you mean it could eliminate death?”",
-        "“Anything’s possible.”",
-      ],
-      "imgUrl": `${prefix}calvin-hobbes.jpg`,
-      "link": `${prefix}fts-life-and-death-2.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-    {
-      "title": "Intergalactic Reincarnation",
-      "sub-title": "",
-      "author": "by Frank Thomas Smith",
-      "description":[
-        "Beyond the highest, Aconcagua's peak, Lives a lady of fragile health, Known by the name Mireya.",
-        "Her steps are slower now, embraces weak, So I will pray for her in stealth, For the life of my love Mireya.",
-        "",
-      ],
-      "imgUrl": `${prefix}   		<meta property="og:image" content="https://southerncrossreview.org/150/intergalactic.jpg`,
-      "link": `${prefix}mireya-intergalactic.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-   ],
-  "Anthroposophy": [
-    {
-      "title": "Anthroposophical Guidelines",
-      "sub-title": "",
-      "author": "Rudolf Steiner",
-      "description":[
-        "By means of meditation, one can find the I that emerges in ordinary consciousness in three additional forms: 1. In the consciousness which perceives the etheric body the I appears as an image - which at the same time is an active being and as such imparts shape, growth and formative forces to man. 2. In the consciousness which perceives the astral body, the I is manifested as a member of a spiritual world from which it derives its forces. 3. In the consciousness just described  as the last to be achieved, the I reveals itself as an autonomous being, relatively independent of its spiritual environment.  ",
-        "",
-        "",
-        "",
-      ],
-      "imgUrl": `${prefix}guidelines-image.jpg`,
-      "link": `${prefix}guidelines-13-28.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-    {
-      "title": "Toward a Threefold Society",
-      "sub-title": "",
-      "author": "Rudolf Steiner",
-      "description":[
-        "The contemporary social situation poses grave and comprehensive challenges. The demands which have arisen for new structures indicate that the solutions to these challenges must be sought in ways which have not been previously considered. Conditions being what they are, the time has perhaps come when attention will be paid to one whose experience in life obliges him to contend that thoughtlessness concerning the ways which have become necessary has resulted in social chaos. The arguments presented in this book are based on this opinion. They deal with the prerequisites for transforming the demands of a large part of contemporary humanity into purposeful social will. The formation of this will should not depend on whether the demands please some of us or not. They exist, and must be dealt with as social facts. This should be kept in mind by those whose position in life causes them to find distasteful my description of proletarian demands as something which must be reconciled by social will. I wish to speak only in accordance with the realities of contemporary life, insofar as my experience enables me to do so. I have seen the inevitable consequences of ignoring the facts which have unfolded in the life of modern man and of being blind to the necessity of a social will to deal with them.",
-        "Self-styled experts in practical matters (what have come to be regarded as practical matters under the influence of routine) will, at first, be dissatisfied with the arguments presented in this book. But it is just such persons as these who should undergo a relearning process, for their ‘expertise’ has been proven by recent events to be absolutely erroneous and has led to disastrous consequences. They must learn to recognize many things as practical which have seemed to them to be eccentric idealism. They may be critical of the fact that the early parts of the book deal more with the spiritual life of modern mankind than with economics. The author is obliged however, from his personal knowledge of life, to take the position that the errors of the past will only multiply if the decision is not made to focus attention on modern mankind's spiritual life. Equally dissatisfied with what I say in this book will be those who are continuously intoning clichés about mankind abandoning purely materialistic interests and turning to ‘the spirit’, to ‘idealism’, for I attach little importance to the mere reference to ‘the spirit’ and talk about a nebulous spiritual world. I can only recognize a spirituality which constitutes the life substance of humanity. This manifests itself in the mastery of practical aspects as well as in the formulation of a conception of the world and of life which is capable of satisfying the needs of the soul. It is not a matter of knowing — or believing to know — about spirituality, but that it be a spirituality which is also applicable to the practical realities of everyday life, one which accompanies these everyday realities and is not a mere sideline reserved for the inner life of the soul. To the ‘spiritualists’ the arguments presented in this book will be too unspiritual, while to the ‘practical’ ones they will seem unrealistic. I am of the opinion, however, that I may be useful to contemporary society in my way just because I do not share the impracticality of those persons who consider themselves to be practical, nor can I find any justification for the kind of talk about the ‘spirit’ that results in illusions.",
-      ],
-      "imgUrl": `${prefix}toward-threefold-book-cover.png`,
-      "link": `${prefix}preliminary-remarks.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-   ],
-  "Poetry": [
-    {
-      "title": "Reincarnation Blues",
-      "sub-title": "",
-      "author": "Frank Thomas Smith",
-      "description":[
-        "I'd really like again to live Not this long, but longer still. Would I then have more to give With more to feel but weaker will?",
-        "There was a time in northern climes When I thought and felt and sought And willed, but failed in troubled times; And countless were the lies I bought.",
-        "Then in seasons southern born Fluttered the spirit's broken wing, Or was it an angel in female form Whose beauty made the cosmos sing?",
-        "When I ask myself what I'm doing here I shake my head. It's neither cold here nor hot, The feeling I have is one of dread.",
-      ],
-      "imgUrl": `${prefix}r-blues-cover.jpg`,
-      "link": `${prefix}r-blues-2.html`,
-      "poem": true,
-      "mainImg": false,
-    },
-   ],
-  "Fiction": [
-    {
-      "title": "",
-      "sub-title": "",
-      "author": "Jorge Luis Borges",
-      "description":[
-        "In Asia Minor or in Alexandria, in the second century of our faith (when Basilides was announcing that the cosmos was a rash and malevolent improvisation engineered by defective angels), Nils Runeberg might have directed, with a singular intellectual passion, one of the Gnostic monasteries. Dante would have destined him, perhaps, for a fiery sepulcher; his name might have augmented the catalogues of heresiarchs, between Satornibus and Carpocrates; some fragment of his preaching, embellished with invective, might have been preserved in the apocryphal Liber adversus omnes haereses or might have perished when the firing of a monastic library consumed the last example of the Syntagma. Instead, God assigned him to the twentieth century, and to the university city of Lund. There, in 1904, he published the first edition of Kristus och Judas; there, in 1909, his masterpiece Dem hemlige Frälsaren appeared. (Of this last mentioned work there exists a German version, Der heimliche Heiland, published in 1912 by Emil Schering.)",
-        "Before undertaking an examination of the foregoing works, it is necessary to repeat that Nils Runeberg, a member of the National Evangelical Union, was deeply religious. In some salon in Paris, or even in Buenos Aires, a literary person might well rediscover Runeberg’s theses; but these arguments, presented in such a setting, would seem like frivolous and idle exercises in irrelevance or blasphemy. To Runeberg they were the key with which to decipher a central mystery of theology; they were a matter of meditation and analysis, of historic and philologic controversy, of loftiness, of jubilation, and of terror. They justified, and destroyed, his life. Whoever peruses this essay should know that it states only Runeberg’s conclusions, not his dialectic or his proof. Someone may observe that no doubt the conclusion preceded the “proofs”. For who gives himself up to looking for proofs of something he does not believe in or the predication of which he does not care about?",
-      ],
-      "imgUrl": `${prefix}judas.jpg`,
-      "link": `${prefix}borges-judas-eng.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-    {
-      "title": "Tres versiones de Judas",
-      "sub-title": "",
-      "author": "Jorge Luis Borges",
-      "description":[
-        "En el Asia Menor o en Alejandría, en el segundo siglo de nuestra fe, cuando Basílides publicaba que el cosmos era una temeraria o malvada improvisación de ángeles deficientes, Niels Runeberg hubiera dirigido, con singular pasión intelectual, uno de los coventículos gnósticos. Dante le hubiera destinado, tal vez, un sepulcro de fuego; su nombre aumentaría los catálogos de heresiarcas menores, entre Satornilo y Carpócrates; algún fragmento de sus prédicas, exonerado de injurias, perduraría en el apócrifo Liber adversus omnes haereses o habría perecido cuando el incendio de una biblioteca monástica devoró el último ejemplar del Syntagma. En cambio, Dios le deparó el siglo veinte y la ciudad universitaria de Lund. Ahí, en 1904, publicó la primera edición de Kristus och Judas; ahí, en 1909, su libro capital Den hemlige Frälsaren. (Del último hay versión alemana, ejecutada en 1912 por Emili Schering; se llama Der heimliche Heiland.)",
-      ],
-      "imgUrl": `${prefix}judas.jpg`,
-      "link": `${prefix}borges-judas-sp.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-    {
-      "title": "Love in the Life of Spies",
-      "sub-title": "",
-      "author": "Frank Thomas Smith",
-      "description":[
-        "Camp King, Oberursel, Germany",
-        "“Are you comfortable in your quarters, Frau Cornelius?” Lt. Jacks asked the attractive young lady seated across from him in Bavarian-American accented German. It was his first interrogation on his own, but he had been advised that it was routine, she was merely a defector’s wife. The room was small but tastefully decorated and they sat in padded chairs. During the war the Germans had used it for the good-cop part of interrogation. If the P.O.W.s, American and British flyers, were not cooperative they went next to the dungeon below for a few days for bad-cop softening up, no torture, just isolation, were then brought back up for more officer and gentleman treatment. Most stuck to the name, rank and serial number bit, but some were willing to discuss personal things like wives, children, home towns, with their interrogators, and this inevitably led to elements of military information. Either way, they all wound up in P.O.W. camps.",
-      ],
-      "imgUrl": `${prefix}love-life-spies-cover.jpg`,
-      "link": `${prefix}love-spies-8-9.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-   ],
-  "Education": [
-    {
-      "title": "What is Waldorf Education?",
-      "sub-title": "",
-      "author": "Stephen Sagarin",
-      "description":[
-        "Introduction",
-        "Waldorf education does not exist. It is not a “thing” and it cannot necessarily be distinguished from good education anywhere. Because it does not exist, it cannot be found in the boxes we call Waldorf schools. To narrow its definition to identify it with schools named Waldorf or Steiner schools, or to identify it with a particular curriculum or technique is to reify Waldorf education in a way that may describe part of what is but necessarily ignores what may also be. What we call Waldorf education may perhaps be found in any school, or anywhere that teachers teach and students learn. There is no characteristic or quality that is unique to what we call Waldorf education that cannot potentially be found somewhere else. Waldorf education, as an idea or set of ideas, slips through the cracks of any structure erected to define it.",
-        "Just as Waldorf education has no definite boundaries, it also has no definite origin. We may describe Waldorf education, for example, as arising from the educational conceptions of Rudolf Steiner. But many (most? all?) of these conceptions–for example, the idea that, culturally at least, “ontogeny recapitulates phylogeny” (the development of an individual mirrors in microcosm the development of the species)–may be shown to be older than Steiner and therefore not to originate with him. (Beyond inferences from Steiner’s work, the idea that “the” Waldorf curriculum must include Norse myths in fourth grade or Greek history in fifth grade–curricular practices common in Waldorf schools–is difficult to discover. It’s not in well-known lecture cycles that he gave on education, nor is it in The Study of Man and its correlates, nor may it be found in Stockmeyer’s or Heydebrand’s well-known descriptions of German Waldorf school curricula.) In particular, for the United States, the writings of Ralph Waldo Emerson contain in prototypical form many of Steiner’s ideas about education.",
-      ],
-      "imgUrl": `${prefix}shining-waldorf.jpg`,
-      "link": `${prefix}sagarin-waldorf.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-   ],
-}
