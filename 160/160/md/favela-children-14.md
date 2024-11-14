@@ -1,0 +1,219 @@
+# Favela Children - Chapter 14
+
+![](favela-cover.jpg){class="a"}
+
+## by Ute Creamer
+
+### Chapter 14
+
+ORIGINS
+
+Most favela dwellers come from the north, from Bahia, Pernambuco, Ceará,
+Minas Gerais. Many from still farther away. Most find it a thousand
+times better here then there, even if they must live in a favela. \"Here
+at least we eat. There you plant in the scorching heat and then comes
+the harvest. You harvest, but the buyer pays a miserable sum.\" Or:
+\"You plant, it doesn\'t rain, the crop is ruined.\" \"We suffered
+there, and when the harvest brought nothing in I swore never to plant
+again; two days later we left with our belongings and children, a
+two-day bus trip.\" That\'s not so much though; most leave by train,
+which takes up to ten days, depending on the distance.
+
+They usually leave their traditions and customs behind. Once in Sao
+Paulo they seldom dance the quadrilla, hardly any folk-songs are sung;
+bumba meu moi (meu boi: \"my ox\", a kind of religious theatre and
+procession) or Folia dos Reis (a musical play about the Three Wise Men),
+are hardly ever performed. Many are ashamed of these things and think
+that in the city they must be \"modern\" and sing, dance and celebrate
+differently. That\'s why life in the favela, almost everywhere in the
+city in fact, is so barren and monotonously gray. But that\'s also why
+most of them still harbor a silent nostalgia for their \"terra\", and
+many want to go back when they\'re old to live in peace on their
+savings.
+
+In the city they no longer orient themselves according to the goodness
+which emanates from the people, but according to the civilization of the
+wealthy as they see proclaimed on television, etc. - with disastrous
+results.
+
+EDUCATION
+
+Officially, there are eight years of compulsory education. But many
+children, especially girls, don\'t go to school at all because their
+parents don\'t consider it necessary, and they do more work in the home
+than the boys, who grow up much freer and hardly help at all. When they
+do go to school they are often absent and are handicapped by the fact
+that their parents can\'t help them with their homework. Furthermore,
+they have not had adequate nutrition or stimulation since the time of
+birth. They are usually left back in the first year, drag themselves
+through school life, and give up at the third or fourth grade.
+Completing four years of school is already something special and makes
+life easier, because then there are various trade courses which they can
+take: for girls hair-dresser, manicurist, seamstress, nurse\'s
+assistant; for boys: mechanic, waiter, cook, etc.
+
+EARNINGS
+
+Most favela people earn the salário mínimo (the legal minimum wage) -
+about \$100 per month. The family income is increased by what some
+children earn by shining shoes, washing cars or delivering women\'s
+shopping home in carts from the markets. This isn\'t much, but sometimes
+they earn in a day more than the father\'s daily wage. This is of course
+very tempting for them. They earn some money from which, according to
+character and inclination, they pass a larger or smaller amount to their
+homes and the rest they spend on chewing gum, sweets and similar stuff
+which they never got as small children. But the future is lost because
+they then either don\'t go to school anymore at all or only
+sporadically, reach only the second grade and never have a chance to
+learn a trade. This means that they, like their fathers, must do the
+heaviest and dirtiest work.
+
+FOOD
+
+Rice and beans, rice and beans, rice and beans, for lunch and supper.
+The beans are usually cooked in a pot, spiced with some garlic, and rice
+is added. Also mistura (mixture). This means everything else, for
+example meat and vegetables. The poorer ones divide a small piece of meat among the
+members of the family. Vegetables are hardly ever eaten and when they
+are it\'s mostly tomatoes and \"leaves\" (any kind of lettuce). But in
+general green is written in small letters. For example, if something
+better is cooked for Christmas, it consists of rice and beans, somewhat
+more meat (usually chicken), noodles with tomato sauce, \"maionese\",
+that is, potato salad with mayonnaise. Meals are monotonous and
+stereotyped. On the one hand it\'s practical, for the housewife\'s
+dilemma \"What will I cook?\" is absent. On the other hand this monotony
+has negative effects which go beyond the physical. At home I hardly ever
+cook beans and rice and \"invent\" new meals from leftovers. That\'s
+what I always tell the children, that cooking is an art and that they
+should invent something, even if it\'s not always successful.
+
+In the north rice (which isn\'t native to Brazil, having established
+itself around 1810 with the opening of the harbors) is hardly eaten.
+Sweet potatoes, manioca, cará and other roots are preferred. A lot of
+manioca-meal is eaten with beans. (We call it sawdust because it\'s so
+dry and you have difficulty swallowing it at first.)
+
+DIARY 1976-1980
+
+7 September 1976. Brazil\'s Independence Day
+
+I first stepped on Brazilian soil eleven years ago. Surely I was more
+rested then after a 24 day ocean voyage than I am now. In any case, I am
+exhausted today and really feel the need for a rest. I must take a
+breath and objectively think about what I am to do during the next years
+of my life, whether I\'ll stay in the Waldorf School or not, what I can
+accomplish here, etc. Many who think altruistically say I should
+dedicate myself completely to the \"poor\". But how? I must earn money.
+Furthermore, I find that the wealthy children are often just as poor,
+when I consider the more difficult cases in my class.
+
+NOVEMBER 1976
+
+The school play is approaching with enormous strides. The performance of
+\"Widukind\" with my eighth grade is almost upon us. I am torn asunder
+between rehearsals, painting scenery, costume fittings and my
+housewifely duties. The children at home bear it calmly and often
+receive me with nice surprises. Besides all this are the normal classes,
+preparation for Christmas, etc.
+
+CHRISTMAAS 1976
+
+Every year Waldorf schools perform the \"Oberurfer Christmas play\". For
+the past three years I have been taking increasing numbers of favela
+children to see it. This time there were about forty. And how do you
+organize this bunch to get them all into the city buses? Well, it\'s not
+easy, but the mass isn\'t so amorphous either, for smaller groups
+develop naturally within the larger one, which is difficult to oversee
+as a whole. Older children care for younger ones, brothers and sisters
+watch out that they are all still there.
+
+Before we depart I look to see if we are more or less presentable. They
+all gather in front of my gate. \" Blow your nose.\" - \"Go and wash
+your hands.\" - \"Get the comb in the children\'s room and comb your
+hair and if it\'s still too stringy, put a kerchief over it.\"
+
+A boy with whom I had only a nodding acquaintance came without shoes. I
+loaned him a pair of Ruben\'s. But they didn\'t fit, so he carried them
+in his hands and when we arrived at the school he placed them neatly at
+the entrance of the auditorium. Being so squeezed in was just too
+unusual for him. After all, the shepherds go barefoot in the Christmas
+play.
+
+Finally we are ready to march. Divided into two groups, I push them into
+the first bus, then the second. \"We\'ll meet at the Borba Gato
+bus-stop.\" Except for the bigger ones, the children all pass through
+the turnstile without having to pay.
+
+I march up the hill to the Waldorf School with this endless tail of
+children. In an orderly column we enter the auditorium. Many parents
+smile, touched; others look on somewhat shocked at this unexpected,
+unusual sight of poor, brown, black (but also white) children in this
+\"white\" setting. We sit in the first rows and they all beam at me. The
+play begins, the angel floats in.
+
+\"An angel!\" Vitoria cries from the heart. She, who is so pitch-black
+and always pushed aside by the others, could hardly grasp the angel\'s
+brilliant white light. For most of them theater is reality.
+
+We met Peter Schmidt of the Giroflex factory on the way back. \"What is
+this mob of children?\" I briefly described our work in the favela.
+\"We\'ll come back to that again,\" he said. A historic phrase! For he
+really did come back to it, for which I am eternally grateful. He was
+the first to take our work seriously and promised to help. And not only
+promised. In 1977 we had a teacher paid by Giroflex. We were thus able
+to expand the favela work and the children could come every day. After a
+bad experience with a trained teacher, I employed Cido as youth
+supervisor, cooking teacher, etc. The children were thrilled. Cido is
+simply ideal in that he has imagination, ideas, likes to work, feels
+good with the children, is able to handle the large groups that stream
+to us during festivals. Furthermore, he was poor himself as a child and
+knows how it feels.
+
+The number of children has grown enormously. Thank God Dona Regina and
+Dona Helena had pity on us. Dona Regina sews purses, pillowcases,
+blankets with the children from leftovers and tells them stories while
+doing so. Dona Helena knits with them -- wallets, dwarf-dolls, sweaters.
+Both are desperate for more room. We are so cramped. Everything is done
+in the tiny children's room, which contains a three-tier bed, a closet
+and desk. Children swarm everywhere -- on the bed, the floor, the desk.
+And the smell and the heat that develop after two hours of work! The
+smell improves somewhat when Cido is giving his cooking lessons at the
+same time. Meanwhile I help the children with their homework, clear a
+niche in the kitchen to prepare supper, listen to Ruben's multiplication
+tables practice, do rhythmic clapping with Marcia, etc.
+
+Space! Space! Space is what we need!
+
+JULY 1977
+
+I\'ve just returned from Guarajú, the beach serving the Sao Paulo upper
+crust. Dr. Gudrun of the anthroposophical clinic lent us her holiday
+house for a week. Us, that is, me and fourteen children from the favela
+as well as Maristela, Marcia and Rubens. As the children entered the
+house they were stunned for a moment, then broke out in cries of joy,
+ran through all the rooms and just couldn\'t believe that it would
+belong to them for a week. The same thing happened when we went to the
+sea: first apprehension looking at the infinite expanse of water, then
+they skipped in screaming for happiness. So much water all at once. Most
+of them knew only the miserable favela stream
+
+where they get their water. The week was a complete success: water, sun,
+an excess of room to play, rocks to climb, sand and castles and
+waterfalls to build. For once they were always clean, with full stomachs
+and occupied as children should be. I could teach them all the games I
+knew (ball-games, halma, memory, mikado, jumping, racing) During the
+mid-day break they read, drew or knitted. Most impressive was that
+everything was fun, even the things which don\'t usually inspire much
+enthusiasm like cooking and washing dishes. My main occupation at the
+sea was counting heads in the waves. What a fright when one wasn\'t
+visible behind the waves!
+
+To be continued.
+
+[Chapter 13](https://southerncrossreview.org/159/favela-children-13.html)
+
+Translated from the German by Frank Thomas Smith.
+
+This great book is available for purchase at [Amazon](https://www.amazon.com/Favela-children-Brazilian-Ute-Craemer/dp/194830242X) in paperback and kindle.
+
+Also at [Barnes and Noble](https://www.barnesandnoble.com/w/favela-children-ute-craemer/1141416925?ean=9781948302425) as an ebook.
