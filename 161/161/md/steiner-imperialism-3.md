@@ -1,0 +1,585 @@
+# The History and Actuality of Imperialism
+
+![](imperialism1.jpg){class="a"}
+
+## Rudolf Steiner
+
+### Lecture 3 of 3 – Dornach, February 22, 1920
+
+Unabridged translation: Frank Thomas Smith
+
+When you consider what has been said here during the past two days
+you will see that what belongs to the essence of imperialism is
+that in an imperialistic community something that was felt to be
+part of a mission – not necessarily justified, but understandable
+– later continued on as an automatism, so to speak. In the history
+of human development things are retained – simply due to indolence
+– which were once justified or explicable, but no longer are.
+
+If a community is obliged to defend itself for a period of time,
+then it is surely justified to create certain professions for that
+purpose: police and military professions. But when the danger
+against which defense was necessary no longer exists, the
+professions continue to exist. The people involved must remain.
+They want to continue to exercise their professions and therefore
+we have something which is no longer justified by the
+circumstances. Something develops which, although perhaps
+originating due to the necessity for defense, takes on an
+aggressive character. It is so with all empires, except the
+original imperialism of the first human societies, of which I
+spoke yesterday, in which the people's mentality considered the
+ruler to be a god and thus justified in expanding his domain as
+far as possible. This justification was no longer there in all the
+subsequent empires.
+
+Let us now consider once again from definite viewpoints what is
+apparent in the historical evolution of mankind. We find that in
+the oldest times the will of the individual who was seen as divine
+was the indisputable power factor. In public life there was in
+reality nothing to discuss in such empires; but this impossibility
+of discussion was grounded in the fact that a god in human form
+walked the earth as the ruler. That was, if I may say so, a secure
+foundation for public affairs.
+
+Gradually all that which was based on divine will and was thus
+secure passed over to the second stage. In that stage the things
+which can be observed in physical life, be they persons, be they
+the persons' insignias, be they the deeds of the governing or
+ruling persons, it was all symbols, signs. Whereas during the
+first phase of imperialism here in the physical world the spirit
+was considered directly present, during the second stage
+everything physical was thought of as a reflection, as an image,
+as a symbol for what is not actually present in the physical
+world, but only illustrated by the persons and deeds in the
+physical world.
+
+Such times, when the second stage appeared, was when it first
+occurred to people that a possibility for discussion of public
+affairs was possible. What we today call rights can hardly be
+considered as existing during the first stage. And the only
+political institution worth mentioning was the phenomenon of
+divine power exercised by physical people. In social affairs the
+only thing that mattered was the concrete will of a physical
+person. To try to judge whether this will was justified or not
+makes no sense. It was just there. It had to be obeyed. To discuss
+whether the god in human form should or should not do this or that
+made no sense. In fact it was not done during those times when the
+conditions I have described really existed. But if one only saw an
+image of the spiritual world in physical institutions, if one
+spoke of what Saint Augustine called the “City of God” - that is,
+the state which exists here on earth, but which is really an image
+of heavenly facts and personalities, then one can hold the opinion
+that what the person does who is a divine image is right, is a
+true image: someone else could object and say that it is not a
+true image. That's when the possibility of discussion originated.
+The person of today, because he is accustomed to criticize
+everything, to discuss everything, thinks that to criticize and
+discuss was always present in human history. That is not true.
+Discussing and criticizing are attributes of the second stage,
+which I have described for you. Thus began the possibility to
+judge on one's own, that is, to add a predicate to a subject. In
+the oldest forms of human expression this personal judging was not
+at all present in respect to public affairs. During the second
+stage what we call today parliament for example was in
+preparation; for a parliament only makes sense when it is possible
+to discuss public affairs. Therefore, even the most primitive form
+of public discourse was a characteristic of the second stage.
+
+Today we live in the third stage, insofar as the characteristic
+form of the western countries more or less spreads over the world.
+This is the stage of platitudes. This stage of platitudes, as I
+characterized it to you yesterday, is the one in which the inner
+substance has also disappeared from discussion and therefore
+everyone can be right, or at least think that they are right, when
+it can't be proved that they are wrong, because basically within
+the world of platitudes everything can be affirmed. Nevertheless,
+previous stages are always retained within the next stages.
+Therefore the inner impulse to imperialism exists. People observe
+things very superficially. When the previous German kaiser wrote
+in a book that was opened out to write in: “The king's will is
+sublime law” – what did it mean? It meant that he expressed
+himself in the age of platitudes in a manner that only had meaning
+for the first stage. In the first stage it was really the case
+that the ruler's will was highest law. The concept of rights,
+which includes the right of free speech, and involves lawyers and
+courts, is essentially a characteristic of the second stage, and
+can only be grasped in its reality from the viewpoint of the
+second stage. Whoever has followed how much discussion has taken
+place about the origin and character of rights will have noticed
+that there is something shimmering in the rights concept as such,
+because it is applicable to the symbolic stage, where the
+spiritual shimmers through the material, shines, so that when only
+the external signs, the legal aspects and words appear, one can
+argue and discuss what are rights and the legal system in public
+discourse.
+
+In the age of the platitudes, however, understanding of what is
+necessary for rights in society is completely lost: that the
+spiritual kingdom shines through into the physical kingdom. And
+then one arrives at such definitions as I described yesterday
+using the example of Woodrow Wilson. I will now read to you a
+definition of the law that Woodrow Wilson gave so you can see how
+this definition consists of nothing but platitudes. He said: “The
+law is the will of the state in respect to those citizens who are
+bound by it.” So the state unfolds a will! One can well imagine
+that someone who is embedded so strongly in abstract idealism, not
+to mention materialism – for they are practically the same – can
+claim that the state is supposed to have a will. He would have to
+have lost all sense of reality to even conceive of such a thing
+let alone write it down. But it is in the book I spoke to you
+about yesterday – the codex of platitudes: *The State, Elements of
+Historical and Practical Politics.*
+
+There are other interesting things in it. Only in parenthesis I
+would like to draw your attention to what Wilson says in this book
+about the German Empire after he describes how the efforts to
+found it were finally successful in 1870/71. He describes this
+with the following sentences: “The final incentive for achievement
+of complete national unity was brought about by the German-French
+war of 1870/71. Prussia's brilliant success in this struggle,
+fought in the interest of German patriotism against French
+impertinence, caused the cool restraint of the central states
+towards their powerful neighbor in the north to end; they united
+with the rest of Germany and the German Empire was founded in the
+royal palace at Versailles on January 18, 1871.“ The same man
+wrote that who a short time later in Versailles united with those
+whose impertinence had once been the motivation for the founding
+of the German Empire. Much of present day public opinion derives
+from the fact that people are so terribly superficial and pay no
+attention to the facts. If you decide to decide according to
+objective information, then things look quite different from what
+is propounded in public and accepted by thousands upon thousands
+of people. It wouldn't have hurt one bit if when Woodrow Wilson
+arrived in Paris in glory, praised from all sides, if these
+remarks had been held up to him. That is what must be striven for,
+to take the facts into account, which means also the truth.
+
+So the second stage is when discussion arises, which is what makes
+the civil rights concept possible. The third stage is when
+economic life is the essential reality. And yesterday we showed
+how this \[present\] age of platitudes is absolutely necessary in
+the course of historical evolution in order that the platitude,
+which is empty, can open people's eyes to the fact that the only
+reality is economic life and how it is therefore so necessary to
+propagate spirituality, the new spirituality in the world.
+
+People have quite a skimpy idea about this new spiritual life. And
+it is therefore understandable that it is burdened with the most
+ridiculous misunderstandings. For this new spirituality must
+penetrate into the depths of human life. And although those secret
+societies, about which I spoke yesterday, only traditionally
+preserve the old forms, the slogan “brothers”, meaning not to let
+social class or an individual's religion play a part in the
+lodges, in a certain sense does prepare for it in the right way.
+
+We say today – I beg you to pay special attention to this, let's
+take something quite banal, quite common: “The tree is green”.
+This is a manner of speaking which is common to the second stage
+of human development. Perhaps you will understand me better if you
+imagine that we try to paint this opinion – that “the tree is
+green”. You cannot paint it! There will be some white surface and
+green will be added, but nothing about the tree has been painted.
+And when something of the tree is painted which isn't green all
+you do is disturb the effect even more. If you try to paint “The
+tree is green”, you are painting something dead. The way we
+combine subject and predicate in our speech is only useful for our
+view of the dead, of the non-living in the world. As we still have
+no idea of how everything in the world is alive, and how to
+express ourselves about what is alive, we form such judgments as
+“The tree is green”, which presupposes that a relationship exists
+between something and the color green, whereas the color green is
+itself the creative element, the force which acts and lives. The
+transformation of human thinking and feeling will have to take
+place within the innermost life of the soul. This will take a long
+time to accomplish, but when it does it will affect social
+conditions and how people relate to each other.
+
+Today we are only at the beginning of all this. But it is
+necessary to know which paths lead to the light. I have said that
+it is meaningful when people get together and each one's
+subjective beliefs play no role. And consider it from this
+viewpoint – really think about it – the way in which anthroposophy
+is described. It is not described through definitions or ordinary
+judgments. We try to create images, to present things from the
+most varied sides, and it is senseless to try and nail down
+something meant in a spiritual-scientific sense with a mere yes or
+no opinion. People today always want to do that, but it isn't
+possible.
+
+In happens ever more frequently – because we are growing out of
+the second stage and into the third – that someone asks: What is
+good for me in order to counter this or that difficulty in life?
+Advice is given. Aha! The person concerned says, so in this or
+that situation in life one must do this or that. They generalize.
+But it has only a limited meaning, for judgments given from the
+spiritual world always only have only an individual meaning, are
+only applicable to one case. This way of generalizing, which we
+have become accustomed to in the second stage, must not continue
+into the third stage. People today are very much inclined to carry
+things over from the past into the future. One can become
+disinclined towards the things which are pernicious for the soul
+by seeing clearly what is happening.
+
+Yesterday I indicated to you that in many respects the Catholic
+Church harks back to the first stage. It contains something like a
+sham or a shadow of the first stage of human evolution, which
+sometimes solidifies into a kind of spiritual imperialism, as for
+example in the 11th century when the [Monks of
+Cluny](https://en.wikipedia.org/wiki/Cluny_Abbey) ruled over
+Europe more than than is thought. From their ranks the powerful,
+imperialistic Pope Gregory VII emerged. Therefore Roman Catholic
+dogma enables the priest to feel greater than Christ, because he
+can force him to be present at the altar. This clearly shows that
+the institution of the Catholic Church is a relic, a shadow-image
+of what existed in the very first imperialism.
+
+You know that a great enmity existed between the Catholic Church
+and the secret societies which used Freemasonry in the west – a
+certain form of Freemasonry at least – as their instrument. It
+would go too far in this lecture to describe in detail how this
+enmity has gradually increased over time. But one thing can be
+said, how in these secret societies the opinion is very strong
+that the Catholic Church is a relic of the first stage of
+imperialism. The Holy Roman Empire used this framework to have
+Charlemagne and the Ottos crowned by the pope, thereby using the
+imperialism of the soul as the means of mundane anointment. They
+took what still remained from older times and poured it into the
+new. Thus the imperialism of the second stage was poured into the
+framework of the first imperialism.
+
+Now we have arrived at the third stage, which shows itself to be
+economic imperialism, especially in the west. This economic
+imperialism is connected to a background culture of secret
+societies, which are sated with empty symbols. But while it has
+become clear that the social constitution of the Church is a
+shadow-image of what once existed and no longer has meaning, it is
+still not understood that in the second stage the statesmen of the
+west still suffer under a great illusion. Woodrow Wilson would no
+longer speak of the will of the Church, but he speaks of the will
+of the State as being self-evident.
+
+But the state only had the importance attributed to it during the
+second stage of human development. Whereas during the oldest, the
+first stage the Church was all-powerful, in the second stage the
+state contains everything that was attributed to the Church in the
+first stage. Thus the economic imperialism of Great Britain and
+even a certain idea of freedom has been poured into the state. And
+those who were educated in Great Britain see in the state
+something that can well have a will of its own.
+
+But we must perceive that this concept of the state must take the
+same road the concept of the Church has traveled. It must be
+realized: If we retain this concept of the state for the entire
+social organism, a mere rights institution, and force everything
+else into this rights institution, we are propagating a shadow
+just as the Church has propagated a shadow – recognized as such by
+the secret societies. There is little awareness of this though.
+Think of all the public affairs that people are enthusiastic about
+which are pressed into the concept of the political state. There
+are nationalists, chauvinists and so forth; everything we call
+nation, national , chauvinism, it's all incorporated into the
+framework of the state. Nationalism is added and the concept of
+the “nation-state” is construed. Or we may have a certain opinion
+about, say socialism, even radical socialism: the framework of the
+state is used. Instead of nationalism, socialism is incorporated.
+But then we have no concept; it can only be a shadow-image, as the
+constitution of the Church has become.
+
+In some Protestant circles the idea has arisen that the Church is
+only the visible institution, that the essence of religion must
+take root in people's hearts. But this degree of human development
+has not yet arrived in respect to the political state, otherwise
+we wouldn't be trying to squeeze all kinds of nationalisms into
+the political boundaries which exist as the result of the war
+\[First World War – trans.\] All this neglects to take one thing
+into consideration – the fact that what occurs in the historical
+development of humanity is life and not mechanism. And a
+characteristic of life is that it comes and goes. The
+imperialistic approach is different however. According to this
+approach one does not think about the future. This is part of the
+present-day approach to public affairs, that people have no living
+thoughts, only dead ones. They think: Today we instituted
+something, it is good, therefore it must remain forever. The
+feminist movement thinks like this, as do the socialists and the
+nationalists. We have founded something, it begins with us,
+everything waited for us until we became clever enough. And now we
+have discovered the cleverest that exists and it will continue to
+exist forever. It's as though I have brought up a child until he
+is eighteen years old and I say: I have brought him up correctly,
+and he will stay as he is. But he will get older, and he will also
+die, as does everything in the course of human evolution.
+
+Now I come to what I mention before about what must accompany the
+principle of indifference to one's religious beliefs and
+fraternity. What must accompany them is the awareness that life on
+earth includes death and that we are aware that the institutions
+we create must of necessity also cease to exist, because the death
+principle already resides in them and they therefore have no wish
+to exist forever, do not consider being permanent.
+
+Of course under the influence of the thinking characteristic of
+the second stage this is not possible . But if the feeling of
+shame of which I spoke yesterday arises, when we realize that we
+are living in the kingdom of platitudes under which only economic
+imperialism glimmers – then will we call for the spirit, invisible
+but real. We will call for a knowledge of the spirit, one which
+speaks of an invisible kingdom, a kingdom which is not of this
+world in which the Christ-impulse can actually gain a foothold.
+
+This can only happen when the social order is tripartite,
+threefold: The economy is auto-administered, the political state
+is no longer the absolute, all-inclusive entity, but is
+exclusively concerned with with rights alone, and
+spiritual/cultural life is truly free, meaning that here in
+reality a free spiritual sector can be organized. The spiritual
+life of humanity can only be free if it is dependent only upon
+itself and when all the institutions responsible for cultivating
+the spirit, that is, cultural life, are dependent only upon
+themselves.
+
+What do we have then, when we have this tripartite organism, this
+social organism? We have an economy in which the living physical
+earth is predominant. In this sector the economic forces of the
+economy itself are active. I doubt anyone will think that if the
+economy is organized as described in my book [Towards Social
+Renewal – Basic Issues of the Social
+Question](https://southerncrossreview.org/Ebooks/ebbasicissues2.htm)
+some kind of super-sensible forces will be present. When we eat,
+when we prepare out food, when we make our clothing, it is all
+reality. Esthetics may be symbolically present, but the actual
+clothing is the reality.
+
+When we look at the second sector of the future social organism
+\[the rights sector\], we don't a symbolism like the second stage,
+where the political state constituted the totality, but we have
+what is valid for one person being equally valid for the other.
+
+And the third sector will be neither symbol nor platitude, but a
+spiritual/cultural reality. The spirit will possess the
+possibility of really living within humanity.
+
+The inner social order can only be built through a transition to
+inner truthfulness. In the age of platitudes this will be
+especially difficult though. For during the age of platitudes
+people acquire a certain ingenious cleverness, which is, however,
+nothing more than a play on words of the old concepts. Just
+consider for a moment a characteristic example. Suddenly from the
+imperialism of platitudes comes the idea that it would be good if
+the queen of England also has the title “Empress of India”. One
+can invent the most beautiful reasons for this, but if it didn't
+happen, nothing would have changed. The Emperor of Austria, who
+now belongs to the deposed royalty, before he was chased out
+carried around along with his other titles a most unusual one:
+Franz Joseph I, Emperor of Austria, Apostolic King of Hungary,
+King of Bohemia, Dalmatia, Croatia, Slovenia, Galizia, Lodomeria,
+Illyia and so on. Among all these titles was also “King of
+Jerusalem”! The Austrian Emperor also carried, until he was no
+longer emperor, the title “King of Jerusalem”. It came from the
+crusades. It would be impossible to give a better example of
+meaninglessness than this. And such meaninglessness plays a much
+greater role than you imagine. It a question of whether we can
+arise to a recognition of the present-day platitudes. It is made
+difficult because those who live in platitudes are the verbal
+representatives of the old concepts that stagger around in their
+brains imitating thoughts. But one can only achieve real thinking
+again when the inner soul-life is filled with substance and that
+can only come from knowledge of the spiritual world, of spiritual
+life. Only by being relieved by the spirit can one become a
+complete person, after having been constipated with platitudes.
+
+What I described yesterday as a feeling of shame will result in
+the call for the spirit. And the propagation of the spirit will
+only be possible if the spiritual/cultural sector is allowed to
+develop independently. Otherwise we will always have to take
+advantage of loopholes, as was the case with the Waldorf School
+because the Württemberg Province education law had such a loophole
+which made it possible to establish a Waldorf school only
+according spiritual laws, according to spiritual principles,
+something which in practically no only place on earth would be
+possible. But one can only organize the things concerning the
+spiritual life from the spirit itself if the other two sectors do
+not interfere, if everything is taken directly from the spiritual
+sector itself.
+
+At present the tendency is the reverse. But this tendency does not
+reckon with the fact that with every new generation a new
+spiritual/cultural life appears on earth. It's immaterial whether
+a dictatorship or a republic is established, if it is not
+understood that everything which appears is subject to life and
+must be continuously transformed, must pass through death and be
+formed anew, pass through metamorphoses, then all that will be
+accomplished is that every new generation will be revolutionary.
+Because only what is considered good for the present will be
+established. A fundamental concept for the western areas which are
+so mired in platitudes must be to see the social organism as
+something living. And one sees it as living only when it is
+considered in its threefold nature. It is just those whose
+favorable economic position allows them to spread an \[economic\]
+imperialism over practically the whole world who have the terrible
+responsibility of recognizing that the cultivation of a true
+spiritual life must be poured into this imperialism. It is ironic
+that an economic empire which spread over the whole world was
+founded on the British Isles and then when they were seeking
+mystical spirituality turned to those whom they had economically
+conquered and exploited. \[India – Tr.\] The obligation exists to
+allow one's own spiritual substance to flow into the social
+organism.
+
+That is the awareness which our British friends should take with
+them, that now, in this worldwide important historic moment, in
+all the world's economic institutions where English is spoken, the
+responsibility exists to introduce true spirituality into the
+exterior economic empire. It's an either/or situation: Either
+efforts remain exclusively oriented towards the economy – in which
+case the fall of earthly civilization is the inevitable result –
+or spirit will be poured into this economic empire, in which case
+what was intended for earthly evolution will be achieved. I would
+like to say: Every morning we should bear this in mind very
+seriously and all activities should be organized according to this
+impulse. The bell tolls with extreme urgency at present – with
+terrible urgency. In a certain sense we have reached the climax of
+platitudes. In an age when all content has been squeezed out of
+platitudes, content which came to humanity previously but which no
+longer has any meaning, we must absorb real substantial content
+into our psychological and social life. We must be clear about the
+fact that this either/or must be decided by each individual for
+him or her self and that each must participate in this decision
+with his most inner force of soul. Otherwise he does not
+participate in the affairs of humanity.
+
+But the attraction for illusion is especially strong in the age of
+platitudes. We wish so to sweep away the seriousness of life. We
+avoid looking at the truth inherent in our evolution. How could
+people let themselves be deceived by Wilsonian ideas if they
+really had the intense desire for truthful clarity? It must come.
+The desire for truth must grow in humanity. Above all, the desire
+for the liberation of spiritual/cultural life must grow along with
+the knowledge that nobody has the right to call himself a
+Christian who has not grasped the saying: “My kingdom is not of
+this world.”
+
+This means that the kingdom of Christ must become an invisible
+kingdom, a truly invisible empire, an empire of which one speaks
+as of invisible things. Only when spiritual science gains in
+importance will people speak of this empire. Not some church, not
+some state, not some economic empire can create this empire. Only
+the will of the individual who lives in a liberated
+spiritual/cultural life can create this empire.
+
+It is difficult to believe that in the lands in which people are
+downtrodden much can be done to free spiritual life. Therefore it
+must be done in those lands where the people are not downtrodden
+politically, economically and, obviously, not spiritually
+downtrodden. Above all it must be realized that we have not
+arrived at the day when we say: Until now things have gone
+downhill, they will go uphill again! No, if people do not act for
+this objective out of the spirit, things will not go uphill again,
+but will continue downhill. Humanity does not live today from what
+it has produced – for to produce again a spiritual impulse is
+necessary – humanity lives today from reserves, from old reserves,
+and they are being used up. And it is childish and naïve to think
+that a low point is reached some day and things will get better
+then, even with our hands in our laps. That's not how it is. And I
+would like to see that the words spoken here kindle a fire in the
+hearts of those who belong to the anthroposophical movement. I
+would hope that the specter which perhaps haunts those who find
+their way to this anthroposophical movement be overcome by the
+spirit meant here. It is certainly true that someone who finds his
+way to such a movement often seeks something for himself, for his
+soul. Of course he can have that, but only in order to stand with
+his soul in the service of the whole. He should advance,
+certainly, for himself, but only so mankind can advance through
+him. I cannot say that often enough. It should be added to those
+things I said should be thought about every morning.
+
+If we had really taken the inner impulse of this movement
+seriously, we would have been much farther along. But perhaps what
+is done in our circles does not help advance towards the future,
+but is often a hindrance. We should ask ourselves why this is so.
+It is very important. And above all we should not think that the
+sharpest powers of opposition are not active from all sides
+against what strives for the well-being of humanity.
+
+I have already indicated to you what is being done in the world in
+opposition to our movement, what hostility is activated against
+us. I feel myself obliged to make these things known to you, so
+that you should never say to yourself: We have already refuted
+this or that. We have refuted nothing, because these opponents are
+not interested in the truth. They prefer to ignore as much as
+possible the facts and simply aim slanderous accusations from all
+corners.
+
+I would like to read part of a letter to you which arrived
+recently from Oslo. “One of our anthroposophical friends works in
+a so-called people's college in Oslo together with a certain
+Shirmer. This Mr Shirmer is in a certain sense quite a proficient
+teacher, but is also a fanatical racist and a sworn anti-Semite.
+At a people's meeting where three of us gave lectures about the
+Threefold Society, he talked against us, or rather against Dr.
+Steiner's [Towards Social
+Renewal](https://southerncrossreview.org/Ebooks/ebbasicissues2.htm),
+although without much success. The guy has a certain influence in
+teachers' circles and he works in his own way in the sense of the
+social triformation in the school insofar as he is for freedom,
+but on the other hand he works against the social triformation and
+Dr Steiner for the simple reason that he suspects that Dr Steiner
+is a Jew. That is perhaps not so bad. We must expect and overcome
+more serious opposition. But now he has received confirmation of
+his suspicion. He turned to an “authority”, namely the editor of
+the political anthropological monthly, Berlin-Steglitz. This
+purely anti-Semitic magazine wrote to him that Dr. Steiner is a
+Jew through and through. He is associated with the Zionists. And
+the editor added that they, the anti-Semites, have had their eye
+on you \[Dr Steiner\] for a long time. Mr Schirmer also says that
+a persecution of the Jews is beginning now in Germany, and that
+all the Jews on the anti-Semites' blacklist should be simply shot
+down or, as they say, rendered harmless.” and so on.
+
+You see, this has nothing to do with antisemitism as such, that's
+only on the face of it. They choose slogans in these situations,
+with which they try to accomplish as much as possible with people
+who listen to slogans. But such things clearly indicate what most
+people don't want to see, what they want to ignore more and more.
+It is today much more serious that you think, and we should not
+ignore the seriousness of the times, but should realize that we
+are only at the beginning of these things which are opposed to
+everything that is intended to advance human progress. And that we
+should never, without neglecting our responsibilities, divert our
+attention from what is a radical evil within humanity, what
+manifests as a radical evil within humanity. The worst that can
+happen today is paying attention to mere slogans and platitudes,
+and believing that outdated concepts somehow have roots in human
+reality today – if we do not initiate a new reality from the
+sources of the spirit itself.
+
+That, my dear friends, was what I wanted to tell you today, first
+of all to all of you, but especially to those whose visit has
+pleased us greatly – especially to our English friends, so that
+when they return to their own country, where it will be so
+important, they will have something on which to base their
+activities. You will have seen that I have not spoken in favor or
+against anyone, nor have I flattered anyone. I only speak here in
+order to say the truth. I have known theosophists who when they
+speak to members of a foreign nation begin to talk about what an
+honor it is to be able to spread the teachings about the spiritual
+life in a nation which has accumulated so much glory. Such things
+cannot be said to you here. But I believe that you have come here
+to hear the truth and I think that I have best served you by
+really trying to tell the unvarnished truth. You will have learned
+during your trip that telling the truth nowadays is not a
+comfortable thing, for the truth calls forth opposition now more
+than ever. Do not be afraid of opposition, for they are one and
+the same: to have enemies and to tell the truth. And we will
+understand each other best when our mutual understanding is based
+on the desire to hear the unvarnished truth.
+
+Before I leave for Germany, this is what I wanted to say to you
+today, and especially to our English friends.
+
+[Lecture
+Two](https://southerncrossreview.org/74/imperialism2.html)
+
+Rudolf Steiner's three lectures about imperialism may be purchased
+in paperback or kindle versions at Amazon
+[HERE](https://www.amazon.com/History-Actuality-Imperialism-Rudolf-Steiner/dp/1948302209)
+at special discounted prices.
