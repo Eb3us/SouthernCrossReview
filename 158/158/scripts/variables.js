@@ -1,24 +1,24 @@
 export {
-  stylesheet,
-  toggleStylesheetLightButton,
-  toggleStylesheetDarkButton,
-  navMenu,
-  navDivTop,
-  mainPage,
-  topBar,
-  lightDarkWarning,
   abnormalLogo,
   abnormalLogoStylesheet,
   footerAbnormal,
   introScreen,
-  stylesheetSelector,
-  previousStylesheet,
+  lightDarkWarning,
+  mainPage,
+  menuBar,
   //mobile
   menuButton,
+  navDivTop,
+  navMenu,
   navMobile,
-  menuBar,
   pageName,
   prefix,
+  previousStylesheet,
+  stylesheet,
+  stylesheetSelector,
+  toggleStylesheetDarkButton,
+  toggleStylesheetLightButton,
+  topBar,
 };
 const stylesheet = document.querySelector("#stylesheet");
 const toggleStylesheetLightButton = document.querySelector("#light");
@@ -38,6 +38,6 @@ const menuButton = document.querySelector("#menu-button-open-close");
 const navMobile = document.querySelector("#mobile-nav-menu");
 const menuBar = document.querySelector("#mobile-menu-bar");
 const pageName = document.querySelector("#page-name");
-/*change prefix from "./" for test page inside the issue's 
+/*change prefix from "./" for test page inside the issue's
 folder to "./issue-number/" for root index file */
-const prefix = "./158/";
+const prefix = "./";
