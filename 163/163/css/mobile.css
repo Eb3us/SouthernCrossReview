@@ -1,0 +1,256 @@
+html {
+    width: 98%;
+}
+body,
+html {
+    overflow-x: hidden;
+}
+body {
+    padding: 0;
+    width: 100%;
+}
+.intro-screen-title {
+    height: 100vh;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    top: 25%;
+    width: 100vw;
+}
+#top-bar {
+    flex-direction: column;
+    overflow: hidden;
+}
+#top-bar-left-div {
+    margin-bottom: 0.5em;
+}
+#top-bar-title {
+    font-size: 100%;
+    margin-right: 0.5em;
+}
+#date-and-issue {
+    font-size: 70%;
+}
+#top-bar-right-div {
+    width: 96%;
+}
+#search-bar {
+    width: 90%;
+}
+#share-icons {
+    width: 50%;
+}
+#logo-face,
+#logo-mail,
+#logo-twitter {
+    width: 1.5em;
+}
+#logo-mail {
+    margin-top: 0.25em;
+}
+#light_dark {
+    width: 20%;
+}
+#light_dark div {
+    margin: 0;
+    padding: 0;
+    width: auto;
+    width: 2em;
+}
+#light_dark img {
+    max-height: 1.6em;
+}
+#light-dark-warning {
+    font-size: 0.8em;
+    padding: 7em 0 0 0.5em;
+    right: 0.2em;
+    width: 60vw;
+}
+#mobile-menu-bar {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    max-height: 1.8em;
+    overflow: hidden;
+}
+.menu-mobile {
+    display: none;
+    max-height: 1em;
+    padding: 3em;
+}
+.open {
+    display: block;
+    max-height: 100em;
+}
+#page-name {
+    color: #ffdbb9;
+    font-family: Architects Daughter;
+    font-size: 1.3em;
+    margin-left: 0.2em;
+}
+#menu-button-open-close {
+    cursor: pointer;
+    margin-right: 1.5em;
+    transition: all 0.5s ease-out;
+    width: 1.7em;
+}
+.menu-button-line {
+    background-color: #fff;
+    height: 2px;
+    margin-top: 5px;
+    transition: all 0.5s ease-out;
+    width: 100%;
+}
+#menu-button-open-close.close {
+    transform: rotate(180deg);
+}
+#menu-button-open-close.close .menu-button-line:first-child {
+    transform: rotate(45deg) translate(4px, 5px);
+}
+#menu-button-open-close.close .menu-button-line:nth-child(2) {
+    opacity: 0;
+}
+#menu-button-open-close.close .menu-button-line:nth-child(3) {
+    transform: rotate(-45deg) translate(6px, -6px);
+}
+header {
+    background-position: 5.7em 2.8em;
+    background-size: 90% 90%;
+    height: 10em;
+    margin-bottom: 1em;
+    margin-top: 3.3em;
+    overflow: hidden;
+    padding: 0.2em 0.2em 0.2em 0.5em;
+    width: 100%;
+}
+header h1 {
+    font-size: 2.4em;
+    margin: 1.3em 0.3em 0 0;
+}
+header h2 {
+    font-size: 1.3em;
+    font-weight: 700;
+    margin: 0.3em 0 0 0.5em;
+    width: 88%;
+}
+#main-wrapper {
+    margin-right: 1em;
+}
+.nav-menu div {
+    font-size: 150%;
+}
+.subscribe-button {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.subscribe-button:active {
+    font-size: 100%;
+    margin-left: 7.5px;
+    margin-right: 7px;
+}
+.subscribe-alert {
+    font-size: 0.8em;
+}
+main {
+    margin: 1% 0.5% 1% 2%;
+    width: 100%;
+}
+.category-title {
+    font-size: 9.8vw;
+    margin-left: 0.5em;
+}
+.article-style {
+    padding: 0.2em 1em 0.5em;
+    font-size: 105%;
+}
+.article-style h1 {
+    font-size: 1.8em;
+}
+.article-style h2 {
+    font-size: 2.2em;
+    line-height: 99%;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+.article-style h3 {
+    font-size: 1.5em;
+}
+.article-img {
+    border-radius: 5px;
+    margin-bottom: 0.5em;
+    max-width: 100%;
+}
+.article-style p {
+    text-justify: distribute;
+}
+#pic-nav-archive {
+    width: 25%;
+}
+#pic-nav-letters {
+    height: 130px;
+    width: 25%;
+}
+#pic-nav-ebooks {
+    width: 25%;
+}
+
+footer {
+    align-items: stretch;
+    flex-direction: column;
+    margin-top: 1em;
+    padding: 0;
+    width: 100vw;
+}
+footer [data-footer-div] {
+    margin: 0 0 0 5%;
+    width: 90%;
+}
+#footer-first {
+    margin-left: 10%;
+    width: 80%;
+}
+#footer-first p {
+    margin-left: -1em;
+}
+#footer-second p {
+    margin: 1em 1.4em 0;
+    order: 2;
+}
+#footer-third {
+    margin-left: 10%;
+    width: 80%;
+}
+#footer-fourth {
+    padding-left: 1.3em;
+}
+.mobile-hide {
+    display: none;
+}
+@-webkit-keyframes scroll {
+    0% {
+        top: -10em;
+    }
+    12% {
+        top: 2em;
+    }
+    65% {
+        top: 2em;
+    }
+    to {
+        top: -10em;
+    }
+}
+@keyframes scroll {
+    0% {
+        top: -10em;
+    }
+    12% {
+        top: 2em;
+    }
+    65% {
+        top: 2em;
+    }
+    to {
+        top: -10em;
+    }
+}

@@ -13,6 +13,7 @@ export {
   introScreen,
   stylesheetSelector,
   previousStylesheet,
+  backToTop,
   //mobile
   menuButton,
   navMobile,
@@ -38,6 +39,7 @@ const menuButton = document.querySelector("#menu-button-open-close");
 const navMobile = document.querySelector("#mobile-nav-menu");
 const menuBar = document.querySelector("#mobile-menu-bar");
 const pageName = document.querySelector("#page-name");
+const backToTop = document.querySelector("#back-to-top");
 /*change prefix from "./" for test page inside the issue's 
 folder to "./issue-number/" for root index file */
-const prefix = "./";
+const prefix = "./162/";

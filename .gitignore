@@ -1,2 +1,9 @@
 create_issue.sh
 *node_modules*
+*.jpg*
+*.png*
+*.jpeg*
+*.webp*
+*.odt*
+*.docx*
+*.doc*
