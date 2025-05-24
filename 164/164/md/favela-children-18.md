@@ -1,0 +1,234 @@
+# Favela Children - Chapter 18
+
+![](favela-cover.jpg){class="a"}
+
+## by Ute Creamer
+
+### Chapter 18
+
+**31 March 1979**
+
+Almost every Saturday or Sunday something is going on in our Youth
+Center. Last Sunday the amateur theater group from the Giroflex factory
+was here. How the children laughed! The hall was full of laughing faces.
+
+Today we prayed the Via Sacra. It\'s touching to see how these boys and
+girls, who stand on the shadowy side of life, try to understand what
+Easter and Christ\'s suffering mean. Some adults always participate.
+They pray with fervor; they know what suffering is. But the children
+don\'t hold out long being serious and introspective. That doesn\'t
+matter. After the last Our Father during which all joined hands in a
+large circle, the tables and chairs were pushed aside lightning-quick,
+and they danced. And how they dance! With what rhythm and love of
+movement. I had to think of Hans Georg, one of my Waldorf School pupils,
+who once said: \"They dance away the troubles from their hearts.\" Yes,
+this liberation which they find in dancing must be given them in other
+areas. Perhaps in theatre or in work completed. I think that these
+children find a similar joy when they say to me at the carpentry course:
+\"Here, Dona Ute, the chopping-block that I made.\" And I admire the
+smoothness of the wood which they sanded-papered with such patience and
+love, so that the beauty of the grain appears.
+
+Or when, after a days-long struggle with knitting needles, a child shows
+me his finished cap, it\'s not only the joy of having the cap which now
+warms his head (or hides his frizzy hair), but it is also the joy of
+having overcome obstacles. As St. Exupery said, \"C\'est l\'obstacle qui
+fait grandir l\'Homme. Grandir l\'Homme! Le besoin de naitre!\" ( Man
+grows on obstacles. Let man grow! The need to be born!) That\'s exactly
+what I mean: not the visible thing \-- the knitted cap, the delicious
+cookies, the nicely planed table, the sewn skirt, the completed Social
+Center, etc. It is more important to me what changes all these things
+cause inside the people involved, what effect the processes of learning,
+personal renewal and pleasure in doing have in ennobling and
+transforming them. These things become instruments which form the
+person. More important than the improvement of outer conditions of life
+is the inner development of the child, the person, the helping person as
+well as he who is being helped. Of course a child must be given the
+outer conditions in order to develop. It must have proper nutrition in
+order that its body and brain are able to absorb things. It must have a
+table to paint and work on and to do homework. It must live with people
+who can open the world to it. But these aren\'t ends in themselves,
+rather are they foundations on which to develop into a real human being.
+
+That\'s why I would like to organize occupational education (in case I
+am able to build more and specific work-shops or promote trade
+apprenticeships) so that it\'s not so rigidly oriented towards a trade
+and future employment. I would like to enhance them through artistic
+activities; with a doctor\'s lectures that can show them what a human
+being is; through lectures and slides which can show the children what
+the world is like.
+
+Several months later. - Something has been accomplished in this
+direction, but too little and provisional: besides the carpentry course,
+there are art and anthropology courses for young people in the evenings.
+
+Sunday
+
+Somehow I bring myself to go to the favela. We have been working on the
+outpatient-clinic since February, that is, we meet every Sunday and
+build a bit more. It goes like this: I go to our \"compadre\" Arnaldo,
+who is our construction boss, so to speak. Everything is calm. I of
+course want to start right away. But that\'s out of the question.
+Someone goes to buy bread. Then they notice that there\'s no sugar. A
+child runs to a bar and buys sugar. Finally the fire is lit, water is
+brought from the tap below and we drink coffee. Meanwhile I go to some
+shacks and ask if they have time to build. Well, it would be difficult
+to do anything today. One was sick, the other had to go to work, another
+wasn\'t in the mood, another had to visit a sick child. Finally one,
+Tonilda\'s father, came with me. I explained what could be done today.
+Then I went visiting parents. I have to fill out forms for every child
+that goes to the Youth Center to submit to the Children\'s Emergency
+Assistance in Duisburg, in the hope that we may receive help from them.
+I drank countless cafezinhos and ate four lunches. My belly was like to
+bursting. Then Dona Ana offered me a chicken-blood pudding.
+
+I also announced that there would be a theatre performance in the Youth
+Center today. The anthroposophical clinic Tobias will perform the Tobias
+play.
+
+At four o\'clock I went to the \"escolinha\". Doctors, nurses,
+therapists, all were in costume waiting for the audience. Two or three
+children were already there. The rest were still in the favela, taking
+showers, in some cases still eating lunch. I tried to explain that they
+would all come, but not in a great hurry. \"But it\'s already 4.15,\" an
+actor said. \"We\'ll start anyway.\"
+
+I was of two minds. On the one hand I wanted to explain that the favela
+children, and the adults, have little sense of time, and often have no
+clocks. On the other hand I would like to teach them that they must
+learn to be punctual.
+
+Dr. Sonja told the legend. Meanwhile a troop of children poured into the
+hall. Then it was wonderful. The children listened attentively. A baby
+began to cry; the mother gave it her breast. At that moment Dona Flor,
+as an angel, floated on stage in eurythmy dress. An eurythmy performance
+and a nursing mother, Dona Flor and Lúcia, a single mother \-- what a
+contrast. I had to laugh to myself.
+
+**April 1979**
+
+Recently I went by the super-market Pao de Acucar. From behind the
+parked cars two dirt-crusted boys ran out and cried happily: \"Oh, Dona
+Ute!\" They were from the favela, two boys for whom I had never been
+able to do much because they were too used to bumming around looking for
+things in the garbage, or trying to earn some money at the supermarkets
+or by begging. Sometimes they come to my house and were at the zoo and
+on excursions. But they could never make the jump to regular attendance
+at the escolinha, and therewith to life. Neither has a father, which
+means that the mothers work and they are left on their own. One of them,
+Arthur, is seriously disturbed in his development. He doesn\'t speak
+right and still wets the bed.
+
+Neither has the strength of will to attend school regularly, although I
+tried to convince them to do so. The illusion of earning money and the
+temptation to spend some cruzeiros for sweets is too great. How can you
+convince an eight-year-old that it\'s better to give up the sweets now
+in order to have a better opportunity in life afterwards. Being an adult
+is too far away for them. Perhaps now that the evening courses are
+starting I can grab them and make something of them after all.
+
+I went up to them and said hello. Ademir took some cruzeiro bills out of
+his pocket and gave me nine of them. He owed me ten cruzeiros. Surely
+this was the first time this had happened, that a street-boy gave a
+\"lady\" money and not, as is usual, the other way around. With that
+thought I went to the bus-stop. Maybe I shouldn\'t have taken the money
+but I found it right to do so. Ademir owed me something and now he paid
+it back: honest conduct between equals. Then I heard someone calling: O
+Ute! O Ute! I turned around and there he was again and gave me the
+outstanding cruzeiro in coins. He raced across the street like the wind,
+dodging speeding cars, and took up his post again at the super-market.
+
+**28 May 1979**
+
+Every Sunday I go to the favela where we are building an
+outpatient-clinic. This time Stefan, a former Waldorf School pupil, came
+along to help. Everyone ran down to see the \"Huck da Favela.\" The
+rumor had it that he was so strong he could lift a side of a Volkswagen
+container by himself. Today the work went well, everybody sawing,
+nailing, planing. Meanwhile I did my house calls. For example to Joceni.
+He\'s eight but has an aversion to water and is always dirty and
+spattered with mud. He drinks too much coffee and is nervous and can\'t
+concentrate. Today he pleased me though. He took a large tin can,
+stretched a rubber-band around it which he raised on one side with a
+piece of wood and played on this primitive instrument all the songs he
+had learned in the escolinha \-- and with a concentration and skill of
+which I had never thought him capable.
+
+**June 1979**
+
+Today Rik and Gabi came to take pictures in the favela. First we went to
+Josenildo\'s grandmother\'s where we were served according to the old
+farmer\'s style: coffee, mandioca-roots and bread. I borrowed a hammer
+and a jimmy and we went to the clinic, where a lot of men were working.
+After I had almost given up the idea of the clinic as a community effort
+of the favelados, today the work was progressing nicely. Then we visited
+Vitória. The house (house!-it\'s about as big as a small kitchen) was
+full of smoke. Because it was so cold the mother lit a fire on the dirt
+floor. Three small children smeared with snot were chewing on a piece of
+white bread. Vitória just stood around, the mother sat crying by the
+fire.
+
+\"I\'m going to move from here, my oldest son gives me no peace. He
+doesn\'t work and only comes home to hit us. Then he takes the few
+things I have and sells them.\" How can one help there?
+
+\"And your daughter?\" \"She lives with a man - she\'s probably already
+fed up.\" \"Then at least send Vitória to the Youth Center so that she
+doesn\'t wind up the same way.\"
+
+Desolation. Vitória! What a name in this misery.
+
+We went on, to Roberto, the cripple, to the water-tap, etc. Two hours
+later I went by Vitória\'s house again. Her mother was on the way up to
+where the asphalt is. She had a bag in her hand with something to eat;
+the three-year-old looked on earnestly, the four-year-old said they
+would go to the police; Vitória was ashamed. The mother, drunk, stumbled
+around, asked Jesus for help, knelt in the mud, struck the earth with
+her fists, cursed her son, prayed again to Mary and Jesus. All the
+children in the neighboring shacks saw it, laughed, made remarks. The
+women tried to calm her down; a man derided her. \"Get the baby,\" she
+called to Vitória, \"the last thing you\'ll have to do for me. Yes, I\'m
+drunk. I\'m leaving. I\'ll poison you, you damned son!\"
+
+What can one do? When I saw Roberto directly afterwards, I felt better.
+Here is will to live. Roberto is twelve years old and has been lame
+almost his whole life. His parents lived in Mato Grosso, in an area
+where agriculture flourishes. But as their son was ill, one day his
+mother packed their belongings and left on the days-long trip to Sao
+Paulo in order to have him cured in the hospitals and in Aperecida do
+Norte, a welfare center.
+
+The boy was in the hospital for eight months. His ability to move
+improved. Now he\'s with us in the escolinha. First he just looked, but
+soon he wanted to do everything there was to do. Once we made little
+cars; everyone sawed and hammered. I took a saw and a piece of wood and
+we sawed together. Then he had to sand it. It went fairly well. Once a
+truck came with bricks and all the children helped with unloading and
+piling them up. Roberto of course as well! What joy when he is treated
+as the other children are treated and can help. And at quadrilha
+dancing! I pushed and shoved him so (and supported him) that he finally
+danced the whole quadrilha through and from pure enthusiasm cried: O que
+gostoso!
+
+The high-point was when he was able to go with us to the lantern
+festival in the Waldorf School. Meanwhile several volunteers have taken
+him under their wing, doing physical exercises and instructing him. His
+mother is unbelievably cooperative and does all kinds of work. You can
+feel how thankful she is that her son can be with us. Recently something
+nice happened. Mrs. von Osteroht, a Waldorf School mother, wanted to see
+the outpatient clinic. Unfortunately I had no time to take her, so she
+went alone. A woman came along and cut out steps for her down the hill
+with an enxada. It was Roberto\'s mother. \"I have experienced so much
+good that I could at least show thanks once,\" she said.
+
+\_\_\_\_\_\_\_\_\_\_
+
+To be continued
+
+[Chapter 17](https://southerncrossreview.org/163/favela-children-17.html)
+
+This truly wonderful book is available for purchase at
+[Amazon](https://www.amazon.com/Favela-children-Brazilian-Ute-Craemer/dp/194830242X)
+in paperback and kindle. Also at [Barnes and
+Noble](https://www.barnesandnoble.com/w/favela-children-ute-craemer/1141416925?ean=9781948302432%22)
+as an ebook.
