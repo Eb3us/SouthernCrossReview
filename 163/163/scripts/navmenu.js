@@ -14,12 +14,11 @@ export function createNavMenu(navMenuElement) {
     div.appendChild(p);
     navMenuElement.appendChild(div);
   }
-  function createMenuLinks() {
-    //letters link
+  function createLettersLink() {
     const div = document.createElement("div");
     const p = document.createElement("p");
     const a = document.createElement("a");
-    a.href = "https://southerncrossreview.org/162/letters162.html";
+    a.href = "https://southerncrossreview.org/163/letters163.html";
     a.style.color = "inherit";
     a.style.textDecoration = "none";
     p.className = "nav-menu-links";
@@ -28,8 +27,8 @@ export function createNavMenu(navMenuElement) {
     p.appendChild(a);
     div.appendChild(p);
     navMenuElement.appendChild(div);
-    //end letters link
-
+  }
+  function createMenuLinks() {
     articlesKeys.forEach((category) => {
       // create dropdown menu if there is more than one article in category
       if (articles[category].length === 1) {
@@ -72,6 +71,7 @@ export function createNavMenu(navMenuElement) {
     //createSingleLink("Letters to the Editor", "pic-nav-menu");
     createSingleLink("Other Sections", "pic-nav-menu");
     createSingleLink("Subscribe", "subscribe");
+    createLettersLink();
   }
   createMenuLinks();
 
@@ -247,12 +247,16 @@ export function createArticlePeek(object) {
         titleElement.style.marginBottom = "1em";
         link.style.display = "none";
         img.style.maxWidth = "40%";
+        img.style.minWidth = "30%";
         img.style.maxHeight = "100%";
         img.style.marginLeft = "auto";
         img.style.marginRight = "auto";
         img.style.marginBottom = "1em";
         img.style.float = "none";
         img.insertAdjacentElement("afterend", author);
+        description.style.width = "80%"
+        description.style.marginLeft = "auto";
+        description.style.marginRight = "auto";
       }
       // if its a poem, make the div and link float (so the text doesn't go under the img)
       if (article["poem"]) {

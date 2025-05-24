@@ -172,7 +172,6 @@ body {
   cursor: pointer;
   display: flex;
   justify-content: space-evenly;
-  height: 50%;
 }
 
 #share-icons a {

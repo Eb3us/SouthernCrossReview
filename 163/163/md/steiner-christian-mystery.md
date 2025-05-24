@@ -7,7 +7,6 @@
 ## By Rudolf Steiner
 
 **12 February 1906, Cologne [GA 97](https://rsarchive.org/Lectures/GA097/)**
-
 **The first 12 chapters in the gospel of John**
 
 In modern theology, clear distinction is made between the first three

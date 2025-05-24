@@ -1,0 +1,488 @@
+
+
+# Rudolf Steiner---A Biographical Sketch
+
+![](rs-heidenreich-main.png){class="a"}
+
+## by Alfred Heidenreich
+
+One spring day in 1860, an autocratic Hungarian magnate, a certain Count
+Hoyos, who owned several large estates in Austria, dismissed his
+game-keeper, because this game-keeper, Johannes Steiner wanted to marry
+Franziska Blie, one of the Count\'s innumerable housemaids. Perhaps the
+old Count had a foreboding as to what a great spiritual revolution would
+be born of this marriage. (The baroque palace of Hom, where it happened,
+is still in the possession of the Hoyos family, and stands today just as
+it was one hundred years ago.) So Johannes Steiner had to look for
+another occupation, and got himself accepted as a trainee telegraphist
+and signalman by the recently opened Austrian Southern Railway. He was
+given his first job in an out-of-the-way request stop called Kraljevic
+(today in Croatia), and there his first child, Rudolf, arrived on
+February 27, 1861. On the same day the child was taken for an emergency
+baptism to the parish Church of St. Michael in the neighboring village
+of Draskovec. The baptismal register was written in Serbo-Croat and
+Latin, and the entry still can be read today as of one *Rudolfus
+Josephus Laurentius Steiner*. "Thus it happened," Rudolf Steiner writes
+in his autobiography, "that the place of my birth is far removed from
+the region where I come from."
+
+In later life, particularly in his lectures on education, Steiner
+frequently made the point that the most prodigious feat any man achieves
+at any time is accomplished by him in the first two or three years of
+his life, when he lifts his body into the upright position and learns to
+move it in perfect balance through space, when he forms a vital part of
+his organism into an instrument of speech and when he begins to handle
+and indeed to fashion his brain as a vehicle for thought. In other
+words, when the child asserts his human qualities which set him
+dramatically apart from the animals.
+
+This initial achievement the boy Rudolf performed in Kraljevic.
+Kraljevic (meaning King\'s Village) is situated in the western outskirts
+of the vast Hungarian plain, the Puszta. Even today endless fields of
+maize and potatoes extend in every direction, and the solemn monotony of
+the country is more enhanced than relieved by the lines of tall poplars
+flanking the primitive, dead straight roads. It is basic
+three-dimensional space at its severest, domed over by the sky, which
+local people say is nowhere else so high nor so blue as over the Puszta.
+One might almost say that nature provided laboratory conditions in which
+the boy learned to stand, to walk, to speak and to think. One could
+justifiably say of Rudolf Steiner what the biographer, Hermann Grimm,
+said of Goethe: "It seems as if Providence had placed him in the
+simplest circumstances in order that nothing should impede his perfect
+unfolding."
+
+From the severity of the Puszta the family moved, when the boy was two
+years old, into one of the most idyllic parts of Austria, called "the
+Burgenland" since 1921. Comprising the foothills of the eastern Alps, it
+is of great natural beauty, very fertile, and drenched in history. It
+takes its name from the many *Burgen*, i.e. castles which at different
+times of history were erected on nearly every hill. During recent
+excavations coins bearing the head of Philip of Macedonia, the father of
+Alexander the Great, have been found near Neudörfl, where the Steiners
+now settled, and where a daughter and a younger son were added to the
+family.
+
+The management of the Austrian Southern Railway seems to have taken a
+sympathetic view toward the promising boy, and agreed to move father
+Steiner as stationmaster to several small stations south of Vienna, so
+that the eldest son was able to attend good schools as a day student,
+and finally in 1879 could matriculate at the Technical University of
+Vienna, then one of the most advanced scientific institutions of the
+world. Until then Rudolf Steiner\'s school life had been fairly
+uneventful, except that some of his masters were rather disturbed by the
+fact that this teen-ager was a voracious reader of Kant and other
+philosophers, and privately was engrossed in advanced mathematics.
+
+In his first year at the University Rudolf Steiner studied chemistry and
+physics, mathematics, geometry, theoretical mechanics, geology, biology,
+botany, and zoology; and while still an undergraduate two events
+occurred which were of far-reaching consequence for his further
+development.
+
+In the train in which the young student travelled daily to Vienna he
+frequently met a curious personality, an herb-gatherer, who turned out
+to be a latter-day Jacob Boehme. He was filled with the most profound
+nature lore to which he had first-hand access. He understood the
+language of plants, which told him what sicknesses they could heal; he
+was able to listen to the speech of the minerals, which told him of the
+natural history of our planet and of the Universe. In the last winter of
+his public life, in December 1923, Steiner provided something of a
+historic background for this wisdom, notably in his lectures on the
+Mysteries of Eleusis. Steiner immortalized the herb-gatherer in his
+Mystery Dramas, in the figure of "Father Felix." But "Father Felix" was
+instrumental in bringing Steiner together with a still more important
+and mysterious personality.
+
+"Felix was only the intermediary for another personality," Steiner tells
+us in his autobiography, "who used means to stimulate in the soul of the
+young man the regular systematic things with which one has to be
+familiar in the spiritual world. This personality used the works of
+Fichte in order to develop certain observations from which results
+ensued which provided the seeds for my (later) work \... This excellent
+man was as undistinguished in his daily job as was Felix."
+
+While these fateful meetings occurred on the inward field of life, a
+very consequential relationship developed on the outward field. The
+Technical University of Vienna provided a chair for German literature,
+which was held by Karl Julius Schröer, a great Goethe enthusiast and one
+of the most congenial interpreters of Goethe. Schröer recognized
+Steiner\'s unusual gifts, and anticipated that he might be capable of
+doing some original research in the most puzzling part of Goethe\'s
+works, i.e. his scientific writings.
+
+Only two years ago, Dr. Emil Bock, of Stuttgart, Germany, one of the
+most eminent Steiner scholars, discovered the correspondence between
+Professor Schröer, Steiner, and the German Professor Joseph Kürschner,
+who was engaged in producing a monumental edition of representative
+works of German literature from the 7th to the 19th century. In the
+first letter of this correspondence, dated June 4, 1882, Schröer refers
+to Steiner as an "undergraduate of several terms standing." He says that
+he has asked him to write an essay on Goethe and Newton, and if this
+essay is a success, as he thinks it will be, "we have found the editor
+of Goethe\'s scientific works." Steiner was then twenty-one years of
+age. Schröer\'s letter is reminiscent of the letter Robert Schumann
+wrote to the great violinist Joachim, after he had received the first
+visit of the then twenty-one year old Brahms: "*It is he who was to
+come."*
+
+The introductions and explanatory notes to the many volumes of Goethe\'s
+scientific works which Steiner was now commissioned to write were much
+ahead of their time. They blazed a trail into the less familiar regions
+of Goethe\'s universal genius which only today begins to be followed up
+by other scholars.
+
+The young Steiner wrote these, his first works, in outward conditions of
+great poverty. The family lived in two rooms, which are still shown
+today. The larger one of the two was kitchen, dining, sitting and
+bedroom for the parents and his younger brother and sister, and off this
+larger room a few steps led into a narrow, white-washed, unheated
+cubicle where the young Steiner worked as in a monk\'s cell. No wonder
+that a Viennese celebrity of the time refers to him in his memoirs as
+one "who looked like a half-starved student of theology."
+
+However, this first literary success led to Steiner\'s call to the
+central Goethe Archives at Weimar, where despite his youth he now became
+one of the editors of the great Standard Edition (*Sophien Ausgabe*) of
+Goethe\'s Complete Works. This concentrated occupation with Goethe,
+continued for seven years in Weimar, from 1889 to 1896, had a profound
+effect upon the unfolding of Steiner\'s own mind and philosophical
+consciousness. Goethe was the catalyst which released new mental and
+spiritual energies in Steiner s own personality. It was during these
+years that Steiner\'s fundamental philosophical works were conceived and
+written.
+
+In 1886 he published *An Epistemology of Goethe\'s World Conception*. In
+1891 his small concentrated thesis on *Truth and Science* earned him his
+Ph.D. In 1896 his comprehensive *Philosophy of Spiritual Activity*
+opened a completely new approach to the understanding of the human mind
+and the nature of thought. It represents the first really fresh step in
+philosophic thought and in the philosophic interpretation of the human
+consciousness since Kant. It is no wonder that in those years Steiner
+began to be looked upon in Germany as "the coming philosopher" upon whom
+before long the mantle of the dying Nietzsche would fall. But his genius
+led him a different way.
+
+In his thirty-sixth year---"*Nel mezzo del cammin di nostra vita,"* as
+Dante calls it, Steiner moved to Berlin, and the next seven years were
+perhaps the most dramatic period in his life. His new position in Berlin
+was that of editor of the weekly, *Das Magazin für Litteratur*, founded
+in 1832 (something equivalent to the London *Saturday Review*). He wrote
+the leading article and the dramatic reviews, occupying in Berlin a
+position somewhat similar to that of Bernard Shaw (who was five years
+his senior), with his weekly dramatic criticism in the *Saturday
+Review*. This assignment brought Steiner into close social contact with
+the intellectual and artistic élite of Berlin at the time, and for some
+years he pitched his tent among them. In the last years of his life,
+during rare moments of relaxation, he would at times tell stories of
+this exciting and often amusing period.
+
+Side by side with these literary circles, or perhaps in polarity to
+them, Steiner was also drawn by objective interest and personal
+attraction into the camp of Haeckel and the militant monists. To move in
+this manner abreast of the spirit of the time would be a most
+interesting experience for anyone. For Steiner it was more. And I must
+now touch upon that side of his life about which I shall have to speak
+presently in greater detail. From childhood while for others such "being
+involved in this or that fashion of thought would be no more than an
+ideology," for anyone standing in the spiritual world it means, as
+Steiner says in his autobiography, that "he is brought close to the
+spirit-beings who desire to invest a particular ideology with a
+totalitarian claim." Steiner refers to his experience as a "Soul\'s
+Probation" which he had to undergo. (He later chose *The Soul\'s
+Probation* as the title of one of his Mystery Dramas.) He speaks of the
+"tempests" which during those years in Berlin raged in his soul, a rare
+expression in the otherwise very even and dispassionate style of his
+autobiography. At the end of those "forty days in the
+wilderness"---which were in fact four years---the thunderclouds lifted,
+the mist cleared, and he stood, to use his own phrase. "in solemn
+festival of knowledge before the Mystery of Golgotha." He had come to a
+first-hand experience of Christ and His active presence in the evolution
+of the world.
+
+We have now reached the point where we must venture into the great
+unknown: Steiner the seer, the Initiate.
+
+It is a plain fact that in some form or other spiritual knowledge has
+existed throughout the ages. Secret wisdom has never been absent from
+human history. But in Steiner it assumed a totally new form. In order to
+appreciate this revolutionary novelty, we must first have a picture of
+the old form.
+
+The faculty of spiritual perception and secret wisdom is obtained
+through certain organs in the "subtle body" of man, to borrow a
+convenient term from Eastern Indian medicine. In Sanscrit these organs
+are called "*chakrams,"* generally translated into English as "lotus
+flowers." They fulfill a function in the "subtle body" similar to our
+senses in the physical body. They are usually dormant today, but can be
+awakened. We can disregard for the moment the rites of Initiation which
+were employed in the Mystery Temples of the ancient world, and confine
+ourselves to the survival of more general methods which today are still
+practiced in many parts of the world. They all have one thing in common:
+they operate through the vegetative system in man, through bodily
+posture, through the control of breathing, through physical or mental
+exercises which work upon the solar plexus and the sympathetic nervous
+system. I realize that I am presenting a somewhat crude simplification.
+But nevertheless I am giving the essentials.
+
+Steiner broke with all this. He began to operate from the opposite pole
+of the human organism, from pure thought. Thought, ordinary human
+thought, even if it is brilliant and positive, is at first something
+very weak. It does not possess the life, say, of our breathing, let
+alone the powerful life of our pulsating blood. It is, shall we say,
+flat, without substance; it is really lifeless. It is "pale thought," as
+Shakespeare called it.
+
+This relative lifelessness of our thoughts is providential, however. If
+the living thoughts filling the Universe were to enter our consciousness
+just as they are, we would faint. If the living idea in every created
+thing simply jumped into our consciousness with all its native force, it
+would blot us out. Fortunately, our cerebro-spinal system exerts a kind
+of resistance in the process; it functions like a resistor in an
+electric circuit; it is a sort of transformer, reducing the violence of
+reality to such a degree that our mind can tolerate it and register it.
+However, as a result, we see only the shadows of reality on the back
+wall of our Platonic cave, not reality itself.
+
+Now one of the magic words in Steiner\'s philosophy with which he
+attempts to break this spell, is "*Erkraftung des Denkens."* It means
+putting force, life into thinking, through thinking, within thinking.
+All his basic philosophic works, notably the *Philosophy of Freedom*,
+and many of his exercises, are directed to this purpose. If they are
+followed, sooner or later the moment arrives when thinking becomes
+*leibfrei*, i.e. independent of the bodily instrument, when it works
+itself free from the cerebrospinal system.
+
+This is at first a most disturbing experience. One feels like a man who
+has pushed off from the shore and who must now strive with might and
+main to maintain himself in the raging sea. The sheer power of cosmic
+thought is such that at first one loses one\'s identity. And perhaps one
+*would* lose it for good, if it were not for a fact which now emerges
+from the hidden mysteries of Christianity. One does not finally lose
+one\'s identity because He Himself has walked the waves and extended a
+helping hand to Peter who ventured out prematurely. Gradually the waves
+seem to calm down, and a condition ensues which Steiner expresses in a
+wonderful phrase: "Thinking itself becomes a body which draws into
+itself as its soul the Spirit of the Universe."
+
+This is a stage which, broadly speaking, Steiner had attained at the
+point of his biography which we have reached. Now he made a discovery
+which was not known to him before. He discovered that this "living
+thinking" could awaken the *chakrams* from "above," just as in the old
+way they could be stimulated from "below." Thought which at first in the
+normal and natural psychosomatic process "died" on the place of the
+skull, but which through systematic exercises had risen again to the
+level of cosmic reality, could now impart life to the dormant organs of
+spiritual perception which have been implanted into man by Him who
+created him in His image. From about the turn of the century Steiner
+began to pursue this path with ever greater determination, and gradually
+developed the three forms of Higher Knowledge which he called
+Imagination: a *higher seeing* of the spiritual world in revealing
+images; Inspiration: a *higher hearing* of the spiritual world, through
+which it reveals its creative forces and its creative order; Intuition:
+the stage at which an *intuitive penetration* into the sphere of
+Spiritual Beings becomes possible.
+
+With these unfolding powers Steiner now developed up to his death in
+1925, in twenty-five momentous years, that truly vast and awe-inspiring
+body of spiritual and practical knowledge to which he gave the name
+"Anthroposophy." (Incidentally, this word was first coined by Thomas
+Vaughan, a brother of the English mystical poet, Henry Vaughan, in the
+17th century.) Anthroposophy literally means wisdom of man or the wisdom
+concerning man, but in his later years Steiner himself interpreted it on
+occasion as "an adequate consciousness of being human." In this
+interpretation the moral achievement of Steiner\'s work, his mission,
+his message to a bewildered humanity which has lost "an adequate
+consciousness of being human," to which Man has become "the Unknown," is
+summed up. This monumental work lies before us today and is waiting to
+be fully discovered by our Age---in some 170 books and in the published
+transcripts of nearly 6,000 lectures.
+
+Three characteristic stages can be observed in Steiner\'s
+anthroposophical period. In a lecture given at the headquarters of the
+German Anthroposophical Society at Stuttgart (on February 6, 1923) he
+himself described these stages. Stage one (approximately 1901-1909): to
+lay the foundation for a Science of the Spirit within Western
+Civilization, with its center in the Mystery of Golgotha, as opposed to
+the purely traditional handing down of ancient oriental wisdom which is
+common to other organizations such as the Theosophical Society. Stage
+two (approximately 1910-1917): the application of the anthroposophical
+Science of the Spirit to various branches of Science, Art and practical
+life. As one of the milestones for the beginning of this second stage
+Steiner mentions the building of the Goetheanum, that architectural
+wonder (since destroyed by fire) in which his work as an artist had
+found its culmination. Stage three (approximately 1917-1925): first-hand
+descriptions of the spiritual world. During these twenty-five years of
+anthroposophical activity, Steiner\'s biography is identical with the
+history of the Anthroposophical Movement. His personal life is entirely
+dedicated to and absorbed in the life of his work.
+
+It was during the last of the three phases that Steiner\'s prodigious
+achievements in so many fields of life began to inspire a number of his
+students and followers to practical foundations. Best known today are
+perhaps the Rudolf Steiner Schools for boys and girls, which have been
+founded in many countries and in which his concept of the true human
+being is the well-spring of all educational methods and activities.
+There are some seventy Steiner \[Waldorf\] schools in existence with
+well over 30,000 pupils. A separate branch are the Institutes for
+Curative Education which have sprung up both in Europe and Overseas, and
+whose activities have been immensely beneficial to the ever increasing
+number of physically and mentally handicapped children and adults.
+Steiner\'s contributions to medical research and to medicine in general
+are used by a steadily growing number of doctors all over the world, and
+his indications are tested and followed up in a number of research
+centers and clinics. Another blessing for humanity flowed from his
+method of Biodynamic Agriculture, by which he was able to add to the
+basic principles of organic husbandry just those extras which, if
+rightly used, can greatly increase both fertility and quality without
+those chemical stimulants which in the long run poison both the soil and
+its products.
+
+In the field of Art there is hardly an area he did not touch with the
+magic wand of creative originality. The second Goetheanum which replaced
+the first one destroyed by fire shows the massive use of reinforced
+concrete as a plastic material for architecture a generation before this
+use was attempted by others. Steiner\'s direct and indirect influence on
+modern painting with the symphonic use of color, on sculpture, on
+glass-engraving, on metal work and other visual arts is too far-reaching
+for anyone even to attempt to describe in condensed form. Students and
+graduates of the Steiner schools for Eurythmy and for Dramatic Art have
+performed before enthusiastic audiences in the cultural centers of the
+world, ably directed by Marie Steiner, his wife.
+
+To those who have been attracted to this present publication by its
+title and its reference to Christianity, it will be of particular
+interest to hear that among those foundations which came into being
+during the last phase of Steiner\'s anthroposophical work was a Movement
+for Religious Renewal, formed by a body of Christian ministers, students
+and other young pioneers who had found in Rudolf Steiner "a man sent
+from God," able to show the way to a true reconciliation of faith and
+knowledge, of religion and science. This Movement is known today as "The
+Christian Community" and has centers in many cities in the Old and New
+World. Apart from the inestimable help this Movement received from him
+in theological and pastoral matters, Rudolf Steiner was instrumental in
+mediating for this Movement a complete spiritual rebirth of the
+Christian Sacraments for the modern age and a renewal of the Christian
+priestly office.
+
+*Christianity as Mystical Fact and the Mysteries of Antiquity* holds a
+special place in the story of his remarkable and dedicated life. The
+book contains the substance of a series of lectures Rudolf Steiner gave
+in the winter of 1901--1902 in the "Theosophical Library" of Berlin at
+the invitation of the President, Count Brockdorff. This series had been
+preceded by another on the German mystics from Master Eckhardt to Jacob
+Boehme (published in the Centennial Edition of the Written Works of
+Rudolf Steiner under the title *Mysticism at the Dawn of the Modern
+Age*) in which Steiner had ventured for the first time to present
+publicly some measure of his spiritual knowledge.
+
+After these lectures on the mystics which was something of a prelude,
+*Christianity as Mystical Fact* now ushered in a new period in the
+understanding of the basic facts of Christianity as well as in
+Steiner\'s own life.
+
+Compared with the free flow of spiritual teaching on Christianity
+offered by Steiner in his later works, the book may appear somewhat
+tentative and even reticent in its style. But it contains as in a
+nutshell all the essential new elements he was able to develop and
+unfold so masterfully in his later years.
+
+Steiner considered the phrase "Mystical *Fact*" in the title to be very
+important. "I did not intend simply to describe the mystical content of
+Christianity," he says in his autobiography. "I attempted to show that
+in the ancient Mysteries cult-images were given of cosmic events, which
+occurred later on the field of actual history in the Mystery of Golgotha
+as a *Fact* transplanted from the cosmos into the earth."
+
+It will not be out of place to round off this biographical sketch with a
+few personal reminiscences of the last four years of his life when I met
+Steiner as man and Initiate among his friends and students, and saw
+quite a good deal of him.
+
+What was Rudolf Steiner like?---In the first place there was nothing in
+the least pompous about him. He never made one feel that he was in any
+sense extraordinary. There was an astonishing matter-of-factness about
+him, whether he spoke at a business meeting of the Anthroposophical
+Society, presided over faculty meetings of the Waldorf School\*,
+lectured on his ever increasing discoveries in the spiritual field, or
+spoke in public discussions on controversial subjects of the day.
+
+I attended small lecture courses of less than fifty people, heard him
+lecture in the large hall of the first Goetheanum, was present at large
+public meetings when he expounded his "Threefold Commonwealth" ideas in
+the electric atmosphere of the Germany of 1923, during the occupation of
+the Ruhr and the total collapse of the German Mark. He was always the
+same: clear, considerate, helpful, unruffled. In those days he could
+fill the largest halls in Germany, and his quiet voice was strong enough
+to be heard without artificial amplification in the last rows of the
+gallery.
+
+His hair remained jet black to the end; I cannot remember a strand of
+grey in it. His brown eyes, they sometimes had a shimmer of gold in
+them, looked with sympathy upon everything. And he possessed a wonderful
+buoyancy of carriage.
+
+From 1913 Steiner lived permanently at Dornach, near Basel, Switzerland,
+in a house known locally as "Villa Hansi." However, he spent most of his
+time in his studio, which was really nothing but a simple wooden
+building adjoining the large carpentry-shop where much of the woodwork
+of the first Goetheanum was prefabricated. In this studio he received an
+unending stream of callers. One would, perhaps, be shown into the room
+by a helping friend, but at the end he would always conduct one to the
+door himself. He put one at ease with such courtesy that one was in
+danger of forgetting who he was. And he gave the impression that he had
+no other care nor interest in the world than to listen to one\'s
+immature questions.
+
+He would sit on a simple wicker chair, his legs crossed, perhaps
+occasionally moving one foot up and down. On the lapel of his black coat
+one might see a slight trace of snuff, because he indulged in the
+Old-World pleasure of taking snuff, but he neither drank nor smoked. I
+have never met anyone, and I am sure I shall never meet anyone who
+seemed so constantly at rest and in action simultaneously, all the time
+perfectly relaxed and absolutely alert.
+
+The last summer of his life, in 1924, was the most prolific of all. He
+gave specialized courses on agriculture, on curative education, on
+Eurythmy. Then followed a summer school in August at Torquay in England;
+and when he returned to Dornach in early September, he increased his
+activities still further and gave as many as five, sometimes six
+different lectures each day. There was a daily course on the New
+Testament Book of Revelation for the priests of the Christian Community,
+another on pastoral medicine for priests and doctors combined, another
+on dramatic art, where I remember him one morning acting singlehanded
+the whole of *Dantons Tod*, a drama of the French Revolution by the
+German writer, Buchner. On another morning he acted the *Faust* fragment
+by Lessing. And in addition to all this, he also held lectures for the
+workmen of the Goetheanum.
+
+Besides these specialized courses, the general lectures and other
+central activities of the Goetheanum School for the Science of the
+Spirit continued without interruption.
+
+But the inevitable moment approached when even his resilient body showed
+the strain of his immense work. Sometimes for the period of a whole week
+he would hardly sleep more than two hours each night. I believe that he
+knew what he was doing. He well knew why he burned the candle not only
+at both ends but also in the middle.
+
+My last memory of him is of the night when I was privileged, together
+with another friend, to keep vigil at the foot of his bed on which his
+body was laid out. It was the night before his funeral. The bed stood in
+his simple studio where he had been confined during the last six months
+of his life. Looking down on him was the great wooden statue of Christ
+which he had carved and nearly finished. Even in the literal sense of
+the word he had laid down his life at the feet of Christ.
+
+The dignity of his features was enhanced by the marble whiteness of
+death. In the stillness of the night, with only a few candles burning,
+it was as if ages of human history converged to do homage. With a deep
+sense of reverence I wondered who he was. I am wondering still.
+
+Alfred Heidenreich
+
+London, England\
+August 1961
+
+**This is the introduction to a publication in English of *Christianity as Mystical Fact* - GA 8**
+
+[Español](rs-heidenreich-esp.html)

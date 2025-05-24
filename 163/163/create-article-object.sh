@@ -84,6 +84,7 @@ echo "export const articles = {" >> articleObject.bak
 create_category_section(){
   echo "  \"$1\": [" >> articleObject.bak
   for file in ${files[@]}; do
+    echo "reading file $file..."
     CATEGORY=$(get_category $file)
     if [[ $file != "plantilla.html" && $file != "plantilla-TD.html" && $file != "letters$current_issue.html" && $file != "index$current_issue.html" && $CATEGORY == $1 ]]; then
      create_article_object $file 

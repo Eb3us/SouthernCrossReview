@@ -43,7 +43,7 @@ body {
     width: 50%;
 }
 #light-dark-warning {
-    font-size: 1.2vw;
+    font-size: 1.2em;
     padding: 5.5em 0.5em 0;
     right: 0;
     width: 10vw;

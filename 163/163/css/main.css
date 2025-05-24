@@ -7,11 +7,11 @@ body {
     top: 35%;
 }
 #top-bar-title {
-    font-size: 1.2vw;
+    font-size: 1.2em;
     margin-right: 1em;
 }
 #date-and-issue {
-    font-size: 1vw;
+    font-size: 1em;
 }
 #top-bar-right-div {
     padding-right: 1em;
@@ -32,7 +32,7 @@ body {
     margin-top: 0.25em;
 }
 #light_dark {
-    font-size: 0.9vw;
+    font-size: 0.9em;
 }
 #light_dark div {
     justify-content: space-evenly;
@@ -41,7 +41,7 @@ body {
     width: 55%;
 }
 #light-dark-warning {
-    font-size: 1.2vw;
+    font-size: 1.2em;
     padding: 5.5em 0.5em 0;
     right: 0;
     width: 10vw;
@@ -53,13 +53,13 @@ header {
     padding: 0.5em 0.5em 0.5em 3.5em;
 }
 header h1 {
-    font-size: 4vw;
+    font-size: 4em;
 }
 #title-break-2 {
     display: none;
 }
 header h2 {
-    font-size: 2.2vw;
+    font-size: 2.2em;
     font-weight: 700;
     width: 70%;
 }
@@ -75,34 +75,34 @@ header h2 {
     padding: 1em;
 }
 .nav-menu div {
-    font-size: 1.7vw;
+    font-size: 1.7em;
     white-space: nowrap;
 }
 
 .subscribe-alert {
-    font-size: 1.65vw;
+    font-size: 1em;
 }
 main {
     margin: 1% 0 1% 2%;
     width: 75%;
 }
 .category-title {
-    font-size: 3vw;
+    font-size: 3em;
 }
 .article-style {
     padding: 0.5em 1em 1.5em 2em;
 }
 .article-style p {
-    font-size: 1.2vw;
+    font-size: 1.2em;
 }
 .article-style h1 {
-    font-size: 2.1vw;
+    font-size: 2.1em;
 }
 .article-style h2 {
-    font-size: 2.7vw;
+    font-size: 2.7em;
 }
 .article-style h3 {
-    font-size: 1.8vw;
+    font-size: 1.8em;
     margin-left: 2em;
     margin-top: -1em;
 }
