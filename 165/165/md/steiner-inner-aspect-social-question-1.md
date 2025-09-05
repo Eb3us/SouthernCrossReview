@@ -1,0 +1,423 @@
+
+![](steiner-inner-aspect-social-question-1-main.png){class="a"}
+
+# Inner Aspect of the Social Riddle
+
+## by Rudolf Steiner
+
+
+### Lecture I
+
+[GA 193](https://rsarchive.org/Lectures/GA193/)\
+4 February 1919, Zurich
+
+Just now, when I am giving public lectures on the social question here
+in Zürich, it is perhaps appropriate that in our study-group we should
+occupy ourselves with the inner aspect of the social problem, so
+exceptionally important at the present time.
+
+We know that in every human being whom we encounter in the outer world,
+who stands before our bodily faculties of perception, we must recognise
+beneath the surface the real inner man. We first become aware of this
+inner man when we appreciate that fundamentally he is connected with
+everything relevant to human life and knowledge that weaves and surges
+through the world.
+
+Just think, my dear friends, how different, with regard particularly to
+the human being, our anthroposophical conception of the world is from
+the ordinary conception! Remember my attempt to give an outline of the
+anthroposophical view; recall all you have read in my *Occult Science*,
+and you will realise the following: the evolution of the Earth is not
+only bound up with man, but is conceived as having emerged from the
+earlier incarnations, so to speak, of our Earth planet. Our present
+Earth-evolution emerged from the Old Moon evolution, this from the Old
+Sun, the Old Sun from Old Saturn. Then consider everything which had to
+be brought together to carry this planetary evolution forward to the
+Earth stage, and you will say: throughout the whole cosmic process man
+is never absent. He is involved in all of it. All the forces and
+happenings of the cosmos are focused on man---that is how we must
+conceive it.
+
+In a conversation between Capesius and the Initiate, in one of my
+*Mystery Plays*, I have specially tried to show what an impression it
+must make on anyone if he realises that all the generations of the gods,
+all the power of the universe, are summoned to the task of placing man
+in the centre of their creative activity.
+
+I have pointed out, in connection particularly with this entirely valid
+conception, how essential it is to emphasise the need for human
+modesty---how essential it is to say again and again: "Yes, if we could
+consciously experience our whole being in its relation to the cosmos,
+and bring our whole being truly to expression, it would be revealed as a
+microcosmos! But in fact, how much can we know or experience or bring to
+expression of all that we are as man, in the highest sense?" Whenever we
+bring clearly before us what we are, we waver always between pride and
+modesty. We must certainly not give way to pride, but neither must we
+surrender to modesty. It would be a surrender if, after taking account
+of our place in the world from a cosmic standpoint, we were to fail to
+reckon our human task in the highest possible terms. We can never think
+highly enough of what we *ought* to be. We can never take seriously
+enough the deep sense of cosmic responsibility which must overcome man
+if he holds in view the relationship of the whole universe to his human
+existence.
+
+In the light of Spiritual Science this should certainly remain no mere
+idea, no mere fact of knowledge: it should become an experience---an
+experience of holy awe in the face of what man *ought* to be and yet
+only in the rarest cases *can* be. Whenever, too, we encounter another
+person, we should be impelled by this experience to feel: "Standing
+there, you bring a great deal to expression in this present incarnation.
+But you journey from life to life, from incarnation to incarnation: the
+succession of your lives bears the imprint of eternity." And in many
+other directions also we can widen and deepen this experience. From this
+experience we are led through Spiritual Science to a true appraisal of
+human worth, to an appreciation of human dignity in the context of the
+world. This experience can permeate the soul through and through; it
+can, if it inspires the entire inner life, bring us into the right mood
+for regulating our relationships with other human beings.
+
+All this, which I have just explained, we can regard as a primary gift
+of modern Spiritual Science: we learn to appraise rightly all that is
+human in the world. That is one point.
+
+Something else will arise in us out of a deeply-felt and not merely
+theoretical Spiritual Science. It is this. If we take into account all
+the happenings of the world, all the elemental life in earth, water and
+air---if we take account also of all that shines down to us from the
+stars and breathes from the wind, all that speaks to us from the several
+kingdoms of Nature---if we contemplate all this in the light of
+Spiritual Science, then we find it connected through and through with
+man! Everything will have value for us because we are able to bring it
+into connection with the human. Supersensible perception makes us feel,
+in very truth, that man is related to everything in the universe.
+Christian Morgenstern, the poet, has crystalised in beautiful verses
+(which I have often spoken of to our friends in connection with a
+certain chapter in St. John\'s Gospel) the experience which comes over
+us when we allow the ranking of the kingdoms of Nature to work on our
+minds. Then we can say: "The plant gazes on the lifeless realm of the
+minerals. \... Certainly it must feel itself to stand higher in the
+order of Nature than the mere lifeless minerals." But then the plant,
+gazing on the mineral which prepares the ground for it, will be impelled
+also to say: "I certainly stand higher than you in the ranks of beings,
+but it is to you, since I grow out of you, that I am indebted for my
+existence. In thankfulness I bow before the ground which lies beneath
+me." And so, again, must we conceive the experience of the animals in
+relation to the plants, and again in the human realm, where man in the
+course of his evolution is raised to a higher level. He must gaze down
+with awe and reverence at that which in a certain sense stands beneath
+him---not merely formulating all this intellectually, but so that the
+weaving pulse of life in all things becomes for him a real cosmic
+soul-experience. \[Christian Morgenstern: *We Found a Path*. The Washing
+of the Feet.\] This is how a genuine Spiritual Science should lead us
+on. Thus it enables us to establish a living relationship between
+humanity and all other existences.
+
+Now a third point. Spiritual Science does not talk endlessly, in a
+pantheistic way, about "spirit" underlying everything. No, Spiritual
+Science does not only talk about spiritual reality; its aim is to let
+the reality of the spirit flow directly into all it says. It strives to
+speak in such a way that everyone for whom Spiritual Science is a living
+experience knows that, whenever his thinking touches the spirit, the
+spirit itself lives and weaves in his thought. Whoever is breathed upon
+by the impulse of Spiritual Science---if I may put it so---will not
+merely think *about* the spirit: he will allow the spirit itself to
+speak through his thoughts. The immediate presence of the spirit, the
+active power of the spirit---these are what Spiritual Science leads us
+to seek.
+
+And now take the feelings which Spiritual Science calls to life in the
+depth of the human soul and compare them with the social demand of which
+I spoke yesterday---the social demand which in a certain sense lives in
+the proletarian consciousness of the present time. Consider: all that
+lives to-day in the consciousness of the workers, as the foundation of
+their knowledge, is an ideology, nothing but a web of abstract thoughts!
+Yes, this is said to be the essential characteristic of spiritual
+experience, that it is merely an ideology: economic happenings are the
+only reality. From these happenings, as they run their course, the
+conflicts of human life derive; everything that man thinks and learns
+and creates artistically arises from them like a smoke, a mist.
+Everything that he regards as custom, morality, law and so on---all
+merely an ideological shadow-show! And now compare this shadow-show with
+the spiritual life which penetrates the soul from the impulse of
+Spiritual Science. The aim of our Anthroposophical Spiritual Science is
+to carry spirit out as living reality into the world through the soul of
+man. This living spirit is banished from that contemporary outlook which
+originated with the middle class, and which the workers, to their
+misfortune, have taken over. Banished \... and that which ought to live
+in men\'s consciousness, the "spirit in me"---that exists now merely as
+ideology.
+
+Consider, again: how much can be understood about humanity, in this
+earthly life, through the ordinary senses! Why, in order to gain a
+comprehensive view of humanity we have to bring in not only the
+evolution of the Earth, but the Moon, Sun, and Saturn evolutions! How
+lacking from the modern outlook is that fine feeling for human dignity
+which enables us, once we have acquired it from Spiritual Science, to
+establish a right relationship when as human beings we encounter other
+human beings! Can you suppose for a moment that in the chaos of social
+life to-day will be found that right relationship between man and man
+which is essential to any real solution of the social problem? How can
+such a right relationship possibly emerge unless it rests on that
+evaluation of mankind in cosmic terms which springs only from spiritual
+knowledge and spiritual experience?
+
+A third point. No true relation to the realm of law and human rights can
+be found to-day through the abstract conceptions loved by economists and
+political theorists. The only way is to seek for direct personal contact
+with the facts and events of the surrounding world. This third point
+recalls what I have already indicated: through Spiritual Science, taken
+into the soul-life, we must experience our relationship to all the
+beings that stand above and below us in the hierarchical order of the
+divine and natural worlds.
+
+Now consider this contrast. On the one hand, take that which fills the
+consciousness of the proletariat---think how far removed it is from any
+experience of the living reality of the spirit in man, how it has
+reduced everything spiritual to an ideology! Think how far removed a
+truly spirit-permeated valuation of man is from the way of thinking
+which the proletarian of to-day applies to man and embodies in his
+general outlook! Think, finally, how far removed the almost universal
+standards of judgment to-day---the reckoning of everything in economic
+terms---are from that appreciation of extra-human phenomena to which we
+come when we learn to experience all that may be drawn from Spiritual
+Science as to the relationship of men to these other realms of
+existence.
+
+Consider a further contrast. Think what mankind has come to as a result
+of the intensive invasion of human souls by the materialism of the past
+century. On the other hand, think of the hopes that can be kindled by
+the knowledge that true Spiritual Science is now able to find its way
+into the hearts of men. Put these two facts side by side and ask
+yourselves whether a true apprehension of the social problem will not
+depend on the grasping by human souls of all that Spiritual Science has
+to give.
+
+If you experience rightly these two prospects, the hopeless and the
+hopeful, then, my dear friends, anthroposophical activity will become
+for you what indeed it should be to-day for all men: a necessity of
+life---a necessity which should penetrate all other preoccupations.
+
+You may say to yourselves: Nothing seems clearer to me in the whole
+context of man\'s recent development than that the social problem has
+come to a head; but nothing, also, seems clearer than that men stand
+tragically at a loss in face of this social problem. For in this epoch,
+when the social problem thrusts itself so forcibly on to the scene, men
+are going through one of their hardest ordeals---the ordeal of having to
+find their way to the spirit through their own inner strength. Today we
+can look for no revelations unless we seek them freely; for since the
+middle of the fifteenth century we have been living in the age of the
+Consciousness Soul---the age in which everything is destined to be
+brought into the light of consciousness. Let us not be led to complain
+vainly: "A fearful catastrophe has fallen on mankind \... why have the
+gods thrust mankind into such an appalling disaster! Why did the gods
+not lead men clear of it, for it is surely piteous that men should have
+been brought to such a pass?" Let us not forget that we are living in
+the age when the free spiritual activity of man is due to reach
+expression---when the gods, in accordance with their primary purpose,
+may not reveal themselves unless the human being, by free resolve, opens
+the innermost sanctuary of his soul to receive them.
+
+With regard to the most important aspects of human evolution, and with
+regard particularly to Christianity, we stand at a turning-point.
+Certainly many people, who are active in social affairs, have indicated
+a willingness to accept Christianity---but only as much of Christianity
+as serves to remind us of our own social ideals. But this most important
+of all impulses, which alone gives earthly existence its true meaning
+and purpose, cannot be dealt with in that way. We must be clear about
+this: all that has been generally understood about Christianity, so far,
+is only a beginning. It amounts to little more than an acknowledgment of
+the fact that the Christ was once present in the man Jesus and passed
+through the Mystery of Golgotha. All that Christianity has been able to
+teach men in nearly 2,000 years is the simple fact that the Christ
+descended to Earth and established a connection with the Earth. Human
+understanding was not ripe for more. Only now, in the fifth
+post-Atlantean epoch, the epoch of the Consciousness Soul, is humanity
+becoming ripe to understand, not merely the fact that the Christ passed
+through the Mystery of Golgotha, but the real significance of this
+event. Mankind will be able to understand the content of the Mystery of
+Golgotha only out of the spiritual foundations which can be built in the
+fifth post-Atlantean epoch.
+
+In this study-group I have often remarked how extraordinarily banal it
+is to say: "We live in a time of transition." All times are times of
+transition! The point is not to call this or that period a time of
+transition; the point is to see what is involved in a particular change
+or transition. That is the essential thing: to perceive *what* is
+changing!
+
+I have also remarked here, from many points of view, on the particular
+changes which human consciousness and human soul-development, in the
+broadest sense, are undergoing in our time. To-day I should like to draw
+attention once more to a particular aspect of man\'s earthly evolution.
+
+I said just now: Through Spiritual Science we seek not merely to
+entertain thoughts about the Spiritual, but to let the living reality of
+the spirit reveal itself in our thinking. Similarly, we can recall the
+words of Christ Jesus: "I am with you always, even unto the end of the
+world." The right way to grasp Spiritual Science is not to believe that
+the entire substance of Christianity is contained once for all in the
+Gospels, but to recognise that the Christ is in truth present at all
+times, even unto the end of the world. And present not as a dead force,
+calling merely for belief, but as a living power which increasingly
+reveals itself. And in our epoch what is this revelation? The content of
+modern anthroposophical Spiritual Science. Spiritual Science is
+concerned not merely to talk about the Christ, but to utter what the
+Christ wishes to say to men in our time, through the medium of human
+thoughts.
+
+So we can say: In those ancient times, when the life of men was still
+largely instinctive, when in their souls something of the old, atavistic
+clairvoyance survived, then the Spiritual found utterance in the human
+soul. It was active still in human thoughts and in the human will.
+Truly, the gods dwelt in men. To-day, however, they dwell in human
+beings after a different fashion. One might put it in the following way.
+In ancient times the gods had a certain task with regard to the Earth\'s
+evolution: they had set its fulfilment before themselves as a goal. They
+accomplished their purpose by inspiring men with their own powers, and
+breathing imaginations into the human soul. But---strange as it may
+seem---these primal aims for the Earth\'s development are now fulfilled.
+They were fulfilled, fundamentally, by the end of the fourth
+post-Atlantean epoch. Since then the spiritual Beings of the higher
+Hierarchies (whom in our sense we may call the gods) stand in a
+different relationship to human souls.
+
+Once, the gods came in search of men in order to realize their purpose
+for the Earth with men\'s help. To-day it is men who must seek out the
+gods; by their own inner activity they must raise themselves to the
+gods. The human being must reach such a relationship to the gods as to
+achieve his aims, his consciously conceived aims, with the help of
+divine powers. That is the right thing in the epoch of the Consciousness
+Soul. In earlier times the aims of men were unconscious, instinctive,
+just because the conscious purpose of the gods was working in them.
+Human aims must now become ever more conscious: then they will be
+infused with powers capable of raising them into the sphere of the gods,
+so that human aims may be inspired with divine energies.
+
+My dear friends, give thorough thought to these words. Much lies in
+them. They point to the necessity which from our time onwards should
+draw forth an elemental striving from the depths of human nature. We can
+cultivate this in various realms of the soul. Above all we must seek to
+deepen social life by bringing Spiritual Science to bear on human
+relationships. Because in earlier times the gods were directly concerned
+with the evolution of mankind, and sought through men to realize their
+aims---for this very reason men were much more closely related to one
+another than they are to-day. It had to be so. To-day human beings are
+in a certain sense driven apart, and they have to seek quite a different
+relationship to one another. But first they have to learn about this.
+From a purely external point of view you can see everywhere that one
+human being knows very little about another. Spiritual Science is only
+beginning to show how human nature and human worth stand in their cosmic
+setting. In daily life one man knows little about another; he does not
+penetrate into the depths of his fellow man\'s soul. That is the general
+rule. Through a deepening of social life a new understanding of man must
+be found, and must permeate human development.
+
+Instead of having eyes only for the man of flesh, apprehending him in a
+naturalistic way, devoid of the spirit, we must reach the stage of a
+spirit-filled social organism, wherein the activity of the gods in other
+men can be recognised.
+
+But we shall not attain to this unless we do something about it. One
+thing we can do is to strive to deepen our own life of soul. There are
+many paths to that. I will mention only one, a meditative path. From
+various points of view, and with various aims, we can cast a backward
+glance over our own lives. We can ask ourselves: How has this life of
+mine unfolded since childhood? But we can do this also in a special way.
+Instead of bringing before our gaze what we ourselves have enjoyed or
+experienced, we can turn out attention to the persons who have figured
+in our lives as parents, brothers and sisters, friends, teachers and so
+on, and we can summon before our soul the inner nature of each of these
+persons, in place of our own. After a time we shall find ourselves
+reflecting how little we really owe to ourselves, and how much to all
+that has flowed into us from others. If we honestly build up this kind
+of self-scrutiny into an inner picture, we shall arrive at quite a new
+relationship to the outer world. From such a backward survey we retain
+certain feelings and impressions. And these are like fertile seeds
+planted in us---seeds for the growth of a true knowledge of man. Whoever
+undertakes again and again this inward contemplation, so that he
+recognises the contribution which other persons, perhaps long dead or
+far distant, have made to his own life, then when he meets another man,
+and establishes a personal relationship with him, an imagination of the
+other man\'s true being will rise before him.
+
+This is something which must emerge as an inward and truly heartfelt
+social demand, bound up with this present time and necessary to the
+future development of mankind. So must Spiritual Science reveal its
+practical power to kindle and enrich human life.
+
+This subject has a further aspect. In earlier times all self-knowledge,
+all introspection, was a much simpler affair, for a deeply inward social
+impulse is now emerging---and not only because of the enhanced awareness
+of some people concerning property or poverty. This impulse shows
+itself, for example, in the following way. Nowadays we pay very little
+attention to the fact that throughout life a constant process of
+ripening goes on. Inwardly honest men, such as Goethe, feel this. Even
+in his latest years Goethe was still eager to learn. His inward growth
+continued; he felt he had not finished with the task of becoming a man.
+And in looking back on his youth and prime he saw in all that had come
+to him then a preparation for the experiences brought by old age.
+Nowadays people very seldom think in that way---least of all when taking
+account of man as a social being. Everyone, as soon as he is twenty,
+wants to belong to some corporate body and---in the favourite
+phrase---to exercise his democratic judgment! It never occurs to anyone
+that there are things in life worth waiting for, because increasing
+ripeness comes with the years. Men to-day have no idea of that!
+
+That is one thing we must learn, my dear friends---that all stages of
+life---and not only the first two or three decades of youth---bring
+gifts to man.
+
+And there is something else we must learn. We are not concerned only
+with ourselves, but with people at other stages of life; and
+particularly with children, as they are born and grow up. A consequence
+of human evolution is that much which used to unfold of itself in the
+soul now has to be attained by extraordinary exertion---by a striving
+for super-sensible knowledge, or at least for a real knowledge of life.
+It is the same with the child as with people in general---a great deal
+in his own being remains hidden from him. And this applies not only to
+the experiences that will come in later life. A great deal that was
+formerly revealed through atavistic clairvoyance now remains hidden from
+a person who pays attention only to himself, who seeks for knowledge
+only within himself. It remains hidden from the cradle to the grave.
+This is also a consequence of the state of consciousness belonging to
+our age. We can strive for clear insight, yet much remains hidden---and
+precisely in the realm where we need to see clearly. This is a special
+characteristic of our time: we enter the world as children, bearing some
+quality which is important for the world, for the social life of
+humanity, for the understanding of history. But we cannot reach a
+knowledge of this, not in childhood, or in maturity, or in old age, if
+we remain shut up in ourselves. Knowledge of it, however, can be reached
+in a different way. We can reach it if we look at the child with
+finely-tuned spiritual perception, and realise that in the child is
+revealed something which the child does not and cannot ever know, but
+which *can* be understood by the soul of another person who in old age
+gazes on the child. It is something revealed *through* the child---not
+to the child himself and not to the man or woman whom the child
+becomes---but to the *other* person who from a later age looks with real
+love on his youngest contemporaries.
+
+I draw special attention to this, my dear friends, so that from this
+characteristic of our age you may see how a *social* impulse, in the
+broadest sense, weaves and surges through our time. Is there not
+something profoundly social in this necessity: the necessity which
+ordains that life becomes fruitful only when age seeks its highest goal
+through fellowship with youth---the fellowship not merely of this or
+that man with another, but of the old with the very young?
+
+This social fellowship is called for by the innermost spirit and sense
+of our time. And in this way Spiritual Science, by speaking to people
+who are already prepared to some extent through acquaintance with its
+other branches, can lead to a deeper grasp of the social problem. As
+persons marked out by knowledge of Spiritual Science, you have before
+you all a great social task if you take the force of feeling which
+social questions stir in you and make it a means of working for mankind
+to-day. Carry your enthusiasm into the social and socialistic
+discussions of the present time, kindle and deepen in yourselves the
+social feeling and understanding which should prevail between man and
+man---then you will be discharging a truly anthroposophical task in the
+social realm.
+
+We will speak further of this next week, when we shall again have a
+group lecture in between the two public lectures.
+
+To be continued...
