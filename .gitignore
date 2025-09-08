@@ -7,3 +7,10 @@ create_issue.sh
 *.odt*
 *.docx*
 *.doc*
+*.zip*
+*.rar*
+*.7z*
+*.tar*
+*.tar.gz*
+*.iso*
+**/temp
