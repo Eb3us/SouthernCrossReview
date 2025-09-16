@@ -16,8 +16,8 @@ AUTHOR=`echo $AUTHOR | sed 's/<a.*">\s*//I'`
 AUTHOR=`echo $AUTHOR | sed 's/<strong>\s*//I'`
 AUTHOR="${AUTHOR%%<*}"
 IMGLINE=`cat $1 | grep -m 1 img`
-IMG=`echo $IMGLINE | sed 's/.*src=\"\(.*.jpg\)\".*/\1/'`
-SUBTITLE=`cat $1 | grep '<h3>'` 
+IMG=`echo $IMGLINE | sed -E 's/.*src="([^"]*\.(jpg|png|jpeg))".*/\1/'`
+SUBTITLE=`cat $1 | grep -m 1 '<h3>'` 
 sed "s#<title>.*#<title>$TITLE<\/title>#" <plantilla.html >$1.iit.bak
 sed -i "s,\(.*og:title.*content=\"\).*\(\".*\),\1$TITLE\2," $1.iit.bak
 sed -i "s,\(.*author.*content=\"\).*\(\".*\),\1$AUTHOR\2," $1.iit.bak
