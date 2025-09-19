@@ -1,0 +1,252 @@
+I got off the plane in London. From the favela direct to Heathrow
+airport. Nervous, with a stomach-ache from impatience and uncertainty
+whether F. would be there. How he would be. If we should greet each
+other seriously or embrace?
+
+Of course everything was quite different. Suddenly I saw a waving hand,
+a head behind the waiting crowd. I rolled my luggage cart there: "You
+look the same." "You too." It had been eighteen years. Years full of
+life, but somehow vanished. We laughed, were happy. We were out of
+breath from carrying luggage, laughing, embracing, upstairs, downstairs,
+looking for the car. We felt like eighteen-year-olds who were in love
+for the first time.
+
+**22 August 1979**
+
+A letter from Renate, the kindergarten teacher: "Today was turbulent in
+the kindergarten. After the usual opening with the children in a circle
+and drawing, some boys from the favela were to sand-paper the chairs and
+others to prepare carrots and lettuce for the snack. You can imagine how
+it looked. When they were hard at work, Dona Regina (the sewing teacher)
+suddenly ran in and said that Josenildo had struck Lucimera on the head
+over near the sand-box. That happens fairly often so I didn't take it
+very seriously, especially as I was occupied with the little ones. When
+I went over to look however, Lucimera was bleeding quite a lot and I had
+a fright. But it turned out to be not so bad. It seems the metal slide
+fell on her head and left a small cut. Luckily Dona Regina was there.
+She cut the hair away and bandaged the wound nicely. She also washed
+Lucimera's dress so that the mother wouldn't be too shocked. When I
+returned to my cooking soup you can imagine was it was like. The large
+wash-bowl full of water (to wash the lettuce) was full of parsley snips,
+lettuce leaves and pieces of carrot. Gilmar stirred the brew
+enthusiastically and I had all I could do to fish out what was still
+usable. Nevertheless, the salad turned out well and the children ate it
+with relish. On the last day the morning snack is the most important
+event in the kindergarten. Yesterday we had cheese salad sandwiches and
+the day before muesli with lots of fruit, nuts, etc."
+
+The Children's Aid Society of Duisberg now donates \$20 per child per
+month. That's why we can now afford to give the children a good morning
+snack and relieve somewhat their vitamin deficiency. Nuts = brain-food.
+
+**Germany, September 1979**
+
+For two weeks I have been in Switzerland with my mother and Lotti and
+her two children, Michael, four years old, and Tamara, two. We hiked in
+the mountains, mostly with the children. Tamara especially was full of
+energy that let her spring fearlessly over stones, walls and brooks.
+When she saw a wall or a fence she'd cry: wall go! wall go! and climbed
+up with a great show of strength. She was red with exertion and
+excitement, but she was on top and she called out triumphantly: up, up,
+and stood on her toes and stretched her hands to the sky in order to
+look even taller and bigger. When she overcame an obstacle her eyes
+lighted up with joy.
+
+Why do I tell this? Because the contrast between a child like Tamara,
+who grows up in normal circumstances, and a child like Ademir from the
+favela is painfully apparent. What a difference between these lively,
+adventure-loving eyes and the calm, dull look of many favela children.
+At two years of age, Tamara climbs over fences and tree-stumps while
+Ademir at the same age sat apathetically in a corner of his shack or
+crawled on the only bed. Tamara talks constantly and you can see how she
+combines her words in an ungrammatically pregnant way. Ademir began to
+speak at three-and-a-half in kindergarten. Tamara is as big now as
+Ademir is at three-and-a-half.
+
+"Why is that?" a doctor in Germany asked me. "I don't know, but I think
+that it's partially due to poor nutrition during early childhood and
+also to the lack of stimulation it receives from its parents and
+environment to which the child can react."
+
+I thought of Ingrid, a Bavarian housewife, feeding her little Vroni
+carrot porridge which the child devoured with relish. And all in a
+clean, orderly environment.
+
+"What else do you give him to eat?" I asked Ingrid. "Milk, porridge,
+vegetables, porridge again and evenings milk again." That's what's
+lacking. Vitamins, mineral salts, a varied diet.
+
+"What do the children in Brazil get to eat?"
+
+"Milk, but what a battle to obtain it. Often it's Nestle powdered milk,
+which is very diluted. Or mother's milk, weakened by many feedings. No
+additional nutrition, practically nothing vitamin-rich, and later
+nothing proper to bite on."
+
+We take care that Claudemir, our favela foster child, receives
+nutritious food. We were often disappointed that he seemed to be a few
+months behind in development during his first year. But now, after two
+years of earthly existence, he's far from being as exuberant as Tamara
+or most German children, but he laughs, plays and relates to his
+environment -- and is often fresh. You can see that he has an inner
+life. Of course nutrition isn't everything. And his environment? What
+does a such a mite see when it first opens its eyes and looks at
+something? His mother, except when it's born into a family that the
+father has abandoned and the mother must work.
+
+His brothers and sisters. Thank God that the brothers and sisters
+fervently love each other and lovingly care for each other. This warm
+loving web that is spun from one to the other is the salvation of many
+children. Such a family is all right despite poverty; in such an
+atmosphere the children can grow. Mostly they are intellectually weak,
+but can become honest, straightforward human beings. But this isn't the
+case when chaos, revolt and thievery take the upper hand.
+
+What else does such a child see? A dark, sooty wall, hanging wash, an
+open fire, boxes and suitcases in which miserable possessions are
+packed, perhaps a torn couch, a toy car without wheels, a torn up floor
+-- everything gray, brown, black. Hardly any color or beautiful forms.
+How should a sense of beauty develop? How shall such a child be
+stimulated?
+
+**October 1979 - Hamburg**
+
+At five o'clock I went to the post office and mailed twenty letters to
+the children, volunteers, teachers in Brazil, as well as "Bread for the
+World", "Terre des Hommes", "Regional Office for Development Aid", etc.
+Five o'clock, autumn, almost winter, this semi-darkness, these sounds
+muffled by damp fog, the people returning from work, emerging from the
+U-bahn, going home with their briefcases, wrapped in coats and hats.
+Memories of this daily routine when I worked in a publishing house and
+had to drop the correspondence in the mail box after office hours. How
+lucky I am to have found a different path!
+
+Almost all the letters were over-weight. Patiently the clerk weighed one
+after the other. I watched him doing it, which must have pleased him,
+for he smiled at me. I thought again how happy I am not to have to do
+such work day in and day out. And a kind of thankfulness that he does
+this work for me. Of course he gets paid for it, but that's beside the
+point.
+
+And so I went home, brushed the autumn leaves off and thought again:
+We're privileged, not so much by being able to be free from dedication
+to material gain, but because of the chance we have to lead a different
+life, one which is more fulfilling. Privileged as well because of the
+ability to have doubts about our way of life, to suffer, to be troubled.
+
+It's something that H. listened to in revolt when I reproached him: this
+quarreling with our destiny, which we in fact control. Everything -- not
+only money, education, but also this ability to doubt and to formulate
+the doubts and to build bridges over the abyss of confusion and
+meaninglessness.
+
+If I lived in Germany I think I would settle in the Ruhr area and do
+something there for the workers' children. What has been done to these
+children that their spiritual hunger is stilled by sensational
+journalism? Germany: children committing suicide, 600 deaths per year
+from heroin, psychological help for children per telephone, unemployment
+of the young, alcoholism etc.
+
+On the other hand there are young people who think, who participate,
+discuss problems, much more aware than Brazilian youth. Young people who
+don't only think in terms of revolution, but also see solutions in small
+actions. New forms of community living. It's encouraging when you see
+how the young people in the Anthroposophical youth seminar in Stuttgart
+try to practice community living, not only by reading Rudolf Steiner,
+but also by cleaning up in the kitchen. And I get a warm feeling when I
+see, for example in the Zeist (Holland) Waldorf School, but also in all
+the schools where I have spoken about Brazil, how the pupils are so
+enthusiastic about work in the favelas and have suggestions about how
+they can contribute.
+
+A phone call from Switzerland: US\$15,000 in donations have been
+received. No, I couldn't believe it!
+
+**End of November 1979**
+
+A side-trip to Bogotá on the way back from Europe to Brazil.
+
+Stop-over in Caracas - first impression approaching the airport. One can
+easily forget certain details about Brazil or South America in general:
+the typical eroded hills that are dotted from top to bottom by shacks,
+sparse at the top, crowded towards the bottom; everywhere the naked red
+earth surrounded by brush and weeds, buildings set down any which way,
+the unkempt land between the airport runways.
+
+**Bogotá. First night in South America**
+
+You know even in the dark, with closed eyes, that you're no longer in
+Germany: the barking dogs going from one garbage pile to the other
+looking for food. Things don't work any more: electricity out, the water
+in the shower doesn't get hot -- the first signs that I'm approaching
+Sao Paulo.
+
+The four Dominican sisters work in the barrio (neighborhood) Meissen
+with over 100,000 inhabitants. A desolate conglomeration of brick huts.
+It's not like Sao Paulo, where the favelas are built on unpaid-for city
+land. Here the poorest shacks are mixed in with other somewhat better
+ones belonging to lower middle class people, but all on individually
+owned land. No tree, no bush, nothing green. Unpaved streets, huge
+pot-holes, garbage and filth everywhere.
+
+The sisters' work is admirable. A kindergarten with 150 children and
+eight kindergarten teachers who come from the Barrio Miessen. A clinic
+with several branches; people from the barrio are taught to be nurses
+and take over the inoculation campaign, for example. There are also
+courses in cooking, knitting, sewing; help with school work, catechism,
+etc. What they do comes from the situation and needs. How it is done is
+the hard part: taking the people who are in need seriously, the human
+image which is the basis of the work. It is a question of whether they
+are only "treated" or whether they are really considered as equals. You
+teach them but at the same time you realize that you are also learning
+and advancing.
+
+I could sense this attitude in the sisters. They take on a lot of
+responsibility, for example in the clinic and in the kindergarten. They
+trust the abilities of the others, even though they do not have the
+educational background usually expected for such work. It sounds easy,
+but it implies an inner struggle with one own ideals. I can imagine how
+the kindergarten sister must pull her hair when the locally trained
+teachers stand around during the breaks instead of remaining active. You
+have to keep a strong grip on yourself in order not to explode. You have
+to understand why they are that way and cannot yet give all that you
+expect them to give.
+
+To see how others are working on the "front" was consoling. Everything
+isn't perfect and most people are concerned with their own advantage and
+don't understand what the real objectives of social work are. But one
+goes on working and is glad of the small steps forward.
+
+In Germany there was a lot of talk about the voluntary efforts of the
+poor, solidarity and so on. Here it is also terribly difficult to create
+enthusiasm for such principles. It's all done in small steps and not, as
+they suppose in Germany: here are the poor and along comes a social
+worker, talks with them to awaken their awareness and their awareness
+springs to life like a spark. No, that's not the way it is. What an
+illusion to think that the poor are quicker in this respect that we are!
+
+I see the development of awareness so: you accomplish something together
+and then some words are exchanged about the task achieved which puts it
+in a context. For example, our ambulatory clinic: working together on
+Sundays, a short speech at the inauguration, "certification",
+appreciation through the presence of many guests also from outside the
+favela. Then forward. For example, who does the cleaning? A few get
+together to take on the cleaning chores. Christmas. We could make a
+manger scene after all. Some women and children build the manger, its
+fun. It's our ambulatorio, we decorate it. From outside it doesn't seem
+a great success, but what goes on inside those people is important.
+
+Or: theater, a small newspaper with biographies, poems, stories which
+describe the real situation. Or: explain to the ill what their illness
+is, why they have it, which organs are involved where the pain is.
+
+For me this is developing awareness. But it's invisible.
+
+*Cuando otros lloran sangre, qué derecho tengo yo para llorar
+lágrimas?* - When others cry blood, what right have I to cry tears.
+(José‚ Marti, Cuban writer).
+
+**November 26, 1979**
+
+Back in Sao Paulo! What a joy to embrace the children, the teachers and
+Cido and Zeca at the airport!
