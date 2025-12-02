@@ -1,26 +1,12 @@
 import { prefix } from "./variables.js"
 
 export const articles = {
-  "Featured Art": [
-    {
-      "title": "Altar do Templo nº2",
-      "sub-title": "",
-      "author": "Hilma af Klint",
-      "description": [
-        "<strong>Hilma af Klint</strong> (26 October 1862 – 21 October 1944) was a Swedish artist and mystic whose paintings are considered to be among the first major abstract works in Western art history. A considerable body of her work predates the first purely abstract compositions by Kandinsky, Malevich, and Mondrian. She belonged to a group called \"The Five\", a circle of women inspired by Theosophy who shared a belief in the importance of trying to contact the \"High Masters\", often through séances. Her paintings, which sometimes resemble diagrams, were a visual representation of complex spiritual ideas.",
-      ],
-      "imgUrl": `${prefix}hilma-af-klint.jpg`,
-      "link": ``,
-      "poem": false,
-      "mainImg": true,
-    },
-  ],
   "Current Events": [
     {
       "title": "Capitulation at Columbia",
       "sub-title": "",
       "author": " Helen Benedict",
-      "description": [
+      "description":[
         "On September 17, 2025, one month before I was to teach my annual social justice reporting class at Columbia University’s Graduate School of Journalism, the campus lowered its flag to half-mast in honor of far-right pontificator Charlie Kirk.",
         "Nobody deserves to be murdered, as Kirk was, but to honor a man of his White supremacist, Christian nationalist, and misogynist beliefs was to spit in the face not only of all the women on campus, but of students and staff of color; the queer and trans students and employees whose identities he characterized as “abominations”; the Muslims whose religion, he said, “is a sword being used to slit the throat of America”; the immigrants he insisted will “replace us” with their “anti-white agenda”; and the Jews he accused of controlling America’s institutions.",
         "Columbia did not have to lower that flag. Trump ordered federal institutions to do so, but the university is private, not part of the government. No, lowering the flag was a choice.",
@@ -34,27 +20,24 @@ export const articles = {
       "title": "Century of Disaster",
       "sub-title": "",
       "author": "Eduardo Galeano",
-      "description": [
-        "<strong>Stalin</strong>",
+      "description":[
+        "[The following passages are excerpted from Eduardo Galeano’s history of humanity, Mirrors (Nation Books).]",
+        "Stalin",
         "He learned to write in the language of Georgia, his homeland, but in the seminary the monks made him speak Russian.",
         "Years later in Moscow, his south Caucasus accent still gave him away.",
-        "So he decided to become more Russian than the Russians. Was not Napoleon, who hailed from Corsica, more French than the French? And was not Catherine the Great, who was German, more Russian than the Russians?",
-        "The Georgian, Iosif Dzhugashvili, chose a Russian name. He called himself Stalin, which means “steel.”",
-        "The man of steel expected his son to be made of steel too: from childhood, Stalin’s son Yakov was tempered in fire and ice and shaped by hammer blows.",
-        "It did not work. He was his mother’s child. At the age of 19, Yakov wanted no more of it, could bear no more."
       ],
       "imgUrl": `${prefix}galeano-century-of-disaster-main.png`,
       "link": `${prefix}galeano-century-of-disaster.html`,
       "poem": false,
       "mainImg": false,
     },
-  ],
+   ],
   "Memoir": [
     {
       "title": "Exile’s End: a Memoir",
       "sub-title": "",
       "author": "Frank Thomas Smith",
-      "description": [
+      "description":[
         "I better explain here what my new job involved. At that time, and up until the nineteen-seventies, international airlines were exempt from antitrust laws and met regularly to decide what fares to charge. For example, if both a French (Air France) and an American (Pan Am and/or TWA) airlines carried passengers and cargo between the two countries — New York to Paris round trip, say — they were contractually obliged to charge the same fare, or tariff as we called them. The rationale for this was that if airlines were free to compete with tariffs, they would lose money and therefore pay less attention to safety. In fact, there was competition. By means of service, food, frequencies, efficiency — but not fares (or tariffs). However, some airlines granted discounts for competitive reasons. Take for example KLM, the Dutch airline. A lot of people fly to Amsterdam, but not nearly as many as fly to Paris, New York or London. So, KLM (a quality airline) finds itself needing an additional competitive advantage if they wish to transport passengers beyond Amsterdam: price. Argentina, for example, has a large Jewish community, most of whom would dearly like to travel to Israel, if they could afford it. There were no direct flights from Buenos Aires to Tel Aviv, but you could get there via Madrid (Iberia), Paris (Air France), Rome (Alitalia), Zurich (Swissair) and Amsterdam (KLM). The fare was the same. Those days Lufthansa, although they flew to Buenos Aires, had difficulty convincing Argentine Jews to fly with them. Memory of the holocaust was still fresh, although the Lufthansa employees and management were of a later generation. But KLM, with an Argentinian Jewish sales manager, decided to concentrate on flying as many members of the Jewish community to Israel as possible. In order to accomplish this, they resorted to “illegal” discounts. On the other hand, Argentine Airlines (not a quality airline) was to a large extent dependent on giving discounts to everyone going everywhere.",
         "My mission, as a “compliance Officer,” was to clean up the market. That is, to stop the discounts. In order to do so, I first had to prove that a particular airline had given one. How did I know? Complaints. If the Spanish airline Iberia, for example, knew that Argentine Airlines (or any other competitor) was giving discounts to Madrid, the manager would complain to the Compliance Officer (me) and I would try to obtain evidence of said discounts, usually by buying a “test ticket.” I couldn't very well buy the ticket myself because I was well known as the “IATA inspector.” So, I employed Argentine nationals as “intermediaries.”",
       ],
@@ -63,16 +46,16 @@ export const articles = {
       "poem": false,
       "mainImg": false,
     },
-  ],
+   ],
   "Social Science": [
     {
       "title": "Favela Children",
       "sub-title": "",
       "author": "Ute Creamer",
-      "description": [
+      "description":[
         "I got off the plane in London. From the favela direct to Heathrow airport. Nervous, with a stomach-ache from impatience and uncertainty whether F. would be there. How he would be. If we should greet each other seriously or embrace?",
         "Of course everything was quite different. Suddenly I saw a waving hand, a head behind the waiting crowd. I rolled my luggage cart there: \"You look the same.\" \"You too.\" It had been eighteen years. Years full of life, but somehow vanished. We laughed, were happy. We were out of breath from carrying luggage, laughing, embracing, upstairs, downstairs, looking for the car. We felt like eighteen-year-olds who were in love for the first time.",
-        "<strong>22 August 1979</strong>",
+        "22 August 1979",
         "A letter from Renate, the kindergarten teacher: \"Today was turbulent in the kindergarten. After the usual opening with the children in a circle and drawing, some boys from the favela were to sand-paper the chairs and others to prepare carrots and lettuce for the snack. You can imagine how it looked. When they were hard at work, Dona Regina (the sewing teacher) suddenly ran in and said that Josenildo had struck Lucimera on the head over near the sand-box. That happens fairly often so I didn't take it very seriously, especially as I was occupied with the little ones. When I went over to look however, Lucimera was bleeding quite a lot and I had a fright. But it turned out to be not so bad. It seems the metal slide fell on her head and left a small cut. Luckily Dona Regina was there. She cut the hair away and bandaged the wound nicely. She also washed Lucimera's dress so that the mother wouldn't be too shocked. When I returned to my cooking soup you can imagine was it was like. The large wash-bowl full of water (to wash the lettuce) was full of parsley snips, lettuce leaves and pieces of carrot. Gilmar stirred the brew enthusiastically and I had all I could do to fish out what was still usable. Nevertheless, the salad turned out well and the children ate it with relish. On the last day the morning snack is the most important event in the kindergarten. Yesterday we had cheese salad sandwiches and the day before muesli with lots of fruit, nuts, etc.\"",
       ],
       "imgUrl": `${prefix}favela-cover.jpg`,
@@ -80,35 +63,30 @@ export const articles = {
       "poem": false,
       "mainImg": false,
     },
-  ],
+   ],
   "Theater": [
     {
       "title": "HeyZeus - A Modern Mystery Drama",
       "sub-title": "",
       "author": "Frank Thomas Smith",
-      "description": [
+      "description":[
         "A meeting of True Advertising chaired by the Chairman of the Board: C.B., with several employees: THOMAS, MARGO and JOHN.",
         "C.B.: Good morning. [Sits]",
         "ALL: Good morning, C.B. [All sit]",
         "C.B.: Ms Ackhorn is sick today, so someone else will have to take the minutes.",
-        "JOHN: She’s always sick on Mondays.",
-        "MARGO: English secretaries are always sick on Mondays. It has something to do with their National Health Plan. She once told me that the people in Northern Ireland don’t want to separate from Britain because they’d lose their health insurance.",
-        "JOHN: Maybe we should revert to colonial status. I wouldn’t mind working four days a week and have free health insurance.",
-        "C.B.: That has nothing to do with it; she’s sick, that’s all.",
-        "MARGO: Force of habit."
       ],
       "imgUrl": `${prefix}heyzeus-act-2-scene-2-main.png`,
       "link": `${prefix}heyzeus-act-2-scene-2.html`,
       "poem": false,
       "mainImg": false,
     },
-  ],
+   ],
   "Christian Hermeticism": [
     {
       "title": "Meditation on the Seventh Major Arcanum of the Tarot",
       "sub-title": "",
       "author": "",
-      "description": [
+      "description":[
         "Then the devil left him, and behold, Angels came and ministered to him.",
         "When the unclean spirit has gone out of man, he passes through waterless places seeking rest; and finding none he says: I will return to my house from whence I came. And when he comes he finds it swept and put in order. Then he goes and brings seven other spirits more evil than himself, and they enter and dwell there; and the last state of that man becomes worse than the first.",
         "I have come in my Father’s name, and you do not receive me; if another comes in his own name, him you will receive.",
@@ -123,7 +101,7 @@ export const articles = {
       "title": "Meditations on the Eighth Major Arcanum of the Tarot",
       "sub-title": "",
       "author": "",
-      "description": [
+      "description":[
         "The Son and the Spirit—this is all that is granted to us. With respect to absolute unity or the Father, no one has been able to see him nor will see him in this world, if this is not within the octenary—which is, in fact, the only way whereby one could attain to him.",
         "(Louis Claude de Saint-Martin, Des nombres)*",
         "Quis custodiat custodes? (Who will guard the guards?…The fundamental problem of jurisprudence)",
@@ -134,13 +112,13 @@ export const articles = {
       "poem": false,
       "mainImg": false,
     },
-  ],
+   ],
   "Anthroposophy": [
     {
       "title": "Reorganizing the Civilized World - Volume One",
       "sub-title": "",
       "author": "Rudolf Steiner",
-      "description": [
+      "description":[
         "Stuttgart, April 22, 1919",
         "In accordance with the program of tonight’s meeting, it will be my task this evening to speak about the Appeal “To the German People and the Civilized World\", which you have in your hands. You will allow me to speak more aphoristically today when speaking to a meeting of people who are essentially familiar with the appeal. Next Monday I will speak more directly about the social views on which the appeal and my book on the social question, which will be published in a few days’ time, are based.",
         "The motives for such an Appeal, which is a compassionate impulse for humanity, have nothing to do with programmatic ideas supporting this or that interest. No, I am speaking of facts that speak loudly and clearly, which have arisen out of the terrible catastrophe [World War I] which we have endured in recent years. If you look at these facts attentively and alertly, you will come to a very specific impression. I would like to characterize this impression in the following way.",
@@ -150,13 +128,13 @@ export const articles = {
       "poem": false,
       "mainImg": false,
     },
-  ],
+   ],
   "Fiction": [
     {
       "title": "Miryam",
       "sub-title": "",
       "author": " by Luise Rinser",
-      "description": [
+      "description":[
         "That was when that Councilor Gamaliel, who had spoken in favor of both accused, came to me as leader of one of the groups we called communities. I seemed to him competent to answer his question and he came right to the point: You were Rabbi Yeshua’s companion and are initiated in his teaching, and knew him from close up. Tell me: Who was he?",
         "You know that.",
         "You understand me; why don’t you answer my question?",
@@ -167,13 +145,13 @@ export const articles = {
       "poem": false,
       "mainImg": false,
     },
-  ],
+   ],
   "Spiritual Science": [
     {
       "title": "EL CAMINO DEL DIAMANTE",
       "sub-title": "",
       "author": "Hannah M.G.Shapero",
-      "description": [
+      "description":[
         "El béisbol como ritual esotérico",
         "Es el equinoccio de primavera y el ritual ha comenzado. Los participantes ingresan al cuadrante sagrado y ocupan sus posiciones en puntos geométricamente importantes. Son todos hombres, vestidos con atuendos de blanco puro, identificados con coloridos símbolos esotéricos. En las manos llevan instrumentos rituales. Llegan otros cuatro hombres; están vestidos de azul oscuro. Cual sacerdotes concelebrando la misa, parlamentan sobre los detalles de la liturgia. Y luego ocupan ellos también sus lugares. ",
         "Se entona un himno sacro y, a continuación, vienen las palabras de apertura de la ceremonia: “¡QUE EMPIECE EL PARTIDO!”",
@@ -188,7 +166,7 @@ export const articles = {
       "title": "The Meaning of Life",
       "sub-title": "",
       "author": "Frank Thomas smith",
-      "description": [
+      "description":[
         "First of all, I unapologetically admit that I do not know the meaning of life; however, I do know that there is a meaning – or meanings. Now, with that off my chest, let’s begin.",
         "What if there were no meaning? Charles Darwin introduced his scientific theory that the branching pattern of evolution results from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding. Darwin has been described as one of the most influential figures in human history.",
         "No doubt evolution exists, or actively existed, but “natural” selection? Selection requires someone intelligent to select, to do the selecting. But Darwin said, no, that stuff just happened on its own, so to speak, or was “natural”.",
@@ -199,5 +177,5 @@ export const articles = {
       "poem": false,
       "mainImg": false,
     },
-  ],
+   ],
 }
