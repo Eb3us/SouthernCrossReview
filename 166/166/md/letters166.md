@@ -1,0 +1,64 @@
+# Letters to the Editor SCR 166
+
+![](/goya-letter.jpg){class="a"}
+
+RE: [The Meaning Of Life](https://southerncrossreview.org/166/the-meaning-of-life.html)
+
+Good day, Frank,
+
+Regarding your essay \"The Meaning of Life.\"
+
+Yes, well concluded; what makes us uselessly labor away is the \"fear of
+non-existence.\" 
+
+\"Natural selection\" as a stand-in for random mutations producing the
+undirected \"tree of life\" is utter nonsense, though a pleasant
+hindsight construction that continues to hold in place a scientific
+paradigm from which there is no easy escape. The uniqueness of our
+planet as a random event? So many hits producing a win all at once?
+Let\'s calculate the probability. Well, then, forget it. Also note the
+difference between Niel deGras Tyson and Albert Einstein, the former a
+contemporary TV artist, and the latter a thinker. I know who I\'d opt
+for.
+
+And then also our insolence and presumptiveness in accusing God of
+allowing suffering. We have nothing but our limited minds to make this
+assumption. Yes, we have to go through trials and tribulations to find
+the joy that follows sickness, disease and a life spent in an evil
+quagmire. If all this were \"fixed,\" then we\'d already have paradise
+here on earth. But that\'s not the deal at all. Faith, acting the faith,
+and the fruits that follow from it have to be earned. And, yes, it
+ain\'t easy. Why should it be? Jesus has shown us how bad it can get;
+we\'ve got to bear our cross and try to make it to our resurrection.
+It\'s the way to go but we have the choice.
+
+Have you ever watched marine angelfish? They come in a great number of
+different colorful coats, all sharing one thing: beauty. We have been
+given the power of perceiving that beauty. Could we live without it? I
+doubt it. When we see a great design, a pattern, a painting, or read the
+books we love the most, we want to know who was behind them, who
+\"created\" them.
+
+Every cell of the roughly 35 trillion cells making up our body contains
+the complete genetic helix. How do these cells \"know\" how to compose a
+human body, no more and no less, over and over again? To do the job,
+each contains information, and also receives more information from its
+neighbors, one cell at a time. And where does that information come
+from? Well, you figure it out. What we know is that no one has yet
+managed to produce a \"first\" cell. Sounds reasonable, doesn\'t it?
+
+And isn\'t it a wonderful coincidence, through advances in the science
+of life\'s origin, in fact, that we can begin to understand more and
+more, and with increasing humility and admiration, that \"In the
+beginning was the Word, and the Word was with God, and the Word was
+God.\" You needn\'t be a linguist to see the connection. Einstein had
+this inkling; Newton felt its power.
+
+Nicholas Maync-Matsumoto
+
+\* \* \*
+
+Dear Author, very interesting research. I am 87 years old, not eager to
+die now  neither want to be in a CLOUD!
+
+Ute Craemer
