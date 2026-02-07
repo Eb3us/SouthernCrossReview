@@ -1,0 +1,306 @@
+![](cox-degrowth-main.putting){class="a"}
+
+# We're Racing Down the Highway to a Mad Max World But There's a Degrowth Exit Up Ahead
+
+## By Stan Cox
+
+Let me start by putting things bluntly: Don't bother to tell Donald
+Trump, but with his distinct help, we're doing nothing less than cooking
+ourselves. Thanks to the continued use of fossil fuels in a staggering
+fashion and the growth of greenhouse gas emissions, almost half of the
+world's population now suffers through 30 additional days of extreme
+heat annually. Heatwaves roll in thicker and faster every year.
+
+On average, according to the medical journal The Lancet, 84% of the
+extremely hot days we've faced over the past five years would not have
+occurred without human-induced climate change that the American
+president seems intent on making so much worse. Heat-related deaths are
+already 63% more frequent than in the 1990s. That Lancet article also
+reported that heat- and drought-related hunger, as well as deaths from
+wildfire smoke and industrial air pollution, are breaking records
+globally almost yearly.
+
+Climate Impacts Tracker dubbed 2025 "The Year of Climate Disasters,"
+noting,
+
+"Flash floods tearing up a Himalayan village in India, hurricanes and
+wildfires ravaging the U.S., heatwaves and wildfires scorching Europe,
+record-breaking heat in Iceland and Greenland, torrential rains and
+floods roaring through Southeast Asia --- 2025 marked yet another year
+of human tragedies, driven by extreme weather events."
+
+The number of environmental disasters and their destructiveness are only
+ratcheting up in step with increases in global greenhouse-gas emissions,
+ever more extraction of key minerals, the ever-greater exploitation of
+biological resources, and outbreaks of resource wars (most recently with
+the U.S. assault on Venezuela). All of that is linked to one crucial
+phenomenon: the single-minded pursuit of economic growth by the owning
+and investing classes. Not surprisingly, they reap the lion's share of
+the benefits from such growth and bear next to none of its devastating
+consequences.
+
+Though it's seldom highlighted, the world economy has indeed reached an
+astounding physical scale. During the past century, resource extraction
+has doubled every 20 years or so. Indeed, humanity reached a grim
+milestone in 2021, when the global quantity of human-made mass --- that
+is, the total weight of all things our species manufactured or
+constructed --- surpassed the total weight of all living plant, animal,
+and microbial biomass on this planet. And worse yet, that mass of
+human-made stuff continues to grow, year by year, even as the natural
+world diminishes further.
+
+[Buy the Book](https://www.amazon.com/Anthropause-Beauty-Degrowth-Stan-Cox/dp/1644215144/ref=sr_1_1)
+
+In other words, our species is vainly striving to circumvent what's come
+to be known as Stein's Law from an aphorism credited to economic guru
+Herbert Stein: "If something can't go on forever, it won't."
+
+Count on this: at some point, global economic growth will finally have
+to grind to a halt and shift into reverse. After all, if the corporate
+and political powers carry on with business as usual, such growth will
+end in chaotic, violent collapse. (Think Mad Max.) But if the elites can
+be thwarted and we can dramatically reduce our dependence on fossil
+fuels and other resources in a reasonably well-planned way, we might be
+able to avoid that fate.
+
+That's the pitch put forward by the degrowth movement. In essence, it's
+a refutation of the "green growth" doctrine. (Green-growthers, ignoring
+Stein's Law, claim that technological "innovation" will ensure that
+economies can continue to grow indefinitely.) In that debate, degrowth
+finally seems to be getting a leg up. A 2023 survey of nearly 800
+climate-policy researchers found that almost three-quarters of
+them favored degrowth or no growth over green growth.
+
+And here's the reality the rest of us need to take in: societies could
+indeed achieve a distinctly better quality of life because of (not in
+spite of) degrowth, since full-scale restraints on the endless
+extraction and consumption of fossil fuels could force them to ensure
+that their limited resources would be used to satisfy basic human needs
+instead of being wasted on yet more increasing profits for the already
+wealthy few.
+
+The growth-addled political and economic forces pushing us toward
+ecological doom are many and formidable indeed. And that makes it ever
+more important that people in rich, overconsuming countries like ours
+come to realize how important it is that we stand up to the forces of
+ecocide, while developing a more realistic vision of the better world
+that awaits us once we've jumped off the growth-by-carbonization
+bandwagon.
+
+One way to bring that better world into sharper focus is to examine a
+few of the many miseries and dangers that degrowth would help us
+alleviate or even leave behind. What follows is just a handful of
+examples.
+
+Goodbye, War Machine
+
+Topping the list of American institutions and resources that a degrowth
+economy could starve would be the U.S. military-industrial complex.
+After all, the Pentagon is actually the largest institutional user of
+fossil fuels in the world. The greenhouse gases our military emits, even
+in peacetime, are believed to have a global-warming impact of 60
+million metric tons of carbon dioxide annually. The Earth can't handle
+that any longer.
+
+To begin shrinking our military's now trillion-dollar annual budget
+would not only prevent a significant amount of global warming but also
+save countless human lives and greatly enhance the quality of life in
+this country and across the planet.
+
+With degrowth, for example, the Defense (not --- thank you, Donald
+Trump, Pete Hegseth, and crew! --- War) Department's nearly three
+million employees, who enable the resource-heavy, deadly work of
+war-fighting, imperialism, and, if the Trump administration gets its
+way, the suppression of domestic political protest, can find themselves
+better jobs. After all, employees in all but the top echelons of the
+military, underpaid and exploited, endure often harsh working and living
+conditions. Zeroing out the Pentagon would free up a vast workforce to
+help meet people's actual needs rather than killing all too many of us
+on this planet (most recently, at least 115 in the bombing of Venezuelan
+boats and 40 more in the January 3rd attack on Caracas). And they'd be
+better off losing those jobs.
+
+Enlisted personnel receive such small paychecks that many are eligible
+for SNAP ("food stamp") benefits, even if only 14% apply for them. Among
+the families of junior enlisted troops, 45% often can't afford enough
+food. More than 286,000 of them don't get an adequate variety or amount
+of food and, of those, about 120,000 report sometimes skipping meals and
+eating less than they need for fear of running out of money.
+
+And that's not all. A nationwide analysis suggested that towns and
+cities abutting military bases have higher crime rates (19% greater for
+property crimes and 34% for violent crimes) than similar towns not near
+such installations.
+
+Worse yet, people living or working in or around military bases are
+often exposed to dangerous levels of toxic contamination over long
+periods and can also be plagued by noise pollution. Not surprisingly,
+studies have also found high rates of hearing loss among the troops. In
+the United States, almost 15% of active-duty personnel suffer hearing
+impairment of some sort (and it's one of the most common health problems
+among veterans as well).
+
+Dismantling our war machine would also help restore a better quality of
+life for tens of millions of people elsewhere. Consider the death and
+misery our military has inflicted during the past six decades on
+Indochina, Grenada, Panama, Iraq, Kuwait, the Balkans, Afghanistan,
+Syria, Yemen, Iran, and now the Caribbean Sea, the Eastern Pacific
+Ocean, and of course Venezuela.
+
+As if that weren't bad enough, for decades, our military-industrial
+complex has provided armaments to repressive, murderous regimes around
+the globe --- Israel's genocide of the Palestinian people being the most
+recent example.
+
+Adiós, Vehicular Supremacy
+
+In a much less resource-intensive American society, human needs would
+also no longer be subordinated to those of gasoline-driven motor
+vehicles, and our collective quality of life would improve dramatically.
+
+Based on the importance of keeping this planet livable, any ecologically
+sane society would break free from what Gregory Shill has labeled
+"automobile supremacy" and that, of course, would be a particularly
+significant accomplishment for any degrowth movement in the United
+States or other wealthy countries.
+
+As a start, motor vehicles are regularly among the top 10 causes of
+death for U.S. residents under the age of 55. Worse yet, pedestrian
+fatalities, which had been falling for decades, shot up by 71% between
+2010 and 2023, while fatalities caused by increasingly taller, heavier,
+more aggressively armored pickups and SUVs climbed at precisely twice
+that rate, 142%.
+
+With private gas-driven vehicles largely replaced by extensive transit
+networks, electric vehicles, and bike and foot traffic, we also won't
+have to contend with as many road-raging drivers in armored pickup
+trucks the size of World War II tanks. We won't face the health dangers
+posed by air and noise pollution from vehicle traffic. Our cities will
+have vastly more green space, because significant parts of the 30% of
+their soil surface now covered by concrete or asphalt solely
+to accommodate motor vehicles could be revegetated. And we won't suffer
+the extra-blistering summer heat that comes with such over-paving.
+
+With degrowth and the end of automobile supremacy, traffic jams will
+vanish into the past; we'll no longer risk being killed while simply
+walking, biking along a roadway, crossing a street legally, or engaging
+in lawful, peaceful protest; and everyone will all too literally be able
+to stop driving everyone else crazy.
+
+Farewell to So Many Other Fossil-Fuelized Plagues
+
+Starving militarism and automobile supremacy of resources, while
+improving the quality of life of our communities, would also go a long
+way toward halting the ecological breakdown of this planet while the
+sources of many smaller-scale dangers and ills would also fade into the
+past. Taken alone, each might appear insignificant, but cumulatively,
+such culprits severely degrade the quality of life in our wildly
+growth-oriented economy. As just one example of something that, with
+degrowth, we could say "good riddance" to, let me suggest that
+loud-mouthed neighborhood bully, the leaf blower.
+
+Generating wind speeds approaching those of an EF5 tornado, gas-powered
+leaf blowers blast out noise at 95 to 115 decibels (two to eight times
+louder than the safe upper limit set by federal agencies). Electric leaf
+blowers, while less noisy, still significantly exceed the maximum safe
+noise level near schools, hospitals, daycare centers, retirement homes,
+or anywhere else where there are vulnerable people present.
+
+Most gas-powered blowers and other deafening lawn machinery are operated
+for long hours by commercial landscaping crews, whose ears are just a
+couple of feet from the roar. Often surrounded by other leaf blowers,
+lawn mowers, and gas-powered equipment, such workers commonly suffer
+hearing loss.
+
+The noise of a leaf blower, like that produced by vehicular traffic and
+wind turbines, is rich in low-frequency sound that carries long
+distances, easily passing through walls. Exposure to such noise raises
+the risk of a range of health problems, including sleep disruption,
+mental stress, high blood pressure, heart ailments, stroke, and
+immune-system dysfunction.
+
+And keep in mind that the substitution of leaf blowers for perfectly
+functional rakes is just the tip of the iceberg. Our economy is now
+chock-full of unnecessary products that diminish the quality of life and
+would be left in the nearest ditch if energy consumption were deeply
+reduced.
+
+Hello Again, Night Sky
+
+By ending profligate energy consumption, degrowth could also restore
+much-loved wonders of nature that the growth economy has stolen from us.
+
+Consider the night sky. Since 2010, in cities and towns, as well as
+anyplace near them, "skyglow" (a bleaching-out of the night sky that
+hides stars from view) has been increasing at an astonishing rate of 10%
+a year.
+
+This surge in light pollution has coincided with the rapid adoption of
+light-emitting diodes (LEDs) for streetlights and other outdoor
+illumination. Such LEDs produce far more light per watt of energy
+consumed than older light sources. Unfortunately, companies and
+municipalities have taken advantage of LED efficiency not by cutting
+their energy consumption, but by flooding parking lots, streets,
+billboards, sports fields, and car dealerships with even brighter light.
+
+Most LED lighting now in use is rich in short wavelengths at the
+"cool-blue" end of the visible spectrum, which ensures that it will be
+scattered by the atmosphere more efficiently and so produce a rapid
+increase in skyglow. As a result, stars have all but disappeared from
+the night sky in cities, suburbs, and nearby rural areas.
+
+Exposure to cool-blue light at night also threatens humans and other
+species by disrupting our circadian sleep-wake cycle. Among the impacts
+on human health are gastrointestinal disorders, diabetes, cardiovascular
+disease, and even cancer.
+
+A degrowth society dialing down its energy use would not only reduce
+light and noise pollution but achieve significant advances in
+environmental justice. Brightly lit industrial and commercial facilities
+and parking lots are all too often placed in low-income, racialized
+communities. As a consequence, across the United States, light pollution
+is more severe in neighborhoods where a larger proportion of the
+population is Black, Latino, or Asian.
+
+Amid mounting ecological and humanitarian crises and with Donald Trump
+still in the White House for another three potentially devastating
+years, the vanishing of the heavens may be regarded as a problem only
+for astronomers and aesthetes. But such a view badly underestimates how
+important the starry night sky has proven to be to our culture,
+scientific progress, and social cohesion. It was an unalloyed good,
+shared freely and equally by all humanity. And it could be so again if,
+with degrowth, we put our cities and towns on a dimmer switch.
+
+To be clear, the degrowth movement's not claiming that the way to
+prevent ecological and civilizational collapse is simply to play
+Whac-A-Mole by working our way through individual problems like traffic
+congestion or light and noise pollution. In fact, the point of degrowth
+is that societies should leave all such problems, including the
+potential disaster of climate change, in history's trash heap. We'd reap
+myriad benefits by deeply cutting resource use while ensuring that
+collective sufficiency and justice for all become the focus of our
+world.
+
+\*\*\*
+
+Copyright 2026 Stan Cox
+
+Follow TomDispatch on Twitter and join us on Facebook. Check out the
+newest Dispatch Books, John Feffer's new dystopian novel, Songlands (the
+final one in his Splinterlands series), Beverly Gologorsky's novel Every
+Body Has a Story, and Tom Engelhardt's A Nation Unmade by War, as well
+as Alfred McCoy's In the Shadows of the American Century: The Rise and
+Decline of U.S. Global Power, John Dower's The Violent American Century:
+War and Terror Since World War II, and Ann Jones's They Were Soldiers:
+How the Wounded Return from America's Wars: The Untold Story.
+
+Stan Cox, a TomDispatch regular, is the author, most recently,
+of Anthopause: The Beauty of Degrowth. His previous books include The
+Path to a Livable Future and The Green New Deal and Beyond. Find him on
+X and Bluesky at @CoxStan.
+
+See All Articles
+
+Thanks to TomDispatch.com where this article originally appeared. (link)
+
+\
