@@ -33,7 +33,7 @@ tomdispatch(){
     read filename
     echo "Insert book title:"
     read booktitle
-    NUMBER=`cat final.iit.bak | grep 'Buy the Book' | sed 's/.*amazon.com\/dp\/\(\d\+\).*/\1/'`
+    NUMBER=`cat final.iit.bak | grep 'Buy the Book' | sed 's/.*amazon.com\/.*dp\/\(\d\+\).*/\1/'`
     sed -i "s/.*\(https.*tag=tomdispatch-20\).*Buy the Book.*/<a target=\"_blank\" href=\"\1\">/" final.iit.bak
     sed -i "/target=\"_blank\"/ a <div class=\"polaroid\">" final.iit.bak
     sed -i "/class=\"polaroid\"/ a <img class=\"b\" src=\"$filename\" alt=\"$booktitle\" style=\"width:100%\">" final.iit.bak
