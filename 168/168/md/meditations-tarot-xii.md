@@ -1,0 +1,1750 @@
+![](meditations-tarot-xii-main.png){class="a"}
+
+# Meditation on the Twelfth Major Arcanum of the Tarot
+
+### LETTER XII
+
+### THE HANGED MAN
+
+### LE PENDU
+
+Truly, truly, I say to you,\
+unless one is born anew,\
+he cannot see the kingdom of God...\
+Truly, truly, I say to you,\
+unless one is born of water and the Spirit,\
+he cannot enter the kingdom of God...\
+The wind blows where it wills,\
+and you hear the sound of it,\
+but you do not know whence it comes or whither it goes; so it is with\
+everyone who is born of the Spirit. (John iii, 3, 5, 8)\
+Foxes have holes, and birds of the air have nests; but the Son of man\
+has nowhere to lay his head.\
+(Matthew viii, 20)\
+Then the righteous will shine like the sun in the kingdom of their\
+Father.\
+That which I had to say about the operation of sol is completed.\
+(Tabula Smaragdina, 13)\
+(Matthew xiii, 43)
+
+
+Dear Unknown Friend,
+
+Here before us is the Card of the twelfth Arcanum of the Tarot, the
+Hanged Man. It represents a young man suspended by one foot between two
+trees, with branches cut close to the trunk, from a transversal beam
+that they support, thus forming a porch.
+
+The position of the man---upside down, head below, hanging by one foot
+in a porch, with his free leg folded back at the knee and his arms bound
+behind his back---at first naturally evokes ideas of gravitation and of
+the torture that conflict with it can inflict on man. Therefore, our
+first impression of the Card plunges us into the heart of the problem of
+the relationship between man and gravitation, and the conflicts that
+this relationship entails. Gravitation---physical, psychic and
+spiritual---occupies a central place as a regulating factor in the solar
+system, in the system of the atom, in the biological cell, in the
+biological organism, in the mechanism of memory and the association of
+ideas, in the relationship of the sexes, in the social organism, in the
+formation of communities according to way of life, doctrine and ideal,
+and, lastly, in the process of biological, psychic and spiritual
+evolution, where a centre of gravity---or universal prototype as the
+final cause ---is at work across the ages, just as the sun, in so far as
+it is the centre of gravity of the planetary system, operates across
+space. The whole world manifests itself to us as a comprehensive system
+of gravitation constituting a number of particular gravitational
+systems---such as atoms, cells, organisms, planets, individuals,
+communities and hierarchies. Each one of us is placed in the cosmic
+gravitational system which determines our freedom, i.e. what we are able
+and not able to do. The domain of our freedom itself, our spiritual
+life, shows the real and active presence of gravitation of a spiritual
+order. For what is the phenomenon of religion if not the manifestation
+of spiritual gravitation towards God, i.e. towards the centre of
+spiritual gravitation of the world? It is significant that the term "the
+Fall"---chosen for the primordial event which brought about the change
+of man's state from that named "paradise" to the terrestrial state of
+toil, suffering and death---is borrowed from the domain of gravitation.
+In fact, there is nothing against the conception of the Fall of Adam as
+the passage from a spiritual gravitational system, whose centre is God,
+to a terrestrial gravitational system, whose centre is the serpent (that
+we have characterised in the preceding Letter as the "principle of
+electricity"). The Fall, as a phenomenon, can certainly be understood as
+the passage from the one gravitational field to the other.
+
+Now, the domain of freedom---the spiritual life---is found placed
+between two gravitational fields with two different centres. The Gospel
+designates them as "heaven" and "this world", or as the "kingdom of God"
+and the "kingdom of the prince of this world". And it designates those
+whose will follows or is submitted to the gravitation of "this world" as
+"children of this world", and those whose will follows the gravitation
+of "heaven" as the "children (or the sons) of light".
+
+The Manichaeans straight away drew the conclusion from this that the
+invisible world, or heaven, is good and the visible world of Nature is
+bad, wholly forgetting the fact that evil is of spiritual origin, and is
+therefore invisible, and that good is impressed into created Nature, and
+is therefore also visible. Although the two gravitational fields are
+interpenetrating and one could not, or should not, identify them simply
+with visible Nature and the invisible spiritual world, they are
+nevertheless certainly real and morally quite discernible. For just as
+there is a "discernment of spirits", of which the apostle Paul speaks,
+so there is a discernment of the phenomena of Nature, which manifests,
+for example, in medical diagnosis, in the choice of remedies from the
+kingdoms of Nature, in the domain of physical and psychic hygiene, etc.
+
+The human being participates in these two gravitational fields, as the
+apostle Paul had in mind when he said:
+
+For the desires of the flesh are against the Spirit, and the desires of
+the Spirit are against the flesh; for these are opposed to each other,
+to prevent you from doing what you would. (Galatians v, 17)
+
+These "opposing desires" are the tendencies through which the two
+gravitational fields manifest themselves. The man who lives in the grip
+of gravitation of "this world" at the expense of the gravitation of
+"heaven" is the "carnal man"; he who lives in equilibrium between the
+two gravitational fields is the "psychic man"; and, lastly, the one who
+lives under the sway of the gravitation of "heaven" is the "spiritual
+man".
+
+It is this latter who constitutes the subject of the twelfth Arcanum of
+the Tarot, for it is an upside-down man that the twelfth Card
+represents. The Hanged Man represents the condition of one in the life
+of whom gravitation from above has replaced that from below.
+
+Firstly, it should be said that attraction from above is as real as that
+from below, and that the condition of a human being who has passed,
+whilst living, from the field of terrestrial gravitation into that of
+heaven is indeed comparable to that of the Hanged Man of the Card. This
+is at one and the same time a benefaction and a martyrdom; both are very
+real.
+
+The history of the human race bears witness to the reality of attraction
+from above. The exodus into Egyptian, Palestinian, Syrian and other
+deserts inaugurated by St. Paul of Thebes and St. Anthony the Great were
+nothing other than the manifestation of irresistible attraction from
+above. The desert fathers, pioneers of this exodus, had no programme or
+plan to found any communities or schools of Christian spirituality
+comparable to the schools of yoga in India. No, what happened to them
+was the irresistible appeal from above to solitude and a life given up
+entirely to spiritual reality. Thus, St. Anthony the Great said:
+
+As fish who remain on dry land die, so do monks who linger outside of
+the cell, or who pass time with people of the world, slacken the tension
+of solitude. Therefore it is necessary---as fish do to the sea---that we
+return to the cell, so as not to forget, through dallying outside, our
+interior vigil. (St. Anthony the Great, Apophthegmata, x)Thus, the
+"tension of solitude" is the element proper to souls under the sway of
+attraction from above. It was "as fish seeking the sea" that they sought
+solitude where they found the "tension", i.e. the relationship between
+the gravitation of heaven and that of earth, which was as right for them
+as water is for fish. It was in solitude that they could live, i.e.
+develop spiritual temperature, breathe spiritual air, quench their
+spiritual thirst and satisfy their spiritual hunger. Outside of the
+solitude and tension that the "interior vigil" meant to them, the desert
+fathers felt cold, were unable to breathe, and suffered spiritual hunger
+and thirst.
+
+This, therefore, is really something quite different from programmes and
+plans: the reality of the attraction of heaven at work in the lives of
+the desert fathers.
+
+They were pioneers. Before long, still during their lifetime, the
+deserts of The bais, Neutra and Ceuta were peopled with anchorites.
+Then, in Upper Egypt, St. Pachomius founded cenobites, the prototypes of
+the monasteries that we know, where several hermits lived together under
+a superior or abbot. This form of life was, much later, adapted and
+perfected by St. Basil in the East, and by St. Augustine, St. Cassian
+and St. Benedict in the West.
+
+Although all this immense subsequent development was present in germ in
+the solitary lives of St. Paul of Thebes and St. Anthony the Great, this
+was not at all the conscious motive for their retreat into the desert.
+This motive was solely the desire for solitude caused by the
+irresistible attraction of heaven.
+
+The attraction of heaven is so real that it can take hold of not only
+the soul but also the physical body. Then the body is carried up and no
+longer touches the ground. The following is what St. Teresa of Avila,
+who had this experience, wrote in her "Life" (her autobiography):
+
+Then the cloud rises to heaven taking the soul with it, and begins to
+show it the features of the kingdom He has prepared for it. I do not
+know whether this is an accurate comparison, but in point of fact that
+is how it happens. In these raptures, the soul no longer seems to
+animate the body; its natural heat therefore is felt to diminish and it
+gradually gets cold, though with a feeling of very great joy and
+sweetness. Here there is no possibility of resisting...rapture is, as a
+rule, irresistible. Before you can be warned by a thought or help
+yourself in any way, it comes as a quick and violent shock; you see and
+feel this cloud, or this powerful eagle rising and bearing you up on its
+wings. You realise, I repeat, and indeed see that you are being carried
+away you know not where...We have to go willingly wherever we are
+carried, for in fact, we are being borne off whether we like it or not.
+In this emergency very often I should like to resist, and I exert all my
+strength to do so, especially at such times as I am in a public place,
+and very often when I am in
+
+private also, because I am afraid of delusions. Sometimes with a great
+struggle I have been able to do something against it. But it has been
+like fighting a great giant, and has left me utterly exhausted. At other
+times resistance has been impossible; my soul has been carried away, and
+usually my head as well, without my being able to prevent it; and
+sometimes it has affected my whole body, which has been lifted from the
+ground... It seemed to me when I tried to resist that a great force, for
+which I can find no comparison, was lifting me up from beneath my feet.
+It came with greater violence than any other spiritual experience...I
+confess that
+
+in me it aroused a great fear, at first a very great fear. One sees
+one's body being lifted from the ground; and though the soul draws it up
+after itself, and does so most gently if it does not resist, one does
+not lose consciousness. At least I myself was sufficiently aware to
+realise that I was being lifted...(The Life of St. Teresa of Avila;
+trsl. J. M. Cohen, London, 1957, pp. 136--138)
+
+This is a simple and veracious testimony of the reality of the
+irresistible attraction from above and of the passage from the field of
+terrestrial gravitation to the field of celestial gravitation. St.
+Teresa had the experience where the body was "drawn up after the soul"
+which was, in its turn, under the sway of attraction emanating from the
+centre of spiritual attraction which was, for her, the Lord.
+
+But when the centre of spiritual attraction, when the Lord himself, is
+clothed in a body---which was the case in the earthly life of Jesus
+Christ--- what happens then? There is then no question of being carried
+off in a rapture, because to what place could the Humanity of the Lord
+be carried off---the "rapturing" and "carrying off" principle, the
+centre of spiritual gravitation, being in itself?
+
+Now, the Gospel clarifies this point for us. It says:
+
+When evening came, his disciples went down to the sea, got into a boat,
+and started across the sea to Capernaum. It was now dark, and Jesus had
+not yet come to them. The sea rose because a strong wind was blowing.
+When they had rowed about three or four miles, they saw Jesus walking on
+the sea and drawing near to the boat. They were frightened, but he said
+to them: It is I; do not be afraid. (John vi, 16--20)
+
+And Peter answered him: Lord, if it is you, bid me come to
+
+you on the water. He said: Come! So Peter got out of the
+
+boat and walked on the water and came to Jesus. But when
+
+he saw the wind, he was afraid, and beginning to sink he
+
+cried out: Lord, save me! Jesus immediately reached out his
+
+hand and caught him, saying to him: O man of little faith, why did you
+doubt? (Matthew xiv, 28--31)
+
+The key to the answer is found above all in the words, "It is I; do not
+be afraid". The accepted translation of ego eimi, me phobe is in Greek,
+or ego sum, nolite timere in Latin, is: "It is I; do not be afraid".
+This is right and there is nothing to be said against it---ego eimi and
+ego sum mean literally "I am", but in the given context signify "It is
+I". The context bears this out. This is why the translation "It is I" is
+not only justified, but also---in view of the context---necessary. It is
+however legitimate, without questioning the tightness of the accepted
+translation, to understand the words ego eimi (ego sum) more literally,
+and, at the same time, more profoundly. For two questions are implied in
+the fear and confusion of the disciples. "Who is the one who we see
+walking on the water?" and "How is he able to walk on the water?"
+
+Now, "It is I" is the answer to the first question, and "I am" is the
+answer to the second. For "I am" reveals an esoteric truth (i.e.
+profound and not immediately obvious), whilst "It is I" is an exoteric
+or factual answer. It hides and contains, as its kernel, the esoteric
+answer. What is, therefore, the esoteric truth that the words "I am; do
+not be afraid" reveal?
+
+"I am" is the formula of revelation in the world of the existence of the
+divine essence of Jesus Christ. The whole Gospel is the history of this
+gradual revelation, the stages of which it summarises through the
+diverse aspects of the comprehensive "I am", such as "I am the true
+vine", "I am the way, the truth and the life", "I am the door", "I am
+the bread of life", "I am the good shepherd", "I am the light of the
+world" and "I am the resurrection and the life".
+
+Now, the words "I am; do not be afraid" spoken by the one walking on the
+water amount to the statement: "I am gravitation, and he who holds to me
+will never sink or be engulfed". Because fear is due to the menace of
+being engulfed by elemental forces of gravitation of a lower order, i.e.
+of being carried away by the play of blind forces from the agitated
+"sea" of the "electrical field" of death. "I am; do not be afraid" is
+therefore the message of the centre, or Master, of celestial
+gravitation, demonstrated by the action of support with regard to Peter,
+who was saved from sinking. Thus, there is another field of gravitation
+than that of death, and he who unites himself with it can walk on water,
+i.e. transcend the agitated element of "this world", the electrical
+gravitational field of the serpent. This message contains not only the
+invitation to have recourse to the "kingdom of heaven", but also the
+solemn declaration of the immortality of the soul, in so far as the soul
+is capable of transcending the engulfing gravitation and "walking on the
+water".
+
+Peter, who "got out of the boat and walked on the water and came to
+Jesus", experienced the same elevating rapture that St. Teresa
+describes. He got out of the boat, which means---in view of all the laws
+of reason and memory---that he was taken out of the domain of ordinary
+consciousness, i.e. that of reason, memory and sense perception, and he
+walked on the water, drawn by Jesus. He experienced, therefore, the same
+elevation of the soul which draws the body up after it as spoken of by
+St. Teresa. He even experienced the same fear which St. Teresa confessed
+took hold of her in seeing "one's body being lifted from the ground".
+And just as she was drawn by a hand extended from above, so did Peter
+have the experience of help from the same hand.
+
+Now, St. Teresa and St. Peter---the one and the other---had the same
+experience of psycho-somatic ecstasy (as, moreover, many other saints
+have had). But the question which occupies us is that of the state of
+Jesus Christ himself, walking on the water. Was it an ecstasy for him
+also?
+
+No. And this is why: ecstasy is the going out of the soul from the
+domain of the powers of discursive reason, memory and
+imagination---sometimes followed by the body. Both Peter and St. Teresa
+passed in their rapture through the stages: "You are"; "I draw near to
+You"; "It is not I, but You who lives and acts in me". It is therefore
+the attraction of the divine You, resulting in union with him, which
+constitutes the essence of their psycho-somatic ecstasy, whilst Jesus
+Christ walked on the water not by virtue of ecstasy---not by going out
+of his Humanity---but rather by virtue of enstasy, i.e. centering in
+himself, which is the active virtue of the formula "I am; do not be
+afraid". The Humanity of Jesus Christ walking on the water did not lead
+to a You attracting and supporting it, but rather to the divine I of the
+Son of the eternal Father present in itself.
+
+EGO SUM; nolite timere---means to say therefore: I am gravitation; just
+as the sun in the visible world bears itself and attracts the planets,
+so am I the true sun of the invisible world who bears himself and
+attracts and supports other beings. "Do not be afraid, for I AM."
+
+Yet Jesus Christ walking on the water reveals still another mystery than
+that of the sun of the spiritual world, the centre of celestial
+gravitation. For not only did he stand on the water---which would
+suffice to reveal and demonstrate this truth---but he also walked on the
+water, i.e. he moved in a quite definite direction in the horizontal
+sense. He walked towards the boat in which his disciples rowed. There,
+in his walking towards the boat, is already contained in
+germ---essentially revealing it---his whole work, temporal and eternal,
+i.e. his sacrifice, his resurrection, and all that is implied in his
+promise: "Lo, I am with you always, until the end of the world" (Matthew
+xxviii, 20).
+
+The boat with his disciples is, therefore, and will be until the end of
+the world, the aim of the I am walking on the water. His enstasy, his
+profound centering in himself, does not distance him from the navigators
+on the agitated sea of history and evolution, and does not make him
+disappear into the other sea---the calm sea of nirvana---but rather, on
+the contrary, it entails that he walks, until the end of the world,
+after the boat with his disciples.
+
+The hermits of the desert, the psycho-somatic ecstasy of St. Teresa and
+St. Peter, Jesus Christ walking on the water---the totality of these
+facts should bring to the light of our minds the spiritual and manifest
+reality of celestial gravitation. At least, it is to this end that we
+have dwelt upon these things.
+
+It is necessary, nevertheless, to add here a consideration of facts
+which appear to belong to the sphere of celestial gravitation but which
+are, in reality, of a contrary nature. The facts that I have in mind are
+those of "levitation", i.e. instances of elevation of the body from the
+ground, which one could be tempted to regard as being of the same nature
+as the psycho-somatic raptures of St. Teresa and St. Peter, or even as
+the walking of Jesus Christ on the water.
+
+Thus, legend attributes to Simon Magus that he could elevate himself
+physically in the air. Cases of the elevation of spiritualist mediums
+are also known in our time. It is characteristic that even Gérard van
+Rijnberk, who truly ought to have known better, did not distinguish the
+levitation of mediums from that which accompanies the rapture of saints.
+This is what he says concerning the "levitation of mediums":
+
+The phenomenon of levitation has been affirmed for several holy
+personages of the Hindu, Buddhist and Christian religions. They raised
+themselves in the air several feet and hovered for some time without any
+means of support. This fact has been established for a number of saints
+of the Catholic Church.[^1] I restrict myself to naming the great Teresa
+(sixteenth century), her contemporary John of the Cross, Peter of
+Alcantara, also of the same period, then a little later Joseph of
+Copertino (1603-1623), who was seen flying through the air several
+times...This phenomenon has been related also of several mediums, but
+unfortunately almost without exception this has taken place in complete
+darkness. Home alone accomplished it once in the full light of day. It
+is necessary to reserve judgement on these facts which certainly seem
+quite incredible. (Gérard van Rijnberk,Les métasciences
+biologiques---métaphysiologie et métapsychologie, Paris, 1952, pp.
+154-155).
+
+This is all that this author "who for half a century studied occultism
+with profound respect" (Gérard van Rijnberk, op. cit., p. 205) had to
+say on the subject of levitation. There is room here, however, to say
+something more. There is in the first place a distinction between
+elevation of the body due to celestial attraction and elevation of the
+body effected by electrical repelling action directed from below. The
+difference as such is comparable to that between the flight of a balloon
+filled with warm air and the flight of a rocket due to repulsion
+effected by the current that it emits. An example of the second kind of
+levitation is known to me at first hand:
+
+A middle-aged gentleman (he was American) was talking with a travelling
+companion in a compartment on an international train in Europe. The
+conversation revolved around the diverse currents and methods of
+contemporary occultism. The American advanced the radical thesis that
+
+there is a practical occultism and a literary or verbal occultism, and
+that the latter is hardly to be taken seriously, and that it is only the
+former kind of occultism that is worthy of its name. As his interlocutor
+would not let himself be convinced that facts of visible realisation are
+the sole
+
+criteria of truth and value, the American believed it right to convince
+his interlocutor by a demonstration of fact---which he announced. Having
+announced it, he stretched out on his couchette (there were only these
+two people in the compartment) and started to breathe deeply, keeping
+complete silence. In one or two minutes his body, extended as it was on
+the couchette, slowly rose in the air to a height of several inches and
+remained hovering for close to a minute. This demonstration having
+evoked in his interlocutor only a profound disgust, the anonymous master
+of levitation left the compartment before long and did not show himself
+again.
+
+What merits drawing attention to---other than the fact of levitation
+effected by the will---is that the thing was done through a considerable
+effort. The experimenter had to be silent and concentrate himself
+entirely on a centre in his organism in order to make a current of
+energy emanate which, acting in consecutive waves, repulsed him from the
+couchette and thus made him rise in the air. He did not elevate himself
+very high, because, it seems, elevation to a greater height would
+require an excessive effort. The demonstration having been made, the
+experimenter had a fatigued look and had no further desire to converse.
+A loss of energy in him was quite evident.
+
+With respect to spiritualist mediums---no matter whether their
+levitation takes place in darkness or in the full light of day,
+visibility being in no way the sole means of control---there is nothing,
+from the Hermetic point of view, against admitting the possibility and
+even reality of their levitation. If there are cases of levitation of
+objects such as tables, attested through photography, why should it not
+be possible for mediums themselves to be able to be elevated in the air,
+as physical objects, by the same force which works for other physical
+objects? It is said that the driving energy producing physical phenomena
+at mediumistic seances emanates from the medium. But why should this
+energy, once exteriorised from the medium, not be able to elevate the
+medium himself---or herself? Why can it not also support the body of the
+medium?
+
+Human electricity coming out from the organism of the medium can
+certainly make it the object of its action---which, moreover, "is
+narrated of several mediums" (Gérard van Rijnberk, op. cit., p. 155).
+But what is important to draw attention to in the case of the levitation
+of mediums is that the agent that levitates mediums is the same as that
+which effects the levitation of tables and other physical objects and
+that, consequently, it is not ---and cannot be---a matter of the effect
+of the spiritual or "celestial gravitation" which acts in the case of
+the rapture of saints.
+
+There are therefore three categories of levitation of the human body:
+rapture due to "celestial gravitation", levitation due to a current of
+human electricity emitted willfully (arbitrary magic), or involuntarily
+(mediumistic levitation). According to tradition, Simon Magus---whom St.
+Peter, through prayer, caused to fall---is attributed with levitation
+achieved through arbitrary magic. Levitation through arbitrary magic and
+mediumistic levitation have this in common, that both are effected by
+electrical force emanating from the human organism and acting by
+repulsion; in this they differ from the levitation of saints, which is
+due to attraction from above.
+
+Concerning the centre from which is made to emanate the current
+necessary for "Simonian" levitation, it is that of the "four-petalled
+lotus" (muladhara chakra), where the "serpent power"
+(kundalini)---latent electrical force---is found. Now, this "serpent
+power" can be awoken and directed either above (yoga) or below and
+outside (arbitrary magic). In the latter case it serves as the agent in
+levitation. It is thus that the American occultist, whose demonstration
+of levitation we recounted above, accomplished this phenomenon. One can,
+without going into details, mention in this context the excursions in
+the countryside of witches and sorcerers, of whom it is said that they
+make use of "broomsticks" for this end. Now, the repulsing current
+emanating from the centre at the base of the spine certainly produces
+the impression of a beam in the form of a broomstick; sorcerers, when
+splitting themselves off from, and leaving behind, their physical body,
+move after the fashion of modern rocket reactions. Thus in Estonia,
+people in the country possess a special term for this phenomenon which,
+moreover, is more adequate than "broomstick", namely tulehänt, which
+means to say "beam of fire".
+
+It follows, therefore, from the foregoing, that one must not cast all in
+the same mould: the levitation of saints, "Simonian" levitation, and
+that of mediums. It is truly not something superhuman to distinguish
+them with sufficient clarity so that they are in no way confused,
+provided that one takes the trouble.
+
+Returning to the subject of the man who lives under the law of celestial
+gravitation---the Hanged Man---let us see what it is to live on the
+earth whilst being, at the same time, under the sway of the "celestial
+gravitational field".
+
+The law of terrestrial gravitation, evolution and earthly life in
+general is enfoldment, i.e. the coagulation of mental, psychic and
+physical stuff around relative centres of gravitation, such as the
+earth, the nation, the individual, the organism---whilst the law of
+celestial gravitation, evolution, and spiritual life in general is
+radiation, i.e. the extension of mental, psychic and physical stuff
+rising up to an absolute centre of gravitation. "Then the righteous will
+shine like the sun in the kingdom of their Father" (Matthew xiii,
+43)---this is a precise and comprehensive characterisation of the law of
+celestial gravitation.
+
+The corresponding formula expressing the essence of the law of
+terrestrial gravitation is found in chapter six of Genesis: "The giants
+were on the earth in those days, and also afterward, when the sons of
+God came into the daughters of men, and they bore children to them.
+These are the heroes who were famous in antiquity" (Genesis vi, 4).
+
+The "sons of God" (bene ha-elohim), i.e. entities who lived in the field
+of divine gravitation, changed gravitational field in giving way to the
+attraction of possession or enfoldment, and gave birth to beings endowed
+with a great force of enfoldment---the "giants" (nephelim). They
+exchanged radiation (the state of the sons of God) for enfoldment (the
+state of the giants on earth). And since this time the world of
+enfoldment has tended to produce the strong hero (gibbor), whilst the
+world of radiation has tended to give birth to the herald of radiation,
+the righteous man (tsaddik), on the earth. It was not so long ago that
+Friedrich Nietzsche loudly proclaimed himself champion of the ideal of
+the gibbor or "superman" (Uebermensch). Moreover, having once birched
+the Righteous One, Nietzsche wove a crown of thorns, placed it on His
+head, and affronted and mocked Him in his books Ecce Homo and
+Antichrist.
+
+The world is divided. There are those who worship the gibbor, the
+stronghero---Nietzsche manifested with force and talent that this is
+so---and there are those who love the tsaddik, the righteous man.
+
+Yes, indeed, this is so. Terrestrial gravitation, "the flesh", pushes
+mankind towards the ideal of enfoldment, i.e. possession, power and
+enjoyment, whilst celestial gravitation, "the spirit", draws mankind
+towards the ideal of radiation, i.e. poverty, obedience and chastity.
+
+May occultists, esotericists and Hermeticists take account of this state
+of things and may they understand that the only side they can take
+without betraying the soul of the Hermetic tradition is that of ranging
+themselves resolutely and without reserve on the side of radiation, i.e.
+to take the side of the righteous man, the Hanged Man! May they abandon
+the dreams and phantoms having to do with the "superman", which still
+haunt certain esoteric fraternities and societies either in the guise of
+a "Grand Master", or a "Great Initiate", or an "Arch Mage"! May our
+communities become those of people who learn from everyone instead of
+teaching everyone! May they recruit people who live in consciousness of
+having behaved wrongly towards God, neighbour and the world, rather than
+those who think they are in the right. In a word, may they be subject to
+celestial attraction, which acts in awakening the inclination towards
+and love for poverty, obedience and chastity!
+
+We must not only see and think clearly, but also will clearly. For one
+cannot serve two masters at once.
+
+I have moved away from the subject of the concrete state of the man who
+lives under the law of celestial gravitation. Let us return to this.
+
+Two things characterise the state of the spiritual man: that he is
+suspended and that he is upside down. Here is what St. Teresa says about
+the first characteristic trait: The soul seems to me to be in this state
+when no comfort comes to it from heaven and it is not there itself, and
+when it desires none from the earth and is not there either. Then it is
+as if crucified between heaven and earth, suffering and receiving no
+help from either. (The Life of St. Teresa of Avila; trsl. J. M. Cohen,
+London, 1957, p. 140)
+
+The soul is suspended between heaven and earth; it experiences complete
+solitude. For here it is no longer a matter of ordinary solitude where
+one is alone in the world, but rather of complete solitude where one is
+alone because one is outside of the world---the celestial as well as the
+terrestrial world.
+
+Transported thus into this desert it seems that the soul can certainly,
+in all truth, say with the Royal Prophet, "I lie awake, I am like a
+lonely bird on the housetop." (Psalm 102,7) It is possible that King
+David was experiencing this same loneliness when he wrote these words.
+This verse comes to my mind at these times in such a way that it seems
+to be fulfilled in me. It is a comfort to me to know that others have
+felt these extremes of loneliness, and an even greater comfort that they
+have been people of such quality. (The Life of St. Teresa; trsl. J. M.
+Cohen, London, 1957, p. 139)
+
+This is the "zero point" between the fields of terrestrial and celestial
+gravitation. It is from there that the soul either is elevated in
+contemplation of divine and celestial things, or descends to act in the
+human and terrestrial domain, but this "zero point" is certainly the
+place of its permanent sojourn. After elevation or after the
+accomplishment of an act, it returns there. The solitude of the desert
+between the two worlds is its abode.
+
+The other characteristic trait of the spiritual man is that he is upside
+down. This means to say, firstly, that the "solid ground" under his feet
+is found above, whilst the ground below is only the concern and
+perception of the head. Secondly, it means to say that his will is
+connected with heaven and is found in immediate contact (not by the
+intermediary of thought and feeling) with the spiritual world. This is
+in such a way that his will "knows" things that the head---his
+thinking---still does not know, and so that it is the future, the
+celestial designs for the future, which work in and through his will
+rather than experience and memory of the past. He is therefore literally
+the "man of the future", the final cause being the element activating
+his will. He is the "man of desire", in the sense of the book of Daniel
+and in the sense of Louis Claude de Saint-Martin, i.e. the man whose
+will is set high, above the powers of the head---above thought,
+imagination and memory.
+
+Now, the normal relationship between thought, feeling and the will for a
+civilised and educated man is such that his thought awakens feeling and
+directs the will. Thought plays a stimulating role, by means of
+imagination, towards feeling, and an educative role, by means of
+imagination and feeling, towards the will. Having to act, one thinks,
+one imagines, one feels, and--- lastly---one desires and acts.
+
+This is not so for the "spiritual man". For him it is the will which
+plays the stimulating and educative role towards feeling and thought. He
+acts first, then he desires, then he feels the worth of his action, and
+lastly he understands.
+
+Abraham left his country of birth and went---in crossing the
+desert---into a strange country where, centuries later, a people
+descended from him was to find its native land and where, several
+centuries later on, the work of mankind's salvation was to take place.
+Did he know all this? Yes and no. Yes, in the sense that he acted as if
+he knew---his will being enamoured with these future things, and by
+their greatness and significance. No, in the sense that hedid not have
+in his thoughts and imagination a plan or clear programme concerning
+how, when and through what stages, precisely, these things would be
+realised.
+
+The certainty which in the first place takes hold of the will, from
+whence it takes its effect on feeling and thought, is precisely what the
+apostle Paul understood by the expression "faith" (pistis, fides).
+According to him:
+
+Faith is the firm assurance of things hoped for, the
+
+conviction of things not seen...By faith Abraham obeyed
+
+when he was called to go out to a place which he was to
+
+receive as an inheritance; and he went out, not knowing where he was to
+go. (Hebrews xi, 1, 8)
+
+Abraham had therefore had "the firm assurance of things hoped for" after
+having experienced "the conviction of things not seen", i.e. his will
+knew, whilst his mind and imagination "did not see" or did not have the
+kind of assurance proper to them. All the same, he obeyed and left
+without knowing where he was going, i.e. he acted before his thought and
+imagination had understood the whole world implied in his action. When
+he left, therefore, his head followed his feet; his feet were then
+"above", in so far as they experienced the commandment of heaven, and
+his head obeyed them and was turned "below", in so far as it saw nothing
+but the privations, risks and perils of the enterprise. Abraham
+therefore found himself precisely in the condition of the Hanged Man of
+our Arcanum.
+
+"By faith Abraham obeyed when he was called..." Here is the key to the
+mystery of faith, or knowledge of the will: "...obeyed when he was
+called..."
+
+The will is an active force; it is not naturally an organ of perception.
+In order for it to be able to perceive it should not---it must
+not---become passive, for then it would fall asleep or fade away,
+because its very nature is activity, and in ceasing to be active it
+would cease to be will; no, it should change centre of gravitation, i.e.
+to transform "my will" into "thy will". It is the inner act of love
+alone which can accomplish the change of centre that the will uses or
+around which it gravitates. Instead of gravitating around the centre
+"me", it can orientate itself towards the centre "you". This
+transformation, effected by love, is what one calls "obedience".
+
+Now, it is through obedience that the will is able to perceive. What it
+is able to perceive or be infused with is revelation from above, which
+inspires, directs and strengthens. It is thus that the will of a martyr
+can sustain anything and that the will of a thaumaturgist can accomplish
+everything.
+
+Abraham's divine call was such an act of infused revelation. "And he
+obeyed", says the apostle. It is nevertheless necessary to add here that
+he obeyed even before his departure. For the divine call itself
+presupposes obedience---the transcentralisation of the will which
+renders the will capable of receiving a divine call from above. For the
+will must already be in a state of obedience in order for it to be able
+to perceive the inspiration or intuition from above and to receive the
+imprint of the divine call, i.e. the gift of faith.
+
+Faith, as a supernatural gift, which is the case here, is not the same
+thing as the natural, rational and morally founded confidence that one
+has in an authority. The confidence that one puts in a doctor, judge or
+priest is only natural. In fact, it is rational and in accordance with
+human justice to recognise the authority of experienced experts, and
+hence to place one's trust in them. St. Teresa had complete confidence
+in her confessors, who nevertheless were mistaken about the serious
+question of the source of her mystical, gnostic and magical experiences,
+notably whether they had their origin from God or from a demon. But in
+the conflict between supernatural faith and natural confidence---which
+took place in her when her confessors, and also theologians of
+authority, declared that her spiritual experiences originated from a
+demon---it was faith which prevailed. For it was a conflict between the
+immediate-and-authentic divine action on the will, and the confidence of
+human thought and feeling in an authority, who is only a second-hand
+source. It was not only in her that the authentic divine revelation
+prevailed, but also it brought the confessors and theologians in
+question to recognise its authenticity.
+
+The raptures of St. Teresa were those of faith, i.e. the union of the
+will with God, which left behind the other powers of the soul, namely
+thought and imagination. Here is what she says concerning this:
+
+I can only say that the soul conceives itself to be near God, and that
+it is left with such a conviction that it cannot possibly help
+believing. All the faculties (thought, imagination, memory) are in
+abeyance, and so suspended, as I have said, that their operations cannot
+be followed. If the soul has previously been meditating on any subject,
+it vanishes from the memory at once, as completely as if it had never
+been thought of. If it has been reading, it is unable to remember it or
+dwell on the words; and it is the same with vocal prayer. So the
+restless little moth of memory has its wings burned, and it can flutter
+no more. The will must be fully occupied in loving, but does not
+understand how it loves. If it understands, it does not understand how
+it understands, or at least, cannot comprehend anything of what it
+understands. I do not think that it understands at all, because, as I
+have said, it does not understand itself. Nor can I myself understand
+this...Let it be observed too that however long the soul may enjoy this
+suspension of the faculties, the actual time is, in my opinion, very
+short. Half an hour would be a very long period of rapture, longer, I
+
+think, than any I ever experienced. Actually, it is very difficult to
+judge the time, since the senses are in abeyance. But I do not think
+that it can ever be long before one of them recovers. It is the will
+that maintains the contact. But the other two faculties soon begin to
+trouble it once more. But, as the will is calm, they become suspended
+again, and they are quiet for a little longer. But eventually they
+spring into life again. In this way some hours may be---and are---spent
+
+in prayer. For once the two faculties have begun to grow drunk on the
+taste of this wine, they are very ready to give themselves up again in
+order to enjoy some more. Then they keep company with the will, and the
+three rejoice together. (The Life of St. Teresa; trsl. J. M. Cohen,
+London, 1957, pp. 126-127)
+
+The will united with God and the two other faculties suspended is the
+state of the soul in receiving the supernatural gift of faith, and it is
+certainly the faith thus experienced which triumphed for St. Teresa over
+scruples due to the confidence that she bore towards the theologians.
+
+The state of soul described by St. Teresa corresponds overall still more
+to the condition of the Hanged Man of our Arcanum. For, like him, the
+soul of St. Teresa was "upside down", i.e. where the will precedes the
+head (understanding and memory) and is raised above it. The will then
+receives the divine imprint that the head at some time will
+understand---or not.
+
+Now, practical Hermeticism has the aspiration that the two other powers
+keep company with the will at the moment when this latter is in the
+state of complete obedience towards the Divine, i.e. it aspires to the
+realisation of the last sentence of the above-quoted text:
+
+Then they (the two other powers) keep company with the will, and the
+three rejoice together.
+
+Let us add: the three rejoice together in the joy of union, knowledge,
+and the future realisation of this experience---Hermeticism being a
+totality comprising mysticism, gnosis and divine magic.
+
+Practical Hermeticism therefore applies itself to educating thought and
+imagination (or memory) to keep in step with the will. This is why it
+requires constant effort of thought and imagination combined in order to
+think, meditate and contemplate in symbols---symbolism being the sole
+means of rendering thought and imagination capable of not being
+suspended when the will submits to revelation from above and enabling
+them to unite with it in its act of receptive obedience, so that the
+soul not only has a revelation of faith but also participates in this
+revelation with its understanding and memory.
+
+This is the principal point of practical Hermeticism and, at the same
+time, its contribution to Christian mysticism. I say Christian mysticism
+and not Christian mystical theology, because theology rationalises the
+material of mystical experience in deriving rules and laws, whilst
+Hermeticism wants thought and imagination to participate in this
+experience. Its aim is found in the experience itself, not in the domain
+of explaining it or accounting for it.
+
+Meanwhile, the Hermeticist is also a "Hanged Man". For him, too, faith
+predominates at the beginning and for a long time subsequently. This is
+because it is a difficult task, exacting inner asceticism for a long
+time, to render thought and imagination capable of being present and
+upright by the altar where the fire of faith is kindled and burns. But
+with time the gap between the certainty of faith and that of knowledge
+becomes narrower and narrower. Thought and imagination become more and
+more capable of participating in the revelation of faith to the
+will---until the day arrives when they participate in it on equal
+footing with the will. This is then the spiritual event that is
+designated Hermetic initiation.
+
+Thus, I know a man who, being a soldier in the White Army and having
+been unjustly accused by two officers of the allied marines,
+"understood" in the space of an instant of time the relationship which
+exists between eternity and the instant. This was a lightning flash
+received from above both through the will and through thought and
+imagination. The three powers of the soul were taken hold of and
+illumined by it simultaneously.
+
+Authentic Hermeticism can therefore never be in contradiction with
+authentic faith. It can contradict only the opinions of theologians,
+i.e. not the faith but the confidence that is borne towards the
+statements of theologians. The strange thing is that theologians are as
+a rule very modest and even humble people, but from the moment that they
+sit in the chair of their science and drape themselves with the mantle
+of its "primary and secondary conclusions"---and, above all, the
+"general consensus"---they change and are no longer recognizable. From
+the modest people that they are, they change all of a sudden into
+sources of divine oracles. This is because their science is the most
+pretentious of all sciences that exist, being interpretative of the
+absolute truth of revelation. In contrast, the representatives of the
+natural sciences are, as a rule, very pretentious people, but the
+discipline of their science renders them modest. This is because their
+science is modest, being interpretative of the relative truth of
+experience.
+
+Thus we have a paradox: modest people become pretentious thanks to their
+science, and pretentious people become modest, again thanks to their
+science. The danger for the one is knowing too much; the danger for the
+others is to know nothing. Thus, from the mouth of one of its
+conscientious representatives, the physiologist Du Bois-Reymond,
+empirical science declared itself ignoramus et ignorabimus ("we do not
+know and we shall never know") with regard to the seven "enigmas"
+(Welträtsel) of the world:
+
+1. the essence of matter and energy;
+2. the origin of motion;
+3. the origin of the senses (sense-perception);
+4. the question of free will;
+5. the origin of life;
+6. the purposeful organisation of Nature;
+7. the origin of thought and language.
+
+(E. H. Du Bois-Reymond, Ueber die Grenzen des Naturerkennens. Die sieben
+Welträtsel, Leipzig, 1882)
+
+On the other hand, there is complete certainty for certain theologians
+not only with regard to the above enigmas but also with respect to the
+destiny of the soul after the death of the body, and to what then
+is---or is not---possible. Thus we read: At its departure from the body,
+the soul is no longer in a position to change its moral orientation, nor
+to go back on its previous adherence to sin but, on the contrary, it
+fixes itself "in the disposition of will found at the precise instant
+
+of death; it becomes henceforth inflexible, and rebels against every
+idea of retraction, conversion or repentance (p. 392); \[and\], Eternal
+punishment exists only in the function of the eternal perseverance of
+the perverse disposition of unrepentants on departing from the present
+life (p. 394) (Cardinal Louis Billot, Études, Paris, 1923, pp. 392,
+394).
+
+Accordingly, it is therefore the body and not the soul which bears
+within it the possibility of changing its moral orientation, going back
+on adherence to sin, being converted, and repenting; it is therefore the
+precise instant of death and not the totality of earthly life which
+determines for all eternity the moral disposition of the soul and
+therefore its eternal destiny; the body dying, the soul at the instant
+of death is thus made to depart like a rocket with a pre- fixed
+programme (a pre-set rocket programme) for eternity. The mercy of God
+therefore acts only at the instant of death of the body, the destiny of
+the soul subsequently being only a semi-mechanical deployment of the
+soul's disposition at the instant of its departure from the body. These
+are undoubtedly monstrous conclusions. It is evident, however, that if
+the conscientious Du Bois-Reymond is too timid and, in consequence of
+this fact, opens the doors to skepticism, the zealous theologian is, in
+contrast, rash and, as a consequence of this fact, opens the doors to
+unbelief. For it is impossible to believe simultaneously Cardinal
+Billot's statement and that of the Gospel which says:
+
+If a man has a hundred sheep, and one of them has gone
+
+astray, does he not leave the ninety-nine on the hills and go
+
+in search of the one that went astray?...So it is the will of
+
+my Father who is in heaven that not one of these little ones should
+perish. (Matthew xviii, 12, 14)
+
+One is bound to believe either that the mercy of God is limited, i.e.
+that it extends only to the instant of bodily death, or that it is
+infinite and never ceases, i.e. that it possesses the means of acting
+also after the instant of the soul's separation from the body. Here the
+love---no, the very justice---of God is in question.
+
+Du Bois-Reymond ought to have said: "Being given the methods of
+contemporary science and the faculties of knowledge known up to the
+present time, the seven great world enigmas seem to be insoluble; but if
+the methods and faculties of knowledge change at some time without
+losing their scientific character, it could be otherwise with the
+enigmas in question." And would it not be better if Cardinal Billot had
+said: "In the Scriptures there are passages relating to the love of God
+and to the chastisement of sin which, given the present character of our
+reasoning and moral sentiment, seem to be contradictory. As it is
+impossible for them to be really contradictory, I have formed a personal
+opinion which seems to me to reconcile them in a satisfactory way. But I
+do not know if it is the only possible solution to the problem, or
+whether there are other and better ones. What is nevertheless certain is
+that freedom exists and that it entails the risk of eternal hell,
+whatever the exact sense of the word 'eternal' may be, this being a
+dogma of the faith. With respect to the mechanism of the realisation of
+this truth, I have the following opinion:" (and then he could give his
+opinion that earthly life is the domain of freedom, whilst the other
+world is that of fate---an opinion that he would still have to defend
+against pertinent arguments in favour of the contrary thesis).
+
+Now, practical Hermeticism is---like Christian mysticism---based on the
+experience of authentic faith, i.e. the experience of the human being
+upside down, where the will is above intellectuality and imagination.
+Its practical aim is nevertheless to render the intellect and
+imagination equal companions of the will favoured by revelation from
+above. And here is how this is to be achieved:
+
+One moralises thought in substituting moral logic for formal logic. One
+makes an entrance for moral warmth in the domain of "cold thought". At
+the same time, one intellectualises the imagination by disciplining it
+and submitting it to the laws of moral logic. This is what Goethe
+understood by "exact imagination" (exakte Phantasie), i.e. dispensing
+with imagination which plays according to free and arbitrary
+association, and instead applying it to work in accordance with the
+associations dictated by moral logic---in harmony with the laws of
+symbolism. It is thus that thought and imagination become capable of
+being attentive to and participating in the experience of the will
+receiving favours from above.
+
+The statement: "One moralises thought in substituting moral logic for
+formal logic" could be said to be very concise, and calls for an
+amplification. It means to say that formal logic---whether explicitly or
+implicitly operating with syllogistic forms is not important---cedes its
+function as the supreme court of appeal to the moral logic of
+conscience. (Syllogistic logic operates with forms of syllogisms, where
+two suppositions together constitute a common implication, and where the
+conclusion comprises that which is implied.) Thus the logic of Caiaphas'
+argument, which persuaded the assembly of the Sanhedrin to make a
+decision against Jesus Christ, was impeccable from the point of view of
+formal logic, but was at the same time a great violation of moral logic.
+"It is expedient for you that one man should die for the people, and
+that the whole nation should not perish" (John xi, 50)--- this was
+Caiaphas' argument. This argument is based on the logical principle that
+the part is less than the whole, the part being "one man" and the whole
+being "the nation". Being faced with the alternative---"If we let him
+go, all will believe in him, and the Romans will come to destroy our
+city and nation"---the decision was taken to sacrifice the part for the
+whole.
+
+For moral logic, however, the quantitative principle that the part is
+less than the whole is not valid in a general sense; there are
+distinctions to be made. For already in a living organism where it is
+not the size but rather the importance of the vital function which
+counts, the principle in question would be: "the part is equal to the
+whole". Because, for example, the heart, which is only a small part of
+the whole human organism, cannot be sacrificed without sacrificing the
+life of the whole organism.
+
+And in the moral and spiritual domain, where it is only quality which
+counts, one righteous man is worth more than the whole nation, if it is
+a question not of voluntary sacrifice but rather of the one who must be
+sacrificed. Thus in the spiritual and moral domain the above logical
+principle can be transformed into its opposite formula: "the part is
+greater than the whole".
+
+Here is an example, therefore, of the operation of "moral logic" or
+concrete and qualitative logic, quite different from formal and
+quantitative logic. It is the conflict between the logic of the Logos
+and that of "this world", which the apostle Paul spoke of when he said:
+...they went about in skins of sheep and goats, destitute, afflicted,
+ill-treated---of whom the world was not worthy--- wandering over deserts
+and mountains, and in dens and caves of the earth. (Hebrews xi, 37-38)
+
+"Moral logic" is the human analogy of that of the Logos "that enlightens
+every man coming into the world" (John i, 9). It is the logic of faith,
+i.e. the logic of thought which participates in the revelation accorded
+to the will. "Moral logic" introduces warmth into the light of thought,
+so that the latter becomes solar, instead of lunar, which is what it is
+when it has only light alone and is cold, without warmth.
+
+"One intellectualises the imagination by disciplining it and submitting
+it to the laws of moral logic." This means to say that a kind of
+asceticism should be applied to the life of imagination in order to
+transform its arbitrary play into work inspired and directed from above.
+Here symbolism plays the leading role---one which is both preparatory
+and educational. For symbolism is simultaneously imaginative and
+logical, i.e. logical according to "moral logic".
+
+Thus the Arcana of the Tarot with which we are occupied constitute a
+practical school of education for the imagination, with a view to
+rendering it capable of participating on an equal footing with
+"solarised" thought and "zodiacalised" will in the revelation from
+above. It is then intellectualised, i.e. it loses the feverish warmth
+which is normal for it and becomes luminous; it is "selenised" and
+becomes "lunar", just as the intellect was before its "solarisation" by
+moral logic. The prayer that is made for souls in purgatory ---locum
+refrigerii, lucis et pads dona eis Domine ("give to them, O Lord, a
+place of refreshment, light and peace")---expresses well that it is
+necessary for the imagination to become reflecting instead of
+fantasising.
+
+The "zodiacalisation" of the will, the "solarisation" of thought and the
+"selenisation" (or "lunarisation") of imagination---we have chosen these
+three terms to signify the voluntary sacrifice of the soul's powers to
+heaven--- means to say: that the will becomes an organ of perception and
+execution towards God, as the zodiac is in the macrocosm; that thought
+becomes both warm and luminous, as the sun is in the macrocosm; that,
+lastly, the imagination becomes reflecting towards truth, as the moon is
+towards the sun in the macrocosm.
+
+It is a matter, therefore, of sacrificing the three powers of the soul
+to heaven. This sacrifice is nothing other than the three traditional
+and universal vows---that of obedience or the sacrifice of the will,
+that of poverty or the sacrifice of thought, and that of chastity or the
+sacrifice of imagination. It is thus that the will, thought and
+imagination become reflectors of the revelation from above, instead of
+being instruments of human arbitrariness.
+
+This means to say, in terms of esoteric psycho-physiology, that the
+disposition of the crown centre (the "eight-petalled lotus")---which is
+always beyond the reach of human arbitrariness and which is constantly
+in a state of "divine repose", i.e. which is always at the disposal of
+heaven---extends to the other centres or "lotuses". One after the other
+they withdraw from the influence of human arbitrariness and immerse
+themselves in "divine repose", i.e. they become organs of pure
+revelation. The entire human psycho- physiological organisation thus
+becomes a divine instrument. Saintliness is achieved when all seven (or
+eight---in rare cases) centres are entirely at the disposal of heaven.
+The degrees of saintliness---from the point of view of the human
+psycho-physiological organisation---depend on how many and which centres
+are at the disposal of heaven.
+
+With respect to Hermeticists, they do not as a rule attain to complete
+saintliness, where all seven centres are put at the disposal of the
+divine, since their work and mission---if there is a mission---entails
+and exacts efforts and labours which presuppose the preservation of
+human initiative, i.e. that at least the frontal centre (the
+"two-petalled lotus") remains at the disposal of the freedom (should the
+case arise) of human arbitrariness. I say at least the "two- petalled
+lotus" remains at the disposal of the individual because it is the
+centre of intellectual initiative. It can certainly be taken hold of by
+revelation from above for some time---instants, minutes, even
+hours---but, as a rule, for the Hermeticist this must remain at his
+discretion. Indeed, it would be very distressing for him to be able to
+think only what is caused from above and to turn his intellectual gaze
+only towards what is determined from above.
+
+I know a man who had thus "lost" the use of his centre of intellectual
+initiative, which is at the same time that of the direction of
+attention, and who ---being a Hermeticist---suffered very much from
+this. He was able to comprehend very many great things---above all
+things of general significance ---but he was as if paralysed concerning
+his personal problems. He was not able to think about what he wanted to,
+nor to direct his attention to what he wanted to see and understand.
+This lasted some time until use of the centre in question was "restored"
+to him by the intervention of a benefactor from above. I would recommend
+people who have similar or identical difficulties to address themselves
+to the Holy Archangel Michael who is, it seems to me, a very special
+friend and protector of the kind of Hermeticists that I have in view in
+these Letters, i.e. people who want to unite saintliness and initiation,
+or who aspire to a Hermeticism that is holy and blessed from above.
+
+The Card of the twelfth Arcanum of the Tarot, the Hanged Man, represents
+in the first place the man whose will is "zodiacalised", because here it
+is this which is the decisive spiritual event---the "solarisation" of
+thought and the "selenisation" of imagination being only consequences.
+The two trees, between which the Hanged Man is balanced, bear twelve
+scars left by their cut branches. They are twelve---these
+branches---because the zodiac has a twelvefold action and influence; and
+they are cut, because the Hanged Man is beyond their action and
+influence, and because their essence is in him. The twelve branches are
+cut and inactive outwardly, having become the will of the Hanged
+Man---the "zodiacalised" will, as we have said. The Hanged Man has
+absorbed the zodiac; he has himself become the zodiac. He is the
+thirteenth, in whose will the twelve servants of God, who are the twelve
+channels of His will, are present.
+
+For twelve is the number of modalities of the will and its action; seven
+is the number of basic modalities of feeling and imagination; three is
+the numerical law of thought and word; and one, lastly, is the number of
+the Self who thinks, feels and wills. The monad therefore reveals itself
+through the trinity underlying thought and word, through the septenary
+underlying feeling and imagination, and through the duodenary underlying
+will and action.
+
+The sum of the numbers of reality---one, three, seven and twelve---is
+twenty-two.[^2] This is the true reason for the fact that there are
+twenty-two Major Arcana of the Tarot, and no more or no less. Because
+the author---or authors, if we think in terms of collaboration from the
+vertical dimension of three superimposed worlds---of the Tarot proposed
+to give articulated symbolic expression only to things which count. And
+how could he count less or more than twenty-two!? Could he omit the
+monad---the fundamental unity behind the worlds of the macrocosm or God,
+and the fundamental unity behind the states of consciousness of the
+microcosm, or the soul? Could he pass by the Holy Trinity of God the
+Creator, Saviour and Sanctifier? Or could he pass by the trinity of the
+human being, who is by analogy an image of God in his spiritual, soul
+and corporeal being? After that, could he neglect or remain blind to the
+action of the trinity in the four elements---radiation, expansion,
+mobility and stability, or fire, air, water and earth? And after having
+taken account of the action of the trinity in the quaternary of
+elements, how could he not pay attention to the real manifestation of
+the action of the trinity through the quaternary, i.e. the three times
+four (or twelve) modalities of action, being the three modalities of
+action of the trinity through the four means of realising it? Not being
+able to suppress any of the four members of the sacred name or
+Tetragrammaton---which comprises four members or numbers: one, three,
+seven and twelve---the author of the Tarot conceived and designed the
+twenty-two Arcana. But twenty-two is four, and four is three revealing
+one. The Tarot is therefore unity elucidated in twenty-two symbolic
+ways.
+
+Concerning the Hanged Man, the twelve branches of the two trees between
+which he balances are cut. This means to say---or indicate---that he has
+reduced the twelve to one and that it is himself, the Hanged Man, who is
+the sole manifestation of it. He has, so to say, "swallowed" the zodiac,
+which amounts to the fact that his will has become identical with the
+will of the Divine, which manifests itself in three times four ways.
+
+He bears in himself---or rather, he is borne by it---the synthesis of
+the twelve modalities of action of divine and fundamental will. This is
+what is meant by "reducing the twelve to one". It is to be hanged; it is
+to be upside down; and it is to live under the sign of celestial
+gravitation instead of that of terrestrial gravitation.
+
+We have said: the Hanged Man is the thirteenth. Now, to be the
+thirteenth can signify two things: either the reduction of the twelve to
+one---and then the Hanged Man represents the fundamental unity of the
+twelve modalities of will ---or else the crystallisation of a thirteenth
+synthetic element. In the latter case, it would be a matter of a
+skeleton, which is the last synthetic crystallisation of "zodiacal"
+will, and which is both the principle and concrete image of death. As
+death and its relationship to the skeleton will be the subject of the
+following Letter on the thirteenth Arcanum of the Tarot, "Death", I ask
+you, dear Unknown Friend, to remember the context of the two
+problems---as indicated here---namely the problem of the identity of
+individual will with divine will and the problem of attraction from
+above in its double aspect of ecstasy and death. For it is both in
+ecstasy and in the case of natural death that the "zodiacalisation" of
+the will takes place.
+
+With respect to the Hanged Man, he represents the first alternative,
+i.e. the fundamental unity of the twelve modalities of divine will,
+which are the effective and final causes of radiation, expansion,
+mobility and stability--- spiritual, psychic and material.
+
+One finds a profound and breathtaking feeling of these cosmic depths in
+the cosmogonic hymn of the Rigveda. It awakens in the meditant at least
+a feeling of the profundity of the fundamental cosmic incentive towards,
+or feeling for, "zodiacality". The hymn is as follows:
+
+At first there was neither Being nor non-Being, no kingdom of air, no
+sky beyond it.
+
+Who straddled what, and where? who gave shelter?
+
+was water there, unfathomed depth of water? There was no death then, nor
+immortality,
+
+no sign of stirring, no curtain of day or night.
+
+Only one thing, Breath, breathed, breathing without breath,
+
+nothing else, nothing whatsoever.
+
+Also, there was Darkness, darkness within darkness,
+
+the darkness of undiscriminated chaos.
+
+Whatever existed then was void and formless.
+
+Then came the stirring of warmth, giving shape....
+
+Then rose Desire, primal Desire,
+
+the primal seed, the germ of Spirit.
+
+The searching sages looked in their hearts, and knew:
+
+Being was a manner of non-Being.
+
+And a line cut Being from non-Being transversely:
+
+What was above it, and what below it?
+
+Only mighty makers, mighty forces,
+
+action flowing freely and a fund of energy...
+
+(Rigveda x, 129; trsl. P. Lai, "The Song of Creation" in The Golden Womb
+of the Sun, Calcutta, 1965)
+
+This is what a Hindu soul felt one starry night more than thirty
+centuries ago, in beholding the universe. Is it not a commentary on the
+natural mysticism ---fiat lux ("Let there be light")---of Genesis?
+
+It is this profound sphere, from whence the anonymous author of the
+Vedic hymn drew his inspiration, in which the Hanged Man participates
+through his will. He is the link between being and non-being, between
+darkness and created light. He is found suspended between the potential
+and the real. And it is the potential which is more real for him than
+the real properly said. He lives by authentic faith---what the Hermetic
+book Kore Kosmu designates as "the gift of black perfection" or "the
+gift of Perfect Night", i.e. the gift of perfect certainty drawn from
+the night of ultra-luminous darkness. For there is darkness and
+Darkness. The former is that of ignorance and blindness; the latter is
+that of knowledge going beyond natural human cognitive powers; it
+reveals itself to intuitive seeing. It is ultra-luminous in the same
+sense that ultra-violet rays go beyond the human eye's scale of natural
+visibility.
+
+The following is a passage from the Vita Antonii (Life of St. Anthony)
+by St. Athanasius, bishop of Alexandria, relating to this subject:
+
+And indeed, after this still others came. They were of those who among
+the pagans are supposedly wise. They asked him to state an argument for
+our faith in Christ...(Anthony said to them through an
+interpreter)..."since, of course, you pin your faith on demonstrative
+proofs and this is an art in which you are masters, and you want us also
+not to worship God without demonstrative arguments---do you first tell
+me this: How does precise knowledge of things come about, especially
+knowledge about God? Is it by verbal proof or by an act of faith? And
+which comes first, an active faith or verbal proof?" When they replied
+that the act of faith takes precedence and that this constitutes
+accurate knowledge, Anthony said: "Well said! Faith arises from the
+disposition of the soul, while dialectic comes from the skill of those
+who devise it. Accordingly, those who are equipped with an active faith
+have no need of verbal argument, and probably find it even superfluous.
+For what we apprehend by faith, that you attempt to construct by
+arguments; and often you
+
+cannot even express what we perceive. The conclusion is that an active
+faith is better and stronger than your sophistic arguments..." (St.
+Athanasius, The Life of Saint Anthony;
+
+trsl. R. T. Meyer, Westminster, 1950, pp. 81, 83-84)
+
+Here we have a clear comparison of the certainty due to "active faith"
+and that due to the demonstration by reasoning. The difference between
+them is the same as that between a photograph of a person and a meeting
+with this person. It is the difference that there is between image and
+reality, between an idea that one makes of the truth and the truth
+itself, present and acting.
+
+The certainty of faith springs from the actual meeting with truth and
+its persuasive and transforming action, whilst that of certainty due to
+sound reasoning is only a degree---raised to a greater or lesser
+extent---of semblance of the truth, because it depends on the validity
+of our reasoning, and on the completeness and exactness of the elements
+which serve as its basis. A new item of information can turn the whole
+edifice of our reasoning upside down, just as an item of information
+which is proved false or inexact can have the same consequence. This is
+why all conviction founded on reasoning is intrinsically hypothetical
+and implies the following reservation: "Provided that the items of
+information that I possess are complete and exact, and that there arise
+no others to contradict them, I am led by the following arguments to the
+conclusion that..." At the same time, the certainty of faith has nothing
+hypothetical about it: it is absolute. The Christian martyrs did not die
+for hypotheses, but rather for the truths of faith of which they were
+absolutely certain.
+
+May I be spared the objection that communists also sometimes die for
+their Marxist-Leninism! Because if they do so voluntarily, it is not for
+the dogmas (concerning the supremacy of the economy, the ideological
+superstructure, etc.) that they have, but rather for the grain of
+Christian truth which takes hold of their hearts, namely that of human
+brotherhood and social justice. Materialism as such does not have---and
+cannot have---martyrs; and if it seems so, then those whom materialism
+accounts as such, truth to tell, bear witness against it. For their
+testimony is as follows: "There are values higher than economics, higher
+even than life, because we sacrifice not only material goods but also
+our very lives." Such is their testimony against materialistic Marxism.
+Now follows their testimony against Christianity: "We have lost the
+fullness of faith; there remains to us only a grain. But even this grain
+which remains is so precious that we give our lives for it. And you who
+have fullness, what is your sacrifice for it?" Such is their testimony
+against Christianity...in so far as the latter is also materialistic.
+For there is doctrinal materialism alongside the will influenced by
+faith, and there is on the other hand doctrinal spiritualism alongside
+the will influenced by materialistic interests.
+
+It is this duality which produces heresies and sects. Thus the adherents
+to Arianism denied the divinity of Jesus Christ not because of it being
+contrary to reason, but rather because it seemed to them contrary to
+reason as a consequence of the fact that their will was opposed to it.
+The Messiah that they wanted was the Messiah wanted by Jewish orthodoxy.
+For this reason, just as this latter rejected the Christ and had him
+crucified, accusing him of having "made himself the Son of God" ("The
+Jews answered Pilate: We have a law, and by that law he ought to die,
+because he has made himself the Son of God"---John xix, 7), so did the
+followers of Arius advance the same accusation against the Church in
+declaring that it had made him the Son of God. The Arianists were in no
+way less instructed or less intellectually endowed than the orthodox
+believers. What they were lacking was the will illumined by revelation
+from above, i.e. authentic faith. It remained such as it was before
+Jesus Christ, such as it lived and acted in Jewish orthodoxy. In fact,
+the Arianists wanted another Messiah and, being Christian, they applied
+themselves to changing the Messiah so as to conform to their
+pre-Christian will.
+
+Yet in the case where the will perceives the revelation from above and
+understanding follows this up, as in the case of the Hanged Man,
+certainty is absolute and no heresy could result, if we understand by
+"heresy" doctrines or maxims of prejudice to the cause of salvation or
+incompatible with the truths of faith. The Hanged Man can certainly be
+accused of heresy, but he can never be its perpetrator. His element is
+authentic faith---and how could authentic faith, or divine action in the
+human will, engender things contrary to itself?
+
+Do you know what the ex cathedra infallibility of the pope in matters of
+doctrine and morality is? It is that he finds himself in the condition
+of the Hanged Man when he makes a declaration ex cathedra (i.e. in the
+condition of the Hanged Man) concerning things of faith and morality. It
+is the condition in which the apostle Peter was when he was able to say,
+"You are the Christ, the Son of the living God," and of which the Lord
+said in reply, "Flesh and blood has not revealed this to you, but my
+Father who is in heaven" (Matthew xvi, 16-17). And just as a stone does
+not have its own motion, and can only be a moved object, so is the will
+of he who is found in the condition of the Hanged Man deprived of its
+own movement and can only be moved from above.
+
+This is one side of the mystery of infallibility in things of faith and
+morality. It is the arbitrary paralysed and reduced to nothing---the
+state of the stone---which safeguards the infallibility of judgement in
+this domain. It is above all a matter of the elimination of the source
+of errors---for, as a rule, the Roman pontiff making an ex cathedra
+statement does not do so as a prophet but as a pontiff.
+
+The whole mystery of infallibility has, without doubt, still other
+aspects, including what we discussed in the fifth Letter on the fifth
+Arcanum of the Tarot, "The Pope", and still greater depths, but the
+aspect which is presented in the light of the Arcanum "The Hanged Man"
+is of a nature to bring to bear the most clarity on the problem in
+question---this Arcanum being that of authentic faith.
+
+Now, authentic faith brings with it absolute certainty, above all when
+it is not limited to the will alone but succeeds in making understanding
+and imagination also participate in its experience. Then the soul
+becomes the seat of a kind of Christian faith-wisdom symbolism similar
+to the faith-wisdom symbolism of the Zohar, i.e. that of the Jewish
+Cabbala. The latter is then to the former as the Old Testament is to the
+New. And just as the Old Testament and the New Testament together
+comprise the Holy Scripture, so do the Jewish Cabbala and Christian
+faith-wisdom symbolism together constitute Christian Hermeticism. Just
+as in Christian theology one would not dispense with the Old Testament,
+similarly in Christian Hermeticism one would not dispense with the
+Cabbala. This is the law of continuity of the living tradition, or the
+commandment: "Honour thy father and thy mother". The mother of Christian
+Hermeticism is the Cabbala and its father is Egyptian Hermeticism, the
+Hellenistic writings of which we have received under the title Corpus
+Hermeticum---comprising twenty-nine (or more) treatises. The Corpus
+Hermeticum (works attributed to or inspired by Hermes Trismegistus) is
+the Egyptian-Hellenistic counterpart to the Jewish Zohar and the Jewish
+Cabbala in general.
+
+Certainly, it is not a matter of "borrowing"---which is, moreover,
+always sterile---the method of historical and philological science,
+because although "Moses was instructed in all the wisdom of the
+Egyptians" (Acts vii, 22), he nevertheless had a real and authentic
+meeting with "the Angel of the LORD who appeared to him in a flame of
+fire out of the midst of a bush" (Exodus iii, 2). It is this meeting
+which was the commencement of his mission.
+
+No, things actually experienced cannot be borrowed. They follow one
+another, as human generations follow one another and are linked only by
+the profound ties of heredity, i.e. the continuity of the life of
+tradition through effort, problems, aspirations, suffering. Just as one
+generation passes to another the organs of knowledge and the vital
+impulse with respect to their use, so the stages in a spiritual
+tradition such as that of Egypt-Israel- Christendom are, so to say,
+incarnations of new souls who inherit only the organs and the impulse
+(body and blood) of their predecessors. Israel is a new soul in
+comparison with Egypt, and Christendom is a new soul in comparison with
+Israel. But Egypt aspired to the God of gods and succeeded in achieving
+a high knowledge---even authentic faith---of God, as the writings of the
+Corpus Hermeticum prove; Israel had intercourse with this God through
+the intermediary of Moses and the prophets; lastly, concerning
+Christianity, God was made flesh. From the sanctuaries of Egypt, through
+the desert of Sinai, to the cross of Calvary, there is a way---the way
+of divine revelation, on the one hand, and the historical way of
+monotheism in human consciousness, on the other hand. Christianity in no
+way "borrowed" the "idea of the Messiah" from Judaism, for Jesus Christ
+was not an "idea", but rather the Incarnation of the Word and the
+fulfillment of the hope of Israel. And the God of Moses and the prophets
+was no more "borrowed" from the sanctuaries of Egypt, for the clouds,
+the lightning and thunder on Mt. Sinai where He was revealed are not
+things that can be borrowed. And the vision of creative God in the
+Egyptian sanctuary, described in the Hermetic treatise Poemander is not
+"borrowed" from anyone. Its introduction is as follows:
+
+My thoughts being once seriously busied about the things
+
+that are, and my understanding lifted up, all my bodily
+
+senses being exceedingly holden back, as it is with them that
+
+are very heavy of sleep...me thought I saw one of an
+
+exceedingly great stature, and an infinite greatness call me
+
+by my name, and say unto me, "What wouldst thou hear
+
+and see? Or what wouldst thou understand to learn and know?" (Poemander
+i, book II in The Divine Pymander of Hermes Mercurius Trismegistus;
+trsl. Doctor Everard, London, 1884, p. 7)
+
+It is therefore evident that it is a matter of a spiritual experience
+and not of any teachings transmitted by word of mouth. A living
+tradition is not a current of word of mouth but rather a series of
+revelations and endeavours. It is the "biography" of authentic faith.
+
+Authentic faith---the condition of the Hanged Man of our Arcanum---thus
+differs from knowledge due to reasoning in that it possesses absolute
+certainty, whilst reasoning results only in relative certainty. However,
+reasoning is not the only method of knowledge. There are also so-called
+occult or super-normal methods of knowledge. I have in mind the diverse
+forms of clairvoyance---corporeal, psychic and spiritual. What is the
+relationship, therefore, between authentic faith and the experiences of
+clairvoyance?
+
+It is necessary to say first of all that the whole domain of
+super-sensory experiences is divided into two intrinsically different
+parts, namely into that of perception of what is outside of the soul
+(horizontal perception) and that of revelation of what is above the soul
+(vertical revelation). The latter is trans-subjective and the former is
+extra-subjective or objective. St. Teresa called them "imaginary vision"
+(i.e. "imaged") and "intellectual vision" (i.e. non-"imaged"). The
+following is an example of "intellectual vision":
+
+One day when I was at prayer---it was the feast day of the glorious St.
+Peter---I saw Christ at my side---or, to put it better, I was conscious
+of Him, for I saw nothing with the eyes of the body or the eyes of the
+soul. He seemed quite close to me and I saw that it was He. As I
+thought, He was speaking to me. Being completely ignorant that such
+visions were possible, I was very much afraid at first, and could do
+nothing but weep, though as soon as He spoke His first word of assurance
+to me, I regained my usual calm, and became cheerful and free from fear.
+All the time Jesus Christ seemed to be at my side, but as this was not
+an imaginary vision I could not see in what form. But I most clearly
+felt that He was all the time on my right, and He was witness of
+everything that I was doing. Each time I became a little recollected, or
+was not entirely distracted, I could not but be aware that He was beside
+me.
+
+In great trouble, I went at once to my confessor to tell him about this.
+He asked me in what form I had seen Him, and I replied that I had not
+seen Him. He asked me how I knew it was Christ, and I replied that I did
+not know how, but that I could not help being aware that He was beside
+me, and that I had plainly seen and felt it...I had no way of explaining
+myself except by using comparisons; and no comparison, I think, can help
+one much to describe this kind of vision, for it is one of the highest
+possible kinds. This was told me afterwards by a holy man of great
+spirituality called Friar Peter of Alcantara...and other men of great
+learning have told me the same thing. It is, of all the kinds of vision,
+the one with which the devil can least interfere...For if I say that I
+do not see Him with the eyes of the body or the eyes of the soul,
+because this is no ordinary vision, how then can I know and affirm that
+He is beside me with greater certainty than if I saw Him? If one says
+that one is like a person in the dark who cannot see someone though he
+is beside him, or that one is like somebody who is blind, it is not
+right. There is some similarity here, but not much, because a person in
+the dark can perceive with other senses, or hear his neighbour speak or
+move, or can touch him. Here this is not so, nor is there any feeling of
+darkness. On the contrary, He appears to the soul by a knowledge
+brighter than the sun. I do not mean that any sun is seen, or any
+brightness, but there is a light which, though unseen, illumines the
+understanding so that the soul may enjoy this great blessing, which
+brings very great blessings with it...
+
+Then my confessor asked me: Who said that it was Jesus Christ? I
+answered: He often tells me so Himself, but before ever He said it, it
+was impressed on my understanding that it was He, and even before that
+He used to tell me He was there when I could not see Him...The Lord is
+pleased to engrave it so deeply on the understanding that one can no
+more doubt it than one can doubt the evidence of one's eyes. (The Life
+of St. Teresa trsl. J. M. Cohen, London, 1957, pp. 187-189)
+
+And the following is an example of "imaginary vision":
+
+One day when I was at prayer, He was pleased to show me His hands only;
+their beauty was beyond description. This put me in great fear...A few
+days later I saw that divine face also, which seems to leave me
+completely entranced. I could not understand why the Lord was revealing
+Himself to me gradually like this, since He was afterwards to grant me
+the favour of seeing Him whole...Once when I was at Mass on St. Paul's
+Day, there stood before me the most sacred Humanity, in all the beauty
+and majesty of His resurrection body, as it appears in all the
+paintings...Although this vision was imaginary, I never saw it or any
+other with the eyes of the body, but only with the eyes of the soul.
+Those who know better than I say that my previous vision was more
+perfect than this one, while this in its turn is much nearer to
+perfection than those that are seen with the eyes of the body...if I
+were to spend many years imagining how I could invent anything so
+beautiful, I could not do it. I should not know how to begin. For in its
+whiteness and radiance alone it exceeds anything that we can imagine. It
+is not a dazzling radiance but a soft whiteness and infused radiance,
+which causes the eyes great delight and never tires them; nor are they
+tired by the brilliance which confronts them as they look on this divine
+beauty...it does not matter whether they (the eyes) are open or closed;
+if the Lord wishes us to see it, we shall do so even against our
+will...(Ibid., 196-198).
+
+These examples suffice to give a clear idea of the nature of the trans-
+subjective experience or "intellectual vision"---as St. Teresa calls
+it---and of the extra-subjective experience or "imaginary vision". The
+former is the projection in the soul of a spiritual experience which
+takes place above it; the soul itself perceives nothing---it can only
+react to what the spirit experiences, which makes it participate in the
+fruits of its experience. It is trans-subjective because the revelation
+itself takes place neither outside nor within the soul but, rather,
+above it, i.e. in the spirit. In this way it happens that the soul has
+certainty as if it had seen, without having seen, and as if it had
+heard, without having heard. It is the spirit which projects into it
+certainty of its certain experiences. It is the spirit which "sees",
+"hears" and "touches" in its own way and which infuses the soul with the
+fruits of its experience---a certainty equal to, or even higher than,
+that which the soul would have if it had "seen", "heard" and "touched"
+itself.
+
+With respect to the extra-subjective experience, or "imaginary vision",
+it is the soul itself which "sees", "hears" and "touches". It "sees"
+outside of itself, but with the "eyes of the soul", i.e. not as a
+hallucination of the bodily senses, but rather as imagination moved from
+outside instead of being moved by its own arbitrariness. Now the images
+caused from outside of the soul can be neither sensed nor defined other
+than is perceptions. And as they are not corporeal perceptions, one
+experiences and describes them as "perceptions of the soul". This is why
+St. Teresa speaks of vision with the "eyes of the soul".
+
+The "eyes of the soul" of which St. Teresa speaks are what we call in
+modern Hermeticism the "lotus flowers" or simply "lotuses", and what
+Hindu yoga names "chakra centres" or "chakras".
+
+The higher lotuses---the eight-petalled, two-petalled and
+sixteen-petalled ---are organs which are made use of by the spirit (i.e.
+either the human spirit alone, or the human spirit united with the
+divine Holy Spirit, or, lastly, the human spirit united with another
+human or hierarchical spirit through and in the Holy Spirit) in the case
+of revelation from above, i.e. in the case of St. Teresa's "intellectual
+vision".
+
+The lower lotuses---the ten-petalled, six-petalled and
+four-petalled---are the organs of horizontal perception, i.e. St.
+Teresa's "imaginary vision".
+
+Concerning the heart, i.e. the twelve-petalled lotus, it participates in
+the two kinds of vision or, if you wish, it possesses a third kind of
+clairvoyant perception, which is the synthesis of the other two. For the
+"heart" is the centre or lotus of love---where, truth to tell, it is no
+longer a question of "above" or "outside" or even of "above" and
+"below", because love abolishes all distances and all distinctions of
+space (even distinctions of spiritual space) and has the power to make
+all things present. It is thus that God is present in a heart glowing
+with love.
+
+The heart perceives diverse presences as impressions and nuances of
+spiritual warmth. It is thus that the hearts of the two disciples going
+to Emmaus recognised the One who went on the way with them before their
+eyes and their understanding did, and who said to one another after
+their eyes opened and they recognised him: "Did not our hearts burn
+within us while he talked to us on the road, while he opened to us the
+scriptures?" (Luke xxiv, 32). The heart burning in diverse ways---this
+is the kind of "vision" and spiritual knowledge which is proper to the
+heart.
+
+Dear Unknown Friend, be attentive to your heart and towards the nuances
+of intimate warmth which arises from its depths! Who knows who may go on
+his way with you without your eyes and your understanding surmising it?
+
+Now, the three higher lotuses are above all those of infused certainty
+or "imperceptible light", and these are the principal instruments
+(instruments and not sources) of "intellectual vision" or
+trans-subjective revelation.
+
+The three lower lotuses are those of certainty of experience at first
+hand; they render us "eye-witnesses" to invisible things. They manifest
+them to us in "perceptible light" as forms, movements, colours, sounds
+and breath--- concrete and objective---although incorporeal in the sense
+of the physical world.
+
+And the central centre, the heart or twelve-petalled lotus, gives us the
+certainty of authentic faith---that which was born in the "fire of
+Emmaus"--- through which the immediate presence of entities who want to
+go on the way with us is manifested. This fire contains at the same time
+both the "imperceptible light" of "intellectual vision" and the
+"perceptible light" of "imaginary vision", in their synthesis, which we
+call here the "fire of Emmaus".
+
+In addition to these two---or three---kinds of supersensible experience
+there is still another which often passes for spiritual, but which in
+reality isnot. I have in mind the kind of clairvoyance which is due
+either to over-refinement of the senses or to their halluncinatory
+function. St. Teresa of Avila also mentions it in the text of her
+autobiography, from which we have quoted above. She says, notably, that
+"those who know better than I say that my previous vision
+("intellectual") was more perfect than this one ("imaginary"), while
+this in its turn is much nearer to perfection than those that are seen
+with the eyes of the body..." (Ibid., p. 197).
+
+It seems that it was generally admitted amongst "those who know" from
+the sixteenth century that there are, in addition to "intellectual
+vision" and "imaginary vision", visions "that are seen with the eyes of
+the body", i.e. visions due either to over-refinement of the senses or
+to hallucination. Therefore the fact was known then, as it is today,
+that there are people who can read a letter put in an envelope, see a
+playing-card of which only the reverse is shown to them, see coloured
+light around people, animals and plants ("auras"), etc. On the other
+hand, it was known---as it is known today ---that the senses can
+function in two directions: that they can receive impressions from
+outside and that they can project expressions of the soul outside. In
+the latter case it is a matter of hallucinations.
+
+Now, there are illusory hallucinations and revelatory hallucinations.
+All depends on what the soul exteriorises through the channels of the
+corporeal senses. It is therefore quite possible---and in fact happens
+from time to time--- that the soul transforms authentic and true
+perceptions into hallucinations, i.e. that it projects from the
+psychic---and even spiritual---plane onto the physical plane. It is then
+an illusion with respect to the physical plane, but it is at the same
+time a revelation with respect to the higher plane to which the original
+of the hallucinated copy belongs.
+
+"Hallucination" and "illusion" are not synonyms. When Martin Luther, as
+it is recounted, threw an inkpot at the figure of a demon (or the devil
+himself, as tradition would have it) which appeared to him, without
+doubt he acted under an illusion with respect to the plane---the inkpot
+not being on the same plane as the demon---but should one conclude from
+this that the demon was in no way present?...that there was nothing
+there and that it was all only a trick of the imagination, without cause
+or reason?
+
+No, just as there is hysteria due to illusion and hysteria based on
+truth--- as, for example, is the case with stigmatas and wounds from the
+crown of thorns, which manifest themselves on the bodies of people who
+have had spiritual experience of the Lord's Passion---so also there are
+illusory hallucinations, due to fears or immoderate desires, and
+revelatory hallucinations, i.e. "hallucinations of the truth".
+
+Let us now return to the question concerning the relationship between
+authentic faith and the experiences of clairvoyance, between the
+condition of the Hanged Man and the condition of the "seer". It follows
+from the preceding that authentic faith is above all the burning fire of
+the heart, which thus bears a witness to spiritual reality. The light
+which accompanies it is due to revelation from above by means of the
+three higher lotuses, which is, following St. Teresa, the grace and
+favour of "intellectual vision".
+
+Concerning "imaginary visions"---and still more strongly so for visions
+due to over-refinement of the senses or to their inverse functioning
+(not in the normal direction "external world---brain", but in the
+reverse direction "brain ---external world"), which takes place in the
+case of hallucination---they are in no way sources of authentic faith,
+and possess no more value than what authentic faith, moral conscience
+and (should it arise) reasoning are able to attribute to them. In any
+case: authentic faith precedes them, if they signify a revelatory
+contribution to the spiritual life of the soul; moral conscience
+precedes them, if they bring about an enrichment of the moral life of
+the soul; and reasoning precedes them, if they result in an increase of
+knowledge for the soul or the acquisition of new items of information of
+value to the soul.
+
+For what one sees or hears must be understood. And one cannot understand
+without the revelatory "imperceptible light" and "Emmaus fire". One can
+also not understand and appreciate their value without the work of
+reasoning, if it is a matter of gaining items of information of a kind
+to augment knowledge. Reasoning is bound to compare the items of
+information furnished by clairvoyant experience, to classify them, and
+to look for relationships between them in order, lastly, to draw
+conclusions from them. Clairvoyant or not, all empirical experience is
+necessarily hypothetical. It is only authentic faith which has absolute
+certainty.
+
+Thus, dear Unknown Friend, important above all else is the authentic
+faith of the "fire of Emmaus", then the same faith illumined by the
+"imperceptible light" from above of "intellectual vision"---after which
+all will profitably serve your soul: both "imaginary visions" and
+visions due to over-refinement of the senses, experience of the senses,
+moral and logical reasoning, the study of all the sciences, and even
+hallucinations if they happen without you having arbitrarily sought and
+provoked them. Do not scorn anything or reject anything, if you have
+authentic faith. It is this, and this alone, which renders everything
+truly useful and which gives them value which they would not have
+without it.
+
+This is the essential message of the Hanged Man, the upside-down man,
+whose feet are above and whose head is below, whose zodiacalised will is
+an authentic witness of the truths of the twelve articles of faith, and
+who lives suspended between two opposed fields of gravitation---heaven
+and earth.
+
+Who is the Hanged Man? Is he a saint, a righteous man, an initiate?
+
+He can certainly be regarded as all three, for all three have in common
+that their will is an organ of heaven, but what he is most especially,
+what he represents individually, is neither sanctity, nor righteousness,
+nor initiation, but something which is their synthesis. The Hanged Man
+is the eternal Job, tried and tested from century to century, who
+represents humanity towards God and God towards humanity. The Hanged Man
+is the truly human man and his lot is a truly human one.
+
+The Hanged Man is the representative of humanity who is found between
+two kingdoms---that of this world and that of heaven. For that which is
+truly human in man and in humanity is the Hanged Man. And it is the
+Hanged Man who said, thousands of years ago:
+
+Has not man a hard destiny upon earth,\
+and are not his days like the days of a hireling?\
+Like a slave who longs for the shadow,\
+and like a hireling who looks for his wages...\
+Oh that my words were written!\
+Oh that they were inscribed in a book!\
+Oh that with an iron pen and lead\
+they were graven in the rock for ever!\
+My foot has held fast to his steps;\
+I have kept his way and have not turned aside...\
+For I know that my Redeemer lives,\
+and at last he will stand upon the earth.\
+And after my skin has been thus destroyed,\
+then from my flesh I shall see God,\
+whom I shall see on my side,\
+and my eyes shall behold, and not another.\
+My heart faints within me in expectation!\
+(Job vii, 1-2; xix, 23-24; xxiii, 11; xix, 25-27) This is the discourse
+of the Hanged Man across the centuries.
+
+[^1]: In fact, one finds the following cases of levitation cited in Joseph
+von Görres, Die Christliche Mystik (5 vols.; Regensburg, 1836-1842): St.
+Ambrosius Sensedonio (i, p. 324); St. Philip of Néri (ii, p. 9); St.
+Teresa of Avila (ii, p. 122); St. Thomas Aquinas (ii, p. 208); St.
+Saviour of Horta (ii, p. 214); St. Thomas of Villanova (ii, p. 253); St.
+Catherine of Sienna (ii, p.426); Joan of Carniola (ii, pp. 493-494); St.
+Mary of Agréda (ii, p. 520); St. Peter of Alcantara (ii, pp. 523, 529);
+Christine the Admirable (ii, p. 535); Adelaide of Adelhausen (ii, p.
+536); Esperance of Brenegalla and Agnes of Bohemia (ii, p. 537); St.
+Colette, Dalmatius of Gerona, Anthony of St. Reine, St. Francis of
+Assisi, Bernard of Courléon and St. Joseph of Copertino (ii, p. 539);
+Joan Rodriguez (ii, p. 548); St. Dominique of Jesus-Maria, the Blessed
+Gerardesca of Pisa and Elisabeth of Falkenstein (ii, p. 549); Damian of
+Vicari, Agnes of Chatillon, Michael Lazar and Peter of Regolada (ii, pp.
+551-552).
+
+[^2]: Translator's note: In the German translation of this book the
+following explanation is given: "The sum of the numbers of
+reality---one, three, seven and twelve---is twenty-two (and not
+twenty-three, since One transcends the other and includes them in
+itself)." (Die grossen Arcana des Tarot. Meditationen, Basel, 1983, p.
+353)
+
+
+Translated from the French by Robert Powell.
+
+This is Arcanum number 12 of 22. The book is available from Amazon.com
+at [Meditations on the Tarot](https://www.amazon.com/Meditations-Tarot-Journey-Christian-Hermeticism/dp/1585421618)
+
+To be continued.
+
+[Letter I](https://southerncrossreview.org/164/meditations-tarot-forward.html)
