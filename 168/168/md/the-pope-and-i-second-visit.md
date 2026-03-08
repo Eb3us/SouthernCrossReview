@@ -1,0 +1,273 @@
+![](the-pope-and-i-second-visit-main.png){class="a"}
+
+# The Pope and I -- Second Visit
+
+## by Frank Thomas Smith
+
+Those who read my report about\<a href=https://167/pope-and-i.html\> the
+Pope's visit to Villa de las Rosas \</a\> and our subsequent short but
+meaningful conversation, will surely remember it and perhaps be almost
+as surprised as I was to learn that he contacted me again and -- believe
+it or not -- came again to my humble abode in Argentina ... well, maybe
+not all that humble, but certainly more so than Bob's (Pope Leo's)
+Vatican digs.
+
+It was like this. That same Archbishop as last time drove up to my home
+office in Villa de la Rosas last Thursday driven by his
+chauffeur-priest, who beeped his horn rather impolitely. I looked out
+the window and thought: OMG, not again! But it was indeed again. I
+opened the door and invited the Archbishop in. He hadn't changed. I had
+the impression that he was shocked that His Holiness had demeaned his
+holy office enough to converse with a mere unfrocked (no, not defrocked)
+mortal.
+
+"Pope Leo wants to know if you are now willing to visit him in Rome," he
+said, after again refusing my invitation to have a seat.
+
+"I haven't gotten any younger," I replied.
+
+"So no?"
+
+"So no."
+
+He mumbled into his phone, then handed it to me.
+
+"Hi Frank," Pope Leo said, "How you been?"
+
+"Fine thanks, Bob. How about you?"
+
+"Okay, but I anticipated your negative reply to my invitation, so..."
+
+I interrupted him: "You remember, I hope, that I can't travel to Rome
+because of my age. Otherwise I'd love to go. It's been at least fifty
+years since I was last there. A friend's apartment where I stayed was on
+the top floor overlooking Saint Peter's Square. We sat on her large
+balcony drinking Chianti and basking in the sights and sounds of a Roman
+summer evening -- unfortunately the only one, for I had to return to
+chilly Germany where I then lived and worked."
+
+"Oh, but aren't you American?"
+
+"Born and bred, but I haven't lived there for about fifty ... no, sixty
+years.
+
+"Anyway, as I said, I anticipated that you won't be coming here, so I
+made a reservation on Air Europe for this evening, arriving in Córdoba
+Argentina tomorrow morning."
+
+He gave me the flight number and the TOA and asked if I could send
+Eduardo to pick him up at the airport like last time. I agrees of
+course, and asked what was on his mind this time. I didn't mention that
+the two items I had suggested, at his request -- the ordaining of women
+as priests and permitting priests to marry -- had not been implemented
+by him. He reminded me that I had also mentioned the Immaculate
+Conception and reincarnation, and hung up after saying "see you
+tomorrow".
+
+\*
+
+At 10.30 the next morning I received a WhatsApp from Eduardo advising
+that he had Roberto in the back seat and was on the way home. When they
+got here I tried to pay Eduardo, but he told me that Roberto had already
+paid him with a generous tip. His grin expressed more eloquently than
+words that it was more than I would have given him, which was nothing.
+He commented that "he speaks good Spanish, but doesn't say much". My own
+grin expressed less eloquently that "I bet you made up for that",
+Eduardo being a nonstop gabber.
+
+Pope Leo -- also known as Bob -- opened the back door before Eduardo had
+time to do it for him, and walked up the two wooden steps and into my
+office, where he at least waited for me to follow him and invite him to
+have a seat. He had the same phony mustache and wig on, which made him
+look younger than the seventy years recently completed.
+
+"Good to see you again, Frank. How you been?"
+
+"Fine Bob, despite the New York Mets not making the World Series and not
+having read anything about the pope having introduced new rules for the
+ordination of women and/or priests being allowed to marry."
+
+"Don't feel bad. The Chicago White Sox haven't come near the World
+Series in ages." I nodded. "And if the pope should ever decide to make
+changes in the rules concerning those issues, it would have to be after
+careful consideration and preparation. You must realize, Frank, that I
+must do all possible to avoid another schism."
+
+I couldn't do anything else but nod again to that.
+
+"Anyway Frank, you know that I don't have much time, so I'd like to get
+right to the point."
+
+The last time he was here I invited him to stay the night in our guest
+*casita*, but he explained that he had to get right back to the Vatican
+before they noticed him missing, so I didn't repeat the invitation.
+
+"There were two more questions you wanted to discuss, to wit: the
+Immaculate Conception and reincarnation. So let's start with Immaculate
+Conception, if you don't mind."
+
+"Actually, Bob, I kinda regret that I mentioned that last time. It was
+close to the national holiday here and I just thought that it brutally
+contradicts the fact that the same church that prohibits women from
+becoming priests proclaims the mother of Jesus of Nazareth to be the
+holiest, purest creature imaginable and rules that its own male priests
+may not dirty themselves, or at least their souls, by copulating with
+the opposite sex. And most people here, Catholic or not, don't even know
+what Immaculate Conception means. They think it means that Jesus was
+born without sin. I looked it up after our last meeting and saw that the
+Church had been fighting internally about what it means for centuries,
+until some pope declared it dogma around a hundred and fifty years ago,
+not to mention original sin itself. Anyway, it's all way above my
+paygrade, and I don't think it caused or causes people to leave the
+Church. So if you don't insist on it, it will continue to have little or
+no negative effect."
+
+He looked down at his hands clasped over his waist, thinking.
+
+"But reincarnation," I continued, "now that's a different story." A
+sudden thunderbolt clapped overhead in what till then was a clear sky
+making us both jump internally. Loud raindrops seemed glad to pummel the
+tin-coated roof -- noisy but efficient at keeping us dry inside.
+
+"I mean, look, what you're saying now is that God is good and wants the
+best for human beings. And what is the best? Well, we´re born in all
+kinds of different situations, some rich, some poor and, in so called
+advanced countries, in-between. In many poor places in Africa and Asia,
+or even in Central America the majority are poor and miserable,
+dominated by oligarchic dictators. Well, that's not God's fault, is it?
+So forget that, it's our own fault. But it would be God's fault if life
+and death were determined by what the Catholic Church and others claim.
+We're born, grow up if lucky, and die with a one-way ticket to heaven if
+we were good during that short physical life, and condemned to hell, or
+wherever, if not. No second chance!
+
+"Come on, Bob, it doesn't make sense and, moreover, it's not right and
+it's not fair. What? God is not right or fair? Yeah, that's what it
+means.
+
+"But then along comes Jesus Christ, who is really God in disguise. A
+disguise so good that no one saw through it until you guys came along.
+In the Gospel of St John it is written. 'In the beginning was the Word
+and the Word was with God and the Word was God'. He was in the beginning
+with God. Wait, stop right there. How could he *be* God and be *with*
+God at the same time? The correct translation would be "\...and the Word
+was **a** god...'
+
+"But back to reincarnation. I am ninety-three years old. During a long
+life I have done some good things and some bad ones. I don't go to
+confession, so when after a relatively short time I die or, more
+diplomatically, pass, with mortal sins on my soul, the question 'where
+to' is easily answered: to hell -- at least according to you. I didn't
+kill anybody, but only because of luck\...or karma. You see, I was
+drafted into the US Army during the Korean War and during infantry basic
+training was scheduled, like most of the rest of the trainees, for the
+killing fields of Korea -- to kill or be killed. However, as luck or
+karma would have it, I was sent to the Army Language School in
+California to learn Russian instead. After a year, upon completion I was
+sent to Germany assigned to military intelligence, where I never even
+fired a gun. But what about my buddies who spent 16 months in Korea
+killing or being killed? Of course, if they killed any North Koreans,
+they thought they were doing good, for we []{#anchor}Americans were the
+good guys and the Koreans were bad-guy communists, even the 18 years old
+ones. If I had gone to Korea and killed some gooks, do you think that
+St. Peter would agree with the American patriots that I was doing the
+right thing by eliminating communist gooks, if only a few? But even
+without a war there have been plenty of sins, venal or mortal, committed
+be me, and almost everyone, including priests. I know, I know: I and
+those hypothetical others could go to the confessional booth and come
+out with a clean slate.
+
+"Sorry, but I don't buy it, and neither do those much younger than me
+who you want to win back to the Church. However, if you taught that
+killing is wrong, even if you were ordered to kill as many North Korean
+enemies as possible (not South Korean friends who look the same). You
+will learn this after death. If not earlier, and will have a chance to
+make up those sins in a new future life. a.k.a. reincarnation.
+
+"Look Bob, reincarnation is fundamental to most of the world's
+religions. I might mention Buddhism, Hinduism, Jainism, Sikhism, even
+many streams of esoteric Judaism and Islamic Sufism. Many Christians who
+are or are not members of organized churches, like me, are interested in
+reincarnation. But the Christian world population is blocked by the
+so-called Christian churches from delving deeper into the concept and
+reality. The concept of reincarnation is older than Christianity. It is
+tragic -- in my opinion -- that especially the Roman Catholic and the
+Protestant churches that grew out of it have denied belief in
+reincarnation to the faithful.
+
+"If you want to know what I think, Bob, as Pope Leo you could add
+reincarnation to your short list of important advances toward the
+resurrection of the Roman Catholic Church.
+
+"By the way, there is an excellent Wikipedia page dedicated to the
+history and meaning of Reincarnation. I suggest you check it out:
+[*https://en.wikipedia.org/wiki/Reincarnation*](https://en.wikipedia.org/wiki/Reincarnation)
+**"
+
+He sat again with his hands in his lap, thinking. This time I didn't
+interrupt his reverie. Finally, after about two minutes, he sighed and
+stood up.
+
+"Thank you, Frank. You gave me what I came for. First of all, I'm
+relieved that I don't have to defend the Immaculate Conception. As Pope
+it can't be above my pay grade. But I have doubts as Robert. If true, as
+it must be, it can only be the result of spiritual inspiration. So I'll
+take your advice and leave it at that."
+
+I stood up as well, if only to be on the same level.
+
+"As far as reincarnation is concerned, well, it's much more difficult to
+decide. I'd love to ignore it like IC, but the only real doubts I have
+about reincarnation are those of any person who became interested in the
+concept somewhere along the line of life. I must face it: it makes more
+sense than the simple one-life-one-death human destiny that we teach.
+However, if I were to suddenly, after over two-thousand years, declare
+reincarnation as valid Catholic teaching, it would most likely0 create a
+schism taking a large piece of the faithful with it. Right now I'm
+trying to decide what to do about a powerful group of conservative
+priests and bishops who are still opposed to Vatican II. For example,
+they want to return to the mass in Latin\... only. Now they are even
+threatening to appoint bishops. That would be in direct opposition to
+Vatican II and to me." He paused. Then, "What do you think?"
+
+"That's easy, Bob. Excommunicate the bastards."
+
+"Somehow I knew you'd say that, Frank. It would be the easiest way. It
+may even be what they want me to do. It would create the excuse for them
+to found a second Catholic Church, that is, not the Roman one."
+
+"Yeah well, I'm no theologian, but I have been involved in Organization
+Development, and I think what could happen if you excommunicate those
+creeps is that the part of the Church that survives with reincarnation,
+female priests and freedom for all to marry, would be stronger and more
+popular than ever. As well as more attractive for so many seeking a door
+to spiritual enlightenment. The Catholic mass is very strong in that
+direction, you know"
+
+He smiled broadly, then approached me. I expected to see his right hand
+extended to shake goodbye, but he wrapped his arms around me in a Latin
+American embrace. A horn blew from outside. It was Eduardo come to take
+his passenger back to the airport in Córdoba. "*Buen viaje*," I said.
+
+"*Gracias*," he replied. "The trip has been well worth it. Perhaps,
+Francisco, you will be the pope in your next life."
+
+"I doubt it, but who knows. Anyway, a female pope -- right?"
+
+"Wrong, that would take two lifetimes."
+
+"You should know. By the way, do you still want me to delay publishing
+an account of this meeting?"
+
+"Nah, where would you publish it, in SouthernCrossReview.org? Nobody of
+any importance reads that. And who's gonna believe it anyway?"
+
+"I beg your pardon."
+
+He slapped me on the shoulder and on leaving turned his head back and
+said, "Just kiddin' pal."
+
+I followed him outside and watched him wave from the back seat of
+Eduardo's Volkswagen sedan. I waved back and mumbled to myself, "Even I
+don't believe me. I guess that's because I'm not of no importance. No
+kiddin' pal.
