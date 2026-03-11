@@ -6,19 +6,33 @@ Contents SCR 168
 
 ### by Frank Thomas Smith
 
-# Fiction
+# From the Archive
 
 ## To Hunt a Nazi
 
 ### By Frank Thomas Smith
 
+#### https://southerncrossreview.org/147/hunt-a-nazi.html
+
 ## Evermore
 
 ### by Frank Thomas Smith
 
+#### https://southerncrossreview.org/45/evermore.html
+
 ## Love in the Life of Spies -- Forward
 
 ### by Frank Thomas Smith
+
+#### https://southerncrossreview.org/150/love-life-spies-forward.html
+
+## Prologue in Heaven
+
+### bu J.W. Gohete 
+
+#### https://southerncrossreview.org/129/faust-fts-trans.html
+
+# Fiction
 
 ## The J R Baseball Murders, Chapters 2 & 3
 

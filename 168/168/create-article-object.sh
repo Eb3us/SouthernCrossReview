@@ -77,30 +77,30 @@ create_article_object(){
   echo "    }," >> $1.ob
 }
 
-echo "import { prefix } from \"./variables.js\"" > articleObject.bak
-echo "" >> articleObject.bak
-echo "export const articles = {" >> articleObject.bak
+echo "import { prefix } from \"./variables.js\"" > articleObject.js
+echo "" >> articleObject.js
+echo "export const articles = {" >> articleObject.js
 
 create_category_section(){
-  echo "  \"$1\": [" >> articleObject.bak
+  echo "  \"$1\": [" >> articleObject.js
   for file in ${files[@]}; do
     echo "reading file $file..."
     CATEGORY=$(get_category $file)
     if [[ $file != "plantilla.html" && $file != "plantilla-TD.html" && $file != "letters$current_issue.html" && $file != "index$current_issue.html" && $CATEGORY == $1 ]]; then
      create_article_object $file 
-     cat $file.ob >> articleObject.bak
+     cat $file.ob >> articleObject.js
     fi
   done
-  echo "   ]," >> articleObject.bak
+  echo "   ]," >> articleObject.js
 }
 
-echo "Creating articleObject.bak..."
+echo "Creating articleObject.js..."
 
 for category in "${categories[@]}";do
   create_category_section "${category}"
 done
 
-echo "}" >> articleObject.bak
+echo "}" >> articleObject.js
 
 echo "Cleaning..."
 
