@@ -1,9 +1,23 @@
 import { prefix } from "./variables.js"
 
 export const articles = {
+  "Main": [
+    {
+      "title": "Letter XII",
+      "sub-title": "The Hanged Man",
+      "author": "",
+      "description": [
+        "Truly, truly, I say to you,<br/>unless one is born anew,<br/>he cannot see the kingdom of God…"
+      ],
+      "imgUrl": `${prefix}meditations-tarot-xii-main.png`,
+      "link": ``,
+      "poem": false,
+      "mainImg": false,
+    },
+  ],
   "Mistery Drama": [
     {
-      "title": "HeyZeus - a Modern Mistery Drama - Act 3", 
+      "title": "HeyZeus - a Modern Mistery Drama - Act 3",
       "sub-title": "Scene 1 - Prospect Park Redux",
       "author": "Frank Thomas Smith",
       "description": [
@@ -39,7 +53,7 @@ export const articles = {
   "From the Archive": [
     {
       "title": "To Hunt a Nazi",
-      "sub-title": "",
+      "sub-title": "by Roberto Fox, as told to",
       "author": "Frank Thomas Smith",
       "description": [
         "There are moments in the present, but also in the past and I hope in the future, when I have the urge to pull Eliot out from my book case and read Four Quartets. The moments are usually when I’m bogged down with a story or a poem and think that a solution simply isn’t possible. Somehow Quartets – only that, not other poems by Eliot or any other poet – inspires me, or at least gives me hope that anything is possible.",
@@ -72,6 +86,7 @@ export const articles = {
         "<span style=\"font-style:italic\">Cerrado</span> read the sign hanging slightly askew inside the upper glass part of Die Glocke’s door. What the hell, Jacks thought, it’s lunch time, how can they be closed. Something’s wrong. He peered through the glass and saw the old waiter sitting alone at a table reading the Freie Presse, a fascist German-language daily. He knocked on the window. The waiter looked up, startled and stared wide-eyed at the door. When he recognized Marvin Jacks he put down the paper, smiled, stood up heavily and opened the door after unlocking it.",
         "“You called for a reservation,” he said in German, “nicht wahr?”",
         "Jacks nodded. “Why is the restaurant closed? Has something happened?”",
+        "“Yes, I’m afraid so.” He pulled out a chair from the table he had been sitting at. “Please sit down, Herr Jacks, I have a mensaje for you from Frau Marie,” he said in “Belgrano-Deutsch”, a mixture of German and Spanish used by long time German residents. Jacks remained standing while the waiter hurried into the kitchen and returned immediately clutching a piece of notebook paper. He smiled. “They let her write it when she said it was instructions for picking up her daughter at school. They told me to translate it. They are really stupid, because if it was for me, which she said it was, why would she have to write it out. Anyway, here it is.” Jacks read it. Herr Jacks, Bitte, holen Sie meine Tochter von der Schule ab, um ein-uhr: Rudolf-Steiner-Schule, Warnes 1331. She signed it: Marie Clement"
       ],
       "imgUrl": "https://southerncrossreview.org/150/love-spies.jpg",
       "link": "https://southerncrossreview.org/150/love-life-spies-forward.html",
@@ -100,10 +115,14 @@ export const articles = {
       "title": "The Pope and I",
       "sub-title": "Second Visit",
       "author": "Frank Thomas Smith",
-      "description":[
+      "description": [
         "Those who read my report about the Pope’s visit to Villa de las Rosas and our subsequent short but meaningful conversation, will surely remember it and perhaps be almost as surprised as I was to learn that he contacted me again and – believe it or not – came again to my humble abode in Argentina … well, maybe not all that humble, but certainly more so than Bob’s (Pope Leo’s) Vatican digs.",
         "It was like this. That same Archbishop as last time drove up to my home office in Villa de la Rosas last Thursday driven by his chauffeur-priest, who beeped his horn rather impolitely. I looked out the window and thought: OMG, not again! But it was indeed again. I opened the door and invited the Archbishop in. He hadn’t changed. I had the impression that he was shocked that His Holiness had demeaned his holy office enough to converse with a mere unfrocked (no, not defrocked) mortal.",
         "“Pope Leo wants to know if you are now willing to visit him in Rome,” he said, after again refusing my invitation to have a seat.",
+        "“I haven’t gotten any younger,” I replied.",
+        "“So no?”",
+        "“So no.”",
+        "He mumbled into his phone, then handed it to me."
       ],
       "imgUrl": `${prefix}the-pope-and-i-second-visit-main.png`,
       "link": `${prefix}the-pope-and-i-second-visit.html`,
@@ -112,7 +131,7 @@ export const articles = {
     },
     {
       "title": "The J. R. Baseball Murders",
-      "sub-title": "",
+      "sub-title": "Chapter 2",
       "author": "Frank Thomas Smith",
       "description": [
         "First things first usually means most convenient things first. In this case the letter, mailed in Brooklyn. If such a high degree of confidentiality were not required in this case, I would have turned that part over to one of the new guys and gone to Boston or Charleston right away. Two of the guys I hired after the Agnes Rhinelander case were retired cops, one a homicide detective and the other had been in missing persons. They were competent but I didn’t know them well enough yet to trust them. The third was a colored kid, Jim McKey, also an ex-cop, but not a retired one. He quit because of the bureaucracy and corruption. At least that’s what he told me. He was studying at night for a law degree, which meant he wouldn’t be with me long. I knew, though, that in this case I might need him sooner or later because of the race element.",
@@ -127,40 +146,22 @@ export const articles = {
   "Christian Hermeticism": [
     {
       "title": "Meditation on the Eleventh Major Arcanum of the Tarot",
-      "sub-title": "",
+      "sub-title": "LA FORCE",
       "author": "",
       "description": [
         "Dear Unknown Friend,",
-        "In the preceding Letter the transformation of fallen animality into holy",
-        "animality was discussed, where the latter is spontaneous obedience to God,",
-        "without the hindrance of reflection, doubt or motives of interest. Such",
+        "In the preceding Letter the transformation of fallen animality into holy animality was discussed, where the latter is spontaneous obedience to God, without the hindrance of reflection, doubt or motives of interest. Such obedience is basically an instinct. This is why holy animality is represented in the Hermetic tradition, in the vision of Ezekiel, in the Apocalypse of St. John, and in Christian iconography, by four holy animals, whose synthesis—the sphinx—is divine instinctivity, or the kingdom of God in and through the unconscious. For God reigns—i.e. he is worshiped, obeyed and loved—not only through explicit theologies and philosophies, or through explicit prayer, meditation and cult-acts, but also in general through the “hunger and thirst for righteousness”, for truth, and for beauty, and likewise through each act of generosity and every expression of respect, admiration and adoration…Yes, the world is full of implicit religion, and the inspired saints and poets, who say that the birds “praise God” when they sing, are in no way mistaken. Because it is their tiny life itself which sings the “great life” and makes heard, through its countless variations, the same news which is as old as the world and new as the day: “Life lives and vibrates in me.” What homage to the source of life is expressed by these small streams of life: the birds which sing!",
       ],
       "imgUrl": `${prefix}meditations-tarot-xi-main.jpg`,
       "link": `${prefix}meditations-tarot-xi.html`,
       "poem": false,
       "mainImg": false,
     },
-    {
-      "title": "Meditation on the Twelfth Major Arcanum of the Tarot",
-      "sub-title": "",
-      "author": "",
-      "description": [
-        "Truly, truly, I say to you, unless one is born anew, he cannot see the kingdom of God… Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God… The wind blows where it wills, and you hear the sound of it, but you do not know whence it comes or whither it goes; so it is with everyone who is born of the Spirit. (John iii, 3, 5, 8) Foxes have holes, and birds of the air have nests; but the Son of man has nowhere to lay his head. (Matthew viii, 20) Then the righteous will shine like the sun in the kingdom of their Father. That which I had to say about the operation of sol is completed. (Tabula Smaragdina, 13) (Matthew xiii, 43)",
-        "Dear Unknown Friend,",
-        "Here before us is the Card of the twelfth Arcanum of the Tarot, the Hanged Man. It represents a young man suspended by one foot between two trees, with branches cut close to the trunk, from a transversal beam that they support, thus forming a porch.",
-      ],
-      "imgUrl": `${prefix}meditations-tarot-xii-main.png`,
-      "link": `${prefix}meditations-tarot-xii.html`,
-      "poem": false,
-      "mainImg": false,
-    },
-  ],
-  "Poetry": [
   ],
   "Memoir": [
     {
       "title": "Exile’s End - A Memoir",
-      "sub-title": "",
+      "sub-title": "Chapter 11",
       "author": "Frank Thomas Smith",
       "description": [
         "I couldn't avoid feeling like a kind of traitor when we said goodbye to our Argentinian friends. We, after all, were escaping to a kind of Swiss paradise compared to the hell that Argentina had become. Bibi, our eldest, suffered most. She was a horse lover and had her own horse in a club. This was something only possible for us in a place like Argentina. Only the rich could afford that in Switzerland.",
@@ -191,12 +192,13 @@ export const articles = {
   ],
   "Current Events": [
     {
-      "title": "We’re Racing Down the Highway to a Mad Max World But There’s a Degrowth Exit Up Ahead",
-      "sub-title": "",
+      "title": "We’re Racing Down the Highway to a Mad Max World",
+      "sub-title": "But There’s a Degrowth Exit Up Ahead",
       "author": "Stan Cox",
       "description": [
         "Let me start by putting things bluntly: Don’t bother to tell Donald Trump, but with his distinct help, we’re doing nothing less than cooking ourselves. Thanks to the continued use of fossil fuels in a staggering fashion and the growth of greenhouse gas emissions, almost half of the world’s population now suffers through 30 additional days of extreme heat annually. Heatwaves roll in thicker and faster every year.",
         "On average, according to the medical journal The Lancet, 84% of the extremely hot days we’ve faced over the past five years would not have occurred without human-induced climate change that the American president seems intent on making so much worse. Heat-related deaths are already 63% more frequent than in the 1990s. That Lancet article also reported that heat- and drought-related hunger, as well as deaths from wildfire smoke and industrial air pollution, are breaking records globally almost yearly.",
+        "Climate Impacts Tracker dubbed 2025 “The Year of Climate Disasters,” noting, “Flash floods tearing up a Himalayan village in India, hurricanes and wildfires ravaging the U.S., heatwaves and wildfires scorching Europe, record-breaking heat in Iceland and Greenland, torrential rains and floods roaring through Southeast Asia — 2025 marked yet another year of human tragedies, driven by extreme weather events.”"
       ],
       "imgUrl": `${prefix}cox-degrowth-main.png`,
       "link": `${prefix}cox-degrowth.html`,
@@ -204,9 +206,9 @@ export const articles = {
       "mainImg": false,
     },
     {
-      "title": "Trump Goes Rogue as Robocop - MAGA Outgrows Isolationism",
-      "sub-title": "",
-      "author": " John Feffer",
+      "title": "Trump Goes Rogue as Robocop",
+      "sub-title": "MAGA Outgrows Isolationism",
+      "author": "John Feffer",
       "description": [
         "A mere 15 years ago, during an epoch that now seems as distant as the Paleozoic era, an American president attempted to use military power to prevent a dictator from slaughtering his own citizens. Barack Obama billed the action in Libya as a humanitarian intervention, citing the new U.N. doctrine of “responsibility to protect” (R2P). The president hoped to avert a massacre by Libyan dictator Muammar Qaddafi rather than, as usual, coming in afterwards to count the dead and try to bring the malefactors to justice.",
         "Obama intervened like a global police officer, following the letter of the (international) law. Eager to be seen as a “good cop,” the president even promised to “lead from behind.” It’s impossible to know if the U.S.-led action did indeed prevent massive war crimes. However, the disastrous aftermath of that Libyan campaign — the summary execution of Qaddafi and a civil war that would kill tens of thousands — was yet more evidence that Washington’s attempts to police the world are quixotic at best.",
@@ -218,13 +220,14 @@ export const articles = {
     },
     {
       "title": "America’s Date With Destiny",
-      "sub-title": "",
-      "author": " ",
+      "sub-title": "An Appointment in Samarra",
+      "author": "Alfred McCoy",
       "description": [
         "Some tales can cross cultures, continents, and even centuries to arrive in our own era with their timeless truths pretty much intact. That’s particularly so for the immortal story of “an appointment in Samarra.” It first appeared in the fifth century in the Babylonian Talmud, that ancient repository of Jewish rabbinical wisdom. Then it crossed over into Islamic literature for reiterations in a thirteenth-century Persian version and a fifteenth-century Egyptian text, before popping up on the London stage in Act III of William Somerset Maugham’s 1933 play Sheppy.",
         "In Maugham’s retelling, the tale is rich in irony. Once long ago, he wrote, there was a merchant in Baghdad who sent his servant to shop in the market. But the servant soon returned home in a panic and told his master about a woman in the crowd there who stared at him angrily. “It was Death that jostled me,” the servant announced, pleading with his master for a horse to flee to the town of Samarra. There, said the servant, “Death will not find me.”",
+        "Riding hard and spurring the horse’s flanks, the servant raced across the desert and made it to Samarra by nightfall. That evening, the master himself went to the market and spotted the woman, demanding to know why she had threatened his servant. “That was not a threatening gesture,” said Death. “It was only a start of surprise. I was astonished to see him in Baghdad, for I had an appointment with him tonight in Samarra.”"
       ],
-      "imgUrl": `${prefix}`,
+      "imgUrl": `${prefix}samarra-iraq.jpg`,
       "link": `${prefix}mccoy-appointment-in-samarra.html`,
       "poem": false,
       "mainImg": false,
