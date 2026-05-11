@@ -1,0 +1,127 @@
+import { prefix } from "./variables.js"
+
+export const articles = {
+  "Fiction": [
+    {
+      "title": "Dogs Don't Send Flowers",
+      "sub-title": "",
+      "author": "Gary Beck",
+      "description":[
+        "When my dog was a year and a half old I discovered that he needed sex. Like a good master, I tried to obtain female services for him, but my efforts resulted in failure. My frustration level was probably growing higher than his, but it was hard to tell. After all, Pard didn't look up suddenly from gnawing a bone and say: 'Master, master, this deprivation is killing me.' In general, though, our relationship was satisfactory. Pard followed the basic hygiene rules indoors. He even allowed me to slip newspaper under him outdoors, when he squatted for doggie business. I expressed my appreciation for not having to carry a cumbersome pooper scooper, or messy plastic baggies, by liberally distributing dog yummies whenever he cooperated. It was an excellent arrangement that benefited both of us.",
+        "Pard was a medium size, brown and white, haphazard mix of terrier and shepherd, with trace elements of other breeds. He was a clever dog, a valid testimony to the melting pot theory. I often took him to my drama classes at Gotham University's School of the Arts. Sometimes I would challenge my well fed student actors to display more facial expressions than my dog. Once the initial humiliation of their acting skills being compared to a dog was over, some students showed a keen zest to prove themselves. If one came close to rivaling Pard's expressiveness, he blew them away with the 'sad look' of woeful eyes, sagging mouth and drooping ears. To date, no vanquished young thespian, resentful in defeat, had complained to the university about my unorthodox teaching assistant. When I brought Pard to school I always wore sunglasses. If security tried to prevent our entry, I told them I was blind. The underpaid guards of the sons and daughters of prosperity, weren't about to be politically incorrect and deny admission to a blind man and his faithful seeing eye dog.",
+      ],
+      "imgUrl": `${prefix}beck-dogs-flowers-main.png`,
+      "link": `${prefix}beck-dogs-flowers.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "El Papa y Yo",
+      "sub-title": "",
+      "author": "por Frank Thomas Smith",
+      "description":[
+        "Se suponía que debía esperar antes de publicar o revelar los acontecimientos aquí descritos. Sin embargo, ya ha pasado más de un mes y no ha pasado nada, así que he decidido darle al Papa un empujoncito educado —no, no un empujón— para recordárselo, por así decirlo.",
+        "Todo comenzó un día en que estaba trabajando en mi oficina cuando mi jardinero, Rovindo, asomó la cabeza y dijo con su marcado acento argentino-cordobés: «Hay alguien aquí fuera que te busca».",
+        "Suspiré, me levanté de mi computadora y salí. Allí, para mi sorpresa, había un joven vestido con ropa clerical. «Buenas tardes», dijo en un español culto, «¿es usted el señor Frank Tomás Esmit?».",
+        "«Sí, soy yo», respondí. «¿Y usted es?». Me dijo su nombre, pero no lo recuerdo. Se volvió hacia el sedán Volkswagen negro que tenía detrás y abrió la puerta trasera. Un hombre mayor, obviamente también algún tipo de sacerdote, tal vez un obispo, salió del coche. Me tendió la mano, que yo estreché. «¿Podemos ir a algún lugar para hablar, señor Smith?», preguntó.",
+      ],
+      "imgUrl": `${prefix}el-papa-y-yo-2-main.png`,
+      "link": `${prefix}el-papa-y-yo.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "El Papa y yo: ",
+      "sub-title": "segunda visita",
+      "author": "por Frank Thomas Smith",
+      "description":[
+        "Quienes hayan leído mi relato sobre la visita del Papa a Villa de las Rosas y nuestra breve pero significativa conversación posterior, seguramente lo recordarán y tal vez se sorprendan casi tanto como yo al saber que se puso en contacto conmigo de nuevo y —aunque parezca increíble— volvió a visitar mi humilde morada en Argentina… bueno, quizás no tan humilde, pero ciertamente más que la residencia de Bob (el Papa León) en el Vaticano.",
+        "Sucedió así. El mismo arzobispo de la última vez se presentó en la oficina de mi casa en Villa de las Rosas el jueves pasado, conducido por su chofer-sacerdote, quien tocó la bocina de manera bastante descortés. Miré por la ventana y pensé: ¡Dios mío, no otra vez! Pero efectivamente, era otra vez. Abrí la puerta e invité al arzobispo a pasar. No había cambiado. Me dio la impresión de que estaba sorprendido de que Su Santidad hubiera rebajado su santo oficio lo suficiente como para conversar con un simple mortal sin hábitos (no, no expulsado del sacerdocio).",
+      ],
+      "imgUrl": `${prefix}el-papa-y-yo-2-main.png`,
+      "link": `${prefix}el-papa-y-yo-2.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "The J R Baseball Murders",
+      "sub-title": "",
+      "author": "Frank Thomas Smith",
+      "description":[
+        "“So what do we do now?” Charlie asked me as we walked down the tree-lined street towards the bus stop. I’d been pondering that myself and hadn’t yet made a decision, but knew I had to soon. Gladys Rounder hadn’t given us any more information than we already had – which was close to nothing. I didn’t regret having spoken to her though because, despite being a weirdo, she exuded a sense of calm certainty about her hypothesis that Jackie Robinson was on a killer’s hit list, or would be if Branch Rickey decided to promote him to the Brooklyn Dodgers.",
+        "“Darrell?”",
+        "“What’s an anthroposophist?” I feared it might be some kind of African voodoo cult. But when Charlie told me it was a spiritual-scientific movement founded by an Austrian philosopher named Rudolf Steiner I breathed out, relieved.",
+        "“I’m trying to decide whether to go to Boston or Charleston first,” I finally said as we reached the bus stop.",
+      ],
+      "imgUrl": `${prefix}j-r-baseball-murders-4-main.png`,
+      "link": `${prefix}j-r-baseball-murders-4.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Education": [
+    {
+      "title": "La economía de la escuela Waldorf",
+      "sub-title": "",
+      "author": "Fran Thomas Smith",
+      "description":[
+        "Una escuela Waldorf es una organización fundamentalmente altruista y, como tal, está sujeta a tres fases de desarrollo: una fase de fundación o pionera, una fase burocrática (en sentido positivo) y una fase de integración. La primera fase es difícil, pero también la más agradable de muchas maneras: hay un número reducido de personas, que se conocen bien, que no sólo sienten camaradería sino que, a menudo, se hacen amigos. Hay necesidad de innovar. Un error, si es reconocido como tal, puede ser corregido inmediatamente.",
+        "La segunda fase es cuando la organización se hace demasiado grande para seguir alimentándose de la intuición de los fundadores. En otras palabras, se vuelve eficiente pero, es de esperar, no rígida ni dogmática. El nombre de la tercera fase, “integración”, podría sugerir que todos los problemas ya han sido resueltos. Pero no, la integración - muy difícil de lograr - significa tener suficiente flexibilidad para adaptarse a las nuevas necesidades sin sacrificar los principios fundamentales, aceptando una tensión sana pero evitando conflictos destructivos.",
+      ],
+      "imgUrl": `${prefix}trigal1b.jpg`,
+      "link": `${prefix}economia-escuela-waldorf.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "The Economy of a Waldorf School",
+      "sub-title": "",
+      "author": "Frank Thomas Smith",
+      "description":[
+        "A Waldorf school is a fundamentally altruistic organization and as such is loosely subject to three development phases – a foundation or pioneer phase, a bureaucratic (in a positive sense) one, and an integration phase. The first phase is difficult, but also the most enjoyable in many ways: few people are involved, who get to know each other well, they are not only friendly, they often become friends. They frequently innovate, whether rightly or wrongly. A mistake, if recognized as such, can be immediately corrected.",
+        "The second phase is when the organization becomes too large to continue feeding on the founders' intuition. In other words, efficient but, hopefully, not rigid or dogmatic. The name of the third phase, “integration”, may imply that all problems have been solved and there's smooth sailing from now on. No, integration – very difficult to achieve – means having sufficient flexibility to adapt to new necessities without sacrificing fundamental principles, accepting healthy tension but avoiding destructive conflict. And so on.",
+      ],
+      "imgUrl": `${prefix}trigal1b.jpg`,
+      "link": `${prefix}economy-waldorf-school.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Current events": [
+   ],
+  "Poetry": [
+    {
+      "title": "Aconcagua",
+      "sub-title": "",
+      "author": "Frank Thomas Smith",
+      "description":[
+        "Beyond the highest, Aconcagua’s peak, Lives a lady of delicate health Known by the name Mireya.",
+        "Her pace is slower now, embraces weak, So I will pray for her in stealth, For the life of my dear Mireya.",
+        "The friend she was from a distant land, Beyond Aconcagua’s peak. She knew her time was short…she took my hand In hers - she had no need to speak.",
+      ],
+      "imgUrl": `${prefix}aconcagua.jpg`,
+      "link": `${prefix}fts-aconcagua.html`,
+      "poem": true,
+      "mainImg": false,
+    },
+    {
+      "title": "Gunga Din",
+      "sub-title": "",
+      "author": "Rudyard Kipling",
+      "description":[
+        "You may talk o’ gin and beer When you’re quartered safe out ‘ere, An’ you’re sent to penny-fights an’ Aldershot it; But when it comes to slaughter You will do your work on water, An’ you’ll lick the bloomin’ boots of ’im that’s got it.",
+        "Now in Injia’s sunny clime, Where I used to spend my time A-servin’ of ’Er Majesty the Queen, Of all them blackfaced crew The finest man I knew Was our regimental bhisti, Gunga Din.",
+        "He was “Din! Din! Din! You limpin’ lump o’ brick-dust, Gunga Din! Hi! slippery hitherao! Water, get it! ~Panee lao~! [Bring water swiftly.] You squidgy-nosed old idol, Gunga Din.”",
+        "The uniform ‘e wore Was nothin’ much before, An’ rather less than ‘arf o’ that be’ind, For a piece o’ twisty rag An’ a goatskin water-bag Was all the field-equipment ’e could find.",
+      ],
+      "imgUrl": `${prefix}kipling-din-main.png`,
+      "link": `${prefix}kipling-din.html`,
+      "poem": true,
+      "mainImg": false,
+    },
+   ],
+  "Christian hermeticism": [
+   ],
+  "Anthroposophy": [
+   ],
+}
