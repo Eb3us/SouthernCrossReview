@@ -44,4 +44,4 @@ const backToTop = document.querySelector("#back-to-top");
 /*change prefix from "./" for test page inside the issue's 
 folder to "./issue-number/" for root index file */
 const issueNumber = 169;
-const prefix = "./";
+const prefix = "./169/";
