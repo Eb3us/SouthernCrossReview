@@ -9,7 +9,7 @@
 #### (GA 353, May 8, 1924 – Dornach, Switzerland)
 
   
-Editor's note: This lecture was given at a time when the question
+> [!IMPORTANT] Editor's note: This lecture was given at a time when the question
 of the Zionists' dream of a Jewish state in Palestine collided
 with the preference of other Jews for assimilation into European
 society. Rudolf Steiner, though not Jewish, clearly favored
@@ -23,7 +23,7 @@ reactionary drift, a retrogression that leads nowhere and runs
 counter to progress."  
 He did not of course foresee the Nazis and the holocaust.
 
-*Question*: Have the Jews, as a people, fulfilled their mission in
+> [!TIP] *Question*: Have the Jews, as a people, fulfilled their mission in
 the evolution of humanity?
 
 *Dr. Steiner*: Discussion on this subject is unfortunately all too
