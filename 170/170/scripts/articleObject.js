@@ -1,0 +1,220 @@
+import { prefix } from "./variables.js"
+
+export const articles = {
+  "Featured Art": [
+    {
+      "title": "A woman in the sun",
+      "sub-title": "",
+      "author": "Edward Hopper",
+      "description":[
+        "Edward Hopper, (July 22, 1882 - May 15, 1967) was a prominent American realist painter and printmaker. While he was most popularly known for his oil paintings, he was equally proficient as a watercolorist and printmaker in etching. Both in his urban and rural scenes, his spare and finely calculated renderings reflected his personal vision of modern American life. One of his teachers, artist Robert Henri, taught life class. Henri encouraged his students to use their art to \"make a stir in the world\". He also advised his students, \"It isn't the subject that counts but what you feel about it\" and \"Forget about art and paint pictures of what interests you in life.\" He encouraged them to imbue a modern spirit in their work. Some artists in Henri's circle, including John Sloan, became members of \"The Eight\", also known as the Ashcan School of American Art. Hopper's first existing oil painting to hint at his famous interiors was Solitary Figure in a Theater (c.1904). During his student years, he also painted dozens of nudes, still life studies, landscapes, and portraits, including his self-portraits. Not until he was 41 did he receive recognition for his work. His financial stability now secured, Hopper would live a simple, stable life and continue creating art in his distinctive style for four more decades.",
+      ],
+      "imgUrl": `${prefix}hopper-woman-sun.jpg`,
+      "link": ``,
+      "poem": false,
+      "mainImg": true,
+    },
+  ],
+  "Fiction": [
+    {
+      "title": "Dogs Don't Send Flowers",
+      "sub-title": "",
+      "author": "Gary Beck",
+      "description":[
+        "When my dog was a year and a half old I discovered that he needed sex. Like a good master, I tried to obtain female services for him, but my efforts resulted in failure. My frustration level was probably growing higher than his, but it was hard to tell. After all, Pard didn't look up suddenly from gnawing a bone and say: 'Master, master, this deprivation is killing me.' In general, though, our relationship was satisfactory. Pard followed the basic hygiene rules indoors. He even allowed me to slip newspaper under him outdoors, when he squatted for doggie business. I expressed my appreciation for not having to carry a cumbersome pooper scooper, or messy plastic baggies, by liberally distributing dog yummies whenever he cooperated. It was an excellent arrangement that benefited both of us.",
+        "Pard was a medium size, brown and white, haphazard mix of terrier and shepherd, with trace elements of other breeds. He was a clever dog, a valid testimony to the melting pot theory. I often took him to my drama classes at Gotham University's School of the Arts. Sometimes I would challenge my well fed student actors to display more facial expressions than my dog. Once the initial humiliation of their acting skills being compared to a dog was over, some students showed a keen zest to prove themselves. If one came close to rivaling Pard's expressiveness, he blew them away with the 'sad look' of woeful eyes, sagging mouth and drooping ears. To date, no vanquished young thespian, resentful in defeat, had complained to the university about my unorthodox teaching assistant. When I brought Pard to school I always wore sunglasses. If security tried to prevent our entry, I told them I was blind. The underpaid guards of the sons and daughters of prosperity, weren't about to be politically incorrect and deny admission to a blind man and his faithful seeing eye dog.",
+      ],
+      "imgUrl": `${prefix}beck-dogs-flowers-main.png`,
+      "link": `${prefix}beck-dogs-flowers.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "El Papa y Yo",
+      "sub-title": "",
+      "author": "por Frank Thomas Smith",
+      "description":[
+        "Se suponía que debía esperar antes de publicar o revelar los acontecimientos aquí descritos. Sin embargo, ya ha pasado más de un mes y no ha pasado nada, así que he decidido darle al Papa un empujoncito educado —no, no un empujón— para recordárselo, por así decirlo.",
+        "Todo comenzó un día en que estaba trabajando en mi oficina cuando mi jardinero, Rovindo, asomó la cabeza y dijo con su marcado acento argentino-cordobés: «Hay alguien aquí fuera que te busca».",
+        "Suspiré, me levanté de mi computadora y salí. Allí, para mi sorpresa, había un joven vestido con ropa clerical. «Buenas tardes», dijo en un español culto, «¿es usted el señor Frank Tomás Esmit?».",
+        "«Sí, soy yo», respondí. «¿Y usted es?». Me dijo su nombre, pero no lo recuerdo. Se volvió hacia el sedán Volkswagen negro que tenía detrás y abrió la puerta trasera. Un hombre mayor, obviamente también algún tipo de sacerdote, tal vez un obispo, salió del coche. Me tendió la mano, que yo estreché. «¿Podemos ir a algún lugar para hablar, señor Smith?», preguntó.",
+      ],
+      "imgUrl": `${prefix}el-papa-y-yo-2-main.png`,
+      "link": `${prefix}el-papa-y-yo.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "El Papa y yo: segunda visita",
+      "sub-title": "",
+      "author": "por Frank Thomas Smith",
+      "description":[
+        "Quienes hayan leído mi relato sobre la visita del Papa a Villa de las Rosas y nuestra breve pero significativa conversación posterior, seguramente lo recordarán y tal vez se sorprendan casi tanto como yo al saber que se puso en contacto conmigo de nuevo y —aunque parezca increíble— volvió a visitar mi humilde morada en Argentina… bueno, quizás no tan humilde, pero ciertamente más que la residencia de Bob (el Papa León) en el Vaticano.",
+        "Sucedió así. El mismo arzobispo de la última vez se presentó en la oficina de mi casa en Villa de las Rosas el jueves pasado, conducido por su chofer-sacerdote, quien tocó la bocina de manera bastante descortés. Miré por la ventana y pensé: ¡Dios mío, no otra vez! Pero efectivamente, era otra vez. Abrí la puerta e invité al arzobispo a pasar. No había cambiado. Me dio la impresión de que estaba sorprendido de que Su Santidad hubiera rebajado su santo oficio lo suficiente como para conversar con un simple mortal sin hábitos (no, no expulsado del sacerdocio).",
+        "«El papa León quiere saber si ahora estás dispuesto a visitarlo en Roma», dijo, después de rechazar nuevamente mi invitación a tomar asiento.",
+        "«No me he vuelto más joven», respondí."
+      ],
+      "imgUrl": `${prefix}el-papa-y-yo-2-main.png`,
+      "link": `${prefix}el-papa-y-yo-2.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "The J R Baseball Murders",
+      "sub-title": "",
+      "author": "Frank Thomas Smith",
+      "description":[
+        "“So what do we do now?” Charlie asked me as we walked down the tree-lined street towards the bus stop. I’d been pondering that myself and hadn’t yet made a decision, but knew I had to soon. Gladys Rounder hadn’t given us any more information than we already had – which was close to nothing. I didn’t regret having spoken to her though because, despite being a weirdo, she exuded a sense of calm certainty about her hypothesis that Jackie Robinson was on a killer’s hit list, or would be if Branch Rickey decided to promote him to the Brooklyn Dodgers.",
+        "“Darrell?”",
+        "“What’s an anthroposophist?” I feared it might be some kind of African voodoo cult. But when Charlie told me it was a spiritual-scientific movement founded by an Austrian philosopher named Rudolf Steiner I breathed out, relieved.",
+        "“I’m trying to decide whether to go to Boston or Charleston first,” I finally said as we reached the bus stop.",
+        "“Hey, babe,” a wise guy walking with two others in the opposite direction called out from across the street, “caint find no brother to hold yo hand?” Charlie ignored them and I fumbled nervously in my pocket for change. A taxi appeared at the corner coming our way and I hailed it. The white driver seemed uncertain, but stopped. “You goin’ outa here?” he asked before I could open the door."
+      ],
+      "imgUrl": `${prefix}j-r-baseball-murders-4-main.png`,
+      "link": `${prefix}j-r-baseball-murders-4.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Education": [
+    {
+      "title": "The Economy of a Waldorf School",
+      "sub-title": "",
+      "author": "Frank Thomas Smith",
+      "description":[
+        "A Waldorf school is a fundamentally altruistic organization and as such is loosely subject to three development phases – a foundation or pioneer phase, a bureaucratic (in a positive sense) one, and an integration phase. The first phase is difficult, but also the most enjoyable in many ways: few people are involved, who get to know each other well, they are not only friendly, they often become friends. They frequently innovate, whether rightly or wrongly. A mistake, if recognized as such, can be immediately corrected.",
+        "The second phase is when the organization becomes too large to continue feeding on the founders' intuition. In other words, efficient but, hopefully, not rigid or dogmatic. The name of the third phase, “integration”, may imply that all problems have been solved and there's smooth sailing from now on. No, integration – very difficult to achieve – means having sufficient flexibility to adapt to new necessities without sacrificing fundamental principles, accepting healthy tension but avoiding destructive conflict. And so on.",
+      ],
+      "imgUrl": `${prefix}trigal1b.jpg`,
+      "link": `${prefix}economy-waldorf-school.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Social Science": [
+    {
+      "title": "Favela Children",
+      "sub-title": "Chapter 22",
+      "author": "Ute Creamer",
+      "description":[
+        "<strong>Poema Para Rezar</strong>",
+        "Senhor, por que me mandaste amar todos os homens, meus irmaos?<br />Senhor, estava tao tranquilo em minha casa, tinha organizado,<br/>já me achava instalada<br />Meu lar mobiliado, e lá dentro<br/>sentia-me tao bem<br 7>Sózinho, estava de acordo comingo mesmo: Mas na minha fortaleza<br />descobriste, Senhor, uma brecha.<br/>Obrigaste me<br />a entreabrir a porta.<br/>Lá fora os homens me espreitavam.",
+      ],
+      "imgUrl": `${prefix}favela-cover.jpg`,
+      "link": `${prefix}favela-children-22.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Current Events": [
+    {
+      "title": "The President of Ultimate Destruction",
+      "sub-title": "\"You Dirty ORANGE Maniac! You Blew It All Up! Damn You to Hell!\"",
+      "author": "Tom Engelhardt",
+      "description":[
+        "When he’s on full blast, Donald Trump (not so long ago the “drill, baby, drill” candidate for president) is distinctly a furnace.  And he seems intent on turning this planet, our only world, into a version of the same.  But here’s the strange thing, when it comes to almost anything — from Iran to suddenly firing two key women, Pam Bondi and Kristi Noem, in his government (but certainly not the no-less-chaotic men) — there’s no minute, it seems, when he’s not flipping himself on his head and then spinning or stumbling or catapulting off in a new direction. There’s only one exception I’ve noticed and, all too sadly, that’s climate change, where everything he does — every single thing — is guaranteed to be a disaster for our children and grandchildren.  ",
+        "Recently, of course, he’s launched a nightmarish war, by definition a gigantic producer of greenhouse gases, that’s literally been all about oil and natural gas, thanks in part to the now chaotic, largely blocked Strait of Hormuz through which a quarter of humanity’s sea-borne oil and a fifth of its natural gas used to pass. And if you don’t believe me about it being a nightmare, just check out the most recent prices at your neighborhood gas station. Consider it an irony, then, that his disastrous Iranian war will undoubtedly lead in a direction — to the use of more green energy globally — that, if he ever thought about it, he would hate more than just about anything else. He has, of course, referred to environmentalists as “terrorists.” (“They are terrorists. I call them environmental terrorists.”) And in this country, over his two presidencies, he’s done his damnedest to attack and try to block wind and solar power projects in every imaginable way, even though, globally, green power is growing fast and getting ever cheaper.",
+      ],
+      "imgUrl": `${prefix}engelhardt-orange-maniac-main.png`,
+      "link": `${prefix}engelhardt-orange-maniac.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "War, Forever and a Day",
+      "sub-title": "Who Gains and Who Loses in Trump's America",
+      "author": "Steve Fraser",
+      "description":[
+        "War against Iran. Kidnapping the president of Venezuela. Threatening to take over Cuba and Greenland. Plans to plunder the planet of its land, labor, and vital resources to feed the insatiable appetite of American capitalism are indeed afoot and, in the age of Donald Trump, U.S. imperialism is back with a particular vengeance. Not, of course, that it ever went away. In fact, it’s been there from the beginning.",
+        "After all, the United States was launched as an act of settler colonialism, dispossessing the New World’s indigenous inhabitants. President James Monroe issued what became known as the “Monroe Doctrine” in 1823, proclaiming the country’s exclusive right to determine the fate of the rest of the western hemisphere. Meanwhile, the slave trade and slavery constituted an imperial rape of Africa by America’s planter and merchant elites.",
+        "And by the turn of the twentieth century, Washington had announced its “Open Door” policy, meaning it intended to compete for access to the world’s markets while joining the European race for colonies. It proceeded to do so by brutally taking over the Philippines in 1899, while the U.S. armed forces would make regular incursions into countries in Central America to protect the holdings of American corporations and banks. And the story that began there has never ended with bloody chapters written in Guatemala, Vietnam, most recently Iran, and all too many other places.",
+      ],
+      "imgUrl": `${prefix}fraser-war-forever-main.png`,
+      "link": `${prefix}fraser-war-forever.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Poetry": [
+    {
+      "title": "Aconcagua",
+      "sub-title": "",
+      "author": "Frank Thomas Smith",
+      "description":[
+        "<strong>THEN</strong>",
+        "Beyond the highest, Aconcagua’s peak,<br/>Lives a lady of delicate health<br/>Known by the name Mireya.",
+        "Her glance, her smile, her self are all I seek,<br/>Are more to me than worlds of wealth,<br/>The ailing lady Mireya.",
+        "Her pace is slower now, embraces weak,<br/>So I will pray for her in stealth,<br/>For the life of my dear Mireya.",
+        "<strong>NOW</strong>"
+      ],
+      "imgUrl": `${prefix}aconcagua.jpg`,
+      "link": `${prefix}fts-aconcagua.html`,
+      "poem": true,
+      "mainImg": false,
+    },
+    {
+      "title": "Gunga Din",
+      "sub-title": "",
+      "author": "Rudyard Kipling",
+      "description":[
+        "You may talk o’ gin and beer<br/>When you’re quartered safe out ‘ere,<br/>An’ you’re sent to penny-fights an’ Aldershot it;<br/>But when it comes to slaughter<br/>You will do your work on water,<br/>An’ you’ll lick the bloomin’ boots of ’im that’s got it.",
+      "Now in Injia’s sunny clime,<br/>Where I used to spend my time<br/>A-servin’ of ’Er Majesty the Queen,<br/>Of all them blackfaced crew<br/>The finest man I knew<br/>Was our regimental bhisti, Gunga Din.",
+      ],
+      "imgUrl": `${prefix}kipling-din-main.png`,
+      "link": `${prefix}kipling-din.html`,
+      "poem": true,
+      "mainImg": false,
+    },
+   ],
+  "Christian Hermeticism": [
+    {
+      "title": "Meditation on the Thirteenth Major Arcanum of the Tarot",
+      "sub-title": "DEATH - LA MORT",
+      "author": "",
+      "description":[
+        "And the woman said to the serpent, “We may eat of the fruit of the trees of the garden; but God said, ‘You shall not eat of the fruit of the tree which is in the midst of the garden, neither shall you touch it, lest you die.’” But the serpent said to the woman, “You will not die. For God knows that when you eat of it your eyes will be opened, and you will be as gods, knowing good and evil.” (Genesis iii, 2-5)",
+        "O dry bones, hear the word of the LORD.",
+        "(Ezekiel xxvii, 4)",
+        "Have you ever been struck by the contrary statements concerning death made by God and the serpent in the narrative in Genesis on the Fall? Because God says there, “You shall not eat of the tree of knowledge of good and evil, for on the day when you eat from it you will die”, and the serpent says, “You will not die”. Here God is categorical; the serpent is just as much so.",
+      "Did the serpent quite simply lie? Or is it a matter of a fundamental error on the part of the serpent? Or again, did he state a truth from the range of truths proper to the domain of the serpent which are untruths in the domain of truths for God? In other words, are there two immortalities and two different deaths—one from the point of view of God, the other from the point of view of the serpent? Thus, is it simply that the serpent understands by “death” what God understands by “life” and that he understands by “life” what God understands by “death”?"
+      ],
+      "imgUrl": `${prefix}meditations-tarot-xiii-main.png`,
+      "link": `${prefix}meditations-tarot-xiii.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+    {
+      "title": "The Various Incarnations of Valentin Tomberg",
+      "sub-title": "",
+      "author": "Robert Powell",
+      "description":[
+        "[transcribed from a talk given on a podcast.]",
+        "Today is the 12<sup>th</sup> December 2025. We are going to continue with looking into the previous incarnations of Valentin Tomberg or, as he was referred to by Rudolf Steiner, the Bodhisattva who will become the Maitreya Buddha.",
+        "As spoken of previously, Valentin Tomberg was born on 26<sup>th</sup> February 1900, which coincides exactly with Rudolf Steiner’s indication that the Bodhisattva who will become the Maitreya Buddha was born around the beginning of the twentieth century. In 1921 Rudolf Steiner said to Friedrich Rittelmeyer that if we live another fifteen years (which takes us to the mid-1930s) we will notice the activity of this Bodhisattva. And in earlier lectures on the Gospel of St Matthew, Rudolf Steiner had spoken about this Bodhisattva who will become the Maitreya Buddha and said that he would be the ‘real proclaimer’ of Christ’s Second Coming, His coming in the etheric.",
+        "Rudolf Steiner mentioned the years 1930 and 1933 as the beginning of Christ’s Second Coming. Thus, in order for this to be a real proclamation, this Bodhisattva individuality would have had to make the proclamation after the beginning of the 1930s. Valentin Tomberg was born in 1900 and began speaking about Christ’s Second Coming shortly after the beginning of the 1930s. We can say, then, that Valentin Tomberg fulfilled these two requirements indicated by Rudolf Steiner: that this individuality would be born at the beginning of the twentieth century, and that he would begin speaking about Christ’s Second Coming during the 1930s.",
+      ],
+      "imgUrl": `${prefix}powell-incarnations-of-tomberg-main.png`,
+      "link": `${prefix}powell-incarnations-of-tomberg.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+  "Anthroposophy": [
+    {
+      "title": "Characteristics of Judaism & Zionism",
+      "sub-title": "",
+      "author": "Rudolf Steiner",
+      "description":[
+        "Editor’s note: This lecture was given at a time when the question of the Zionists’ dream of a Jewish state in Palestine collided with the preference of other Jews for assimilation into European society. Rudolf Steiner, though not Jewish, clearly favored assimilation. This position was coherent given his concept of a Threefold Society in which the political state is only responsible for human and civil rights, whereas culture and religion is the province of the free spiritual/cultural sphere of society. Thus he considered a Jewish state reactionary. “The attempt to set up a Jewish State denotes a decidedly reactionary drift, a retrogression that leads nowhere and runs counter to progress.” He did not of course foresee the Nazis and the holocaust.",
+        "<em>Question</em>: Have the Jews, as a people, fulfilled their mission in the evolution of humanity?",
+        "<em>Dr. Steiner</em>: Discussion on this subject is unfortunately all too apt to lead to propaganda. But what must be said quite objectively on the subject has nothing whatever to do with propaganda in any shape or form.",
+        "The way in which the development of the Jewish people proceeded in olden times was a most important preparation for the subsequent rise of Christianity. Before Christianity came into the world, the Jews had a deeply spiritual religion but, as I have told you, it was a religion which took account only of the spiritual law of nature. — If a Jew were asked: Upon what does the coming of spring depend? — he said: Upon the will of Jehovah! — Why is so-and-so an unrighteous man? — Because Jehovah wills it so! — Why does famine break out in a country? — Because Jehovah wills it! — Everything was referred to this one God. And that was why the ancient Jews did not live at peace with the peoples around them, whom they did not understand and who did not understand them. The neighbouring peoples did not worship this one and only God in the same way but recognised spiritual beings in all the phenomena of nature — a multiplicity of spiritual beings."
+
+      ],
+      "imgUrl": `${prefix}judaism.jpg`,
+      "link": `${prefix}steiner-judaism.html`,
+      "poem": false,
+      "mainImg": false,
+    },
+   ],
+}
