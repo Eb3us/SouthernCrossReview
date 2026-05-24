@@ -158,8 +158,8 @@ figure {
 }
 p.intro::first-letter {
     color: #690520;
-    font-size:280%;
-		font-weight: 600;
+    font-size:160%;
+    font-weight: 600;
     text-shadow: 3px 3px 5px  rgba(100, 0, 0, 0.5);
     font-family: 'Style Script', cursive;
 		float: left;
