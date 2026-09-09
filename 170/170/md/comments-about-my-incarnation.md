@@ -1,3 +1,117 @@
+![](my-incarnation-that-was.png){class="a"}
+
 # Comments about My Incarnation That Was... or Not
 
+Hi Frank, I very much enjoyed your Little Plant poem as well as Kate L. Brown's (!)
+I guess you taught it in English as part of your ESL classes at the Waldorf then. Must be a very hard to translate it into Spanish without losing its rhyme 'n' reason.
 
+Reading her page on Wikipedia this comment there startled me: 
+She wrote many children's scientific novels, poems, and periodical articles,[4] many of which surround nature and botany themes. For example, her book The Plant Baby and Its Friends, published in 1898, explains botany like the plant is a child. Brown believed in presenting advanced topics to children in an interesting way as a story, not in textbook form.[5]
+
+R. Steiner also described plant types as children of different ages in story form when introducing first botany in the early Grades. (See GA295, Discussions w/teachers, 2.september 1919). 
+
+So we see a triad of Frank, Kate L.Brown and Rudolf Steiner. It is unlikely that RS would have read Brown's book (published in 1898) in English (unless it had been translated into German before his lecture from 1919). 
+
+Kate Brown and Steiner were contemporaneous. She passed in 1921 and he in 1925.
+
+Based on several Steiner quotes we can surmise these possibilities:
+* Frank as reincarnation of K.L Brown, eleven years after her death.
+* Frank read into Kate Brown's soul or Akasha imprint between 1968 and 1974 and the poem was revealed to him by her.
+* Kate Brown herself inspired the poem, as spiritual Muse, into Frank's soul.
+* Rudolf Steiner AND Kate Brown AND Frank Smith were all tuned in to the universal law of nature's pictoriality (described by R. Steiner in GA26, Leading Thoughts #76-78): Spiritual being portrayed in sense-perceptible imagery (1st Hierarchy)
+Lastly, 
+* Frank Smith composed the poem first, and inspired Kate L Brown from the spiritual world before his own physical birth day.
+
+All the above are paraphrased Steiner quotes.
+
+Eventually, may all be revealed about this lovely poem.
+
+A response to Frank's letter My incarnation that was...or not
+
+FHalbrich
+
+***
+
+HI, Frank, 
+
+Looong time no see!
+
+Here is a poor translation of your nice poem:
+| - | - |
+|---|---|
+|No coração de uma semente, enterrada tão fundo, | In the heart of a seed, buried deep, so deep, |
+|Uma querida planta jazia em sono profundo       | A dear little plant lay fast asleep. |
+|Acorde! Disse o raio de Sol, e venha para a luz | Wake! said the sunshine, and creep to the light |
+|Acorde! Disse a voz da gota de chuva que reluz  | Wake! said the voice of the raindrops bright. |
+|A pequena planta ouviu e se levantou para ver   | The little plant heard and rose up to see |
+|O que o maravilhoso mundo de fora pode ser.      | What the wonderful outside world might be. |
+
+
+I'm going to forward it to the Federação das Escolas Waldorf no Brasil; maybe teachers may use the translation, and English teachers the original. I'll state that you are the author.
+
+As for your being a reincarnation of Kate L. Brown,  this is very unlikely, because of the too short time lapse (11 years) , instead of the regular hundreds of years, or at least after 1/3 of the previous life, the Kamaloka time.
+
+Maye there could be another explanation: you had entered in touch with her etheric body rest, as sometimes happens with some mediums.
+
+Anyhow, it's a wonderful story for a very nice Wladorf poem!
+
+Taking advantage of this contact, let me send you two papers I wrote. Comments and criticisms are most welcome, as usual. The first one is bilingual:
+
+https://www.ime.usp.br/~vwsetzer/conceito-cerebro.pdf
+
+https://www.ime.usp.br/~vwsetzer/models.pdf
+
+BTW, I am writing my 20th book, co-authoring with a physicist who had done a pos-doc at Harvard and MIT. He wrote an autobiographical book, and sent me the draft. I made so many suggestions that he invited me to co-author it. It is becoming an introduction to Anthroposophy. The original was intended to be a description of a physicist between two abysses, Lucifer and Ahriman.
+
+With love, 
+Val. 
+
+***
+
+Hi, Frank,
+
+I have another argument for your not being a reincarnation of Kate L. Brwon. She had a verve for poetry, as well as you have. Steiner emphasized that the abilities in one incarnation do not appear in a next one, due to the fact that the experiences have to be complementary. Recall Raphael and Novalis. He also mentions that a person who spoke a certain language in an incarnation, in the next one will learn another language having no inclination to the previous one, in fact, having difficulties learning that previous one.
+
+With love, Val. 
+
+***
+
+Dear Frank,
+
+amazing story! If you had researched the life of Kate Louise Brown further, and found other synchronicities with yours, pls let me know!
+
+Cheers, Norbert
+
+***
+
+You are a very fascinating person!
+I’ve been getting Southern Cross for many years now, and every time I manage to find time to read something by you, I’m intrigued, sometimes mystified.
+Write on!
+Martin Kemple
+Vermont
+
+***
+
+Dear Frank,
+
+11 years between one incarnation and the next seems a very short time,  but I know nothing. That is  just a feeling ... and perhaps there is some other relation between yourself and Kate Brown. In the last years I have occasioned upon perhaps the only original thought, truly original thought, that I  have ever beheld. It is the derivation of the  essence of time to be the alternation of existence. Such a conception is entirely consistent with the idea of reincarnation.
+
+You most likely know Steiner's exposition of the concept of space as the relation of separation between existents. This was Leibniz's notion as opposed to Newton's conception of space as an endless void existing in its own right, a big empty box. Newton's conception was identical to the bare notion of separation as such. Steiner gave that the standard philosophic method of deriving the essence of a concept from its bare notion was to strip away everything inessential to leave the absolutely bare minimum which still retains the notion. Nothing whatsoever may be added to develop the concept further (since they could not be essential by definition) but things may be deducted to do so.
+
+To have a real separation requires 2 real existents. Now we think away all size, colour, sound and any quality whatsoever. We are left with "2 mere points of light, as it were, and the separation" or distance between them. So that is the first dimension of space. A mathematician would now add a third existent to create the 2nd dimension but this is not allowable in philosophy, the description of qualitative ideas. Mathematics is entirely quantitative. And that is its glaring fault. No, the philosopher now removes one real existent so that the remaining real existent merely 'points toward' a potential other; today we should likely call this a virtual 2nd existent. This describes the 2nd dimension. Clearly it is less real that the first. The third dimension is created by removing the sole real existent left. The 3rd dimension has returned to the bare notion of space as such. It has come back to the beginning of its development. We see that to live in 3 dimensions the most vacuous existence possible. Anyone believing in more dimensions - such as all astrophysicists - has fallen off his trolley. They have totally lost contact with reality and live entirely in their own imaginations.
+
+Ask any physical scientist what is time and they will tell you it is a measure of sorts. And that bothered me for years. All measure is a quantified quality such as a yard of cloth or pint of beer. What then was the quality of time as such being measured? I have never seen anyone address this. One day it occurred to apply Steiner's method. What is the notion of time. I know of no philosopher who has ever disputed that our concept of time comes from experience of change. If we think away all unnecessary quality and quantity we are left with exactly one existent. And the only thing left to change is existence itself. Thus, in essence, time is the alternation of existence. A stunning result by very simple means. It is a relation to self and therefore subjective. As the alternation of existence it is self-contradictory. Necessarily contradictory!! Yet the ontological form of Aristotle's law of contradiction, "A thing cannot at the same time both be and not be," is not broken because time is contained within the definition. Time falls outside contradiction.
+
+In our ordinary lives we see this alternation as sleep and waking. The entire world comes back into existence when we wake. (Nonsense, I hear it said. But if you were not looking at the world how do you KNOW it was always there. You make a huge assumption.) When time alternates back into existence it is one and the same time. It has re-incarnated. And do we have a name for whatever carries the substance of time through its non-existence? I can only think of one - spirituality.
+
+Kindest Regards
+Maurice McCarthy
+I do hope you are keeping well!
+
+***
+
+Awesome, Frank!😊
+
+Fidel Montrucchio
+
+***
