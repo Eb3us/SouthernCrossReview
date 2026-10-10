@@ -18,7 +18,7 @@ export function createNavMenu(navMenuElement) {
     const div = document.createElement("div");
     const p = document.createElement("p");
     const a = document.createElement("a");
-    a.href = `${prefix}letters${issueNumber}.html`
+    a.href = `${prefix}letters${issueNumber}.html`;
     a.style.color = "inherit";
     a.style.textDecoration = "none";
     p.className = "nav-menu-links";
@@ -32,7 +32,7 @@ export function createNavMenu(navMenuElement) {
     const div = document.createElement("div");
     const p = document.createElement("p");
     const a = document.createElement("a");
-    a.href = `https://southerncrossreview.org/old-issues.html`
+    a.href = `https://southerncrossreview.org/old-issues.html`;
     a.style.color = "inherit";
     a.style.textDecoration = "none";
     p.className = "nav-menu-links";
@@ -46,7 +46,7 @@ export function createNavMenu(navMenuElement) {
     const div = document.createElement("div");
     const p = document.createElement("p");
     const a = document.createElement("a");
-    a.href = `https://southerncrossreview.org/reincarnation_blues/reincarnation-blues-intro.html`
+    a.href = `https://southerncrossreview.org/reincarnation_blues/reincarnation-blues-intro.html`;
     a.style.color = "inherit";
     a.style.textDecoration = "none";
     p.className = "nav-menu-links";
@@ -89,7 +89,8 @@ export function createNavMenu(navMenuElement) {
             .toLowerCase();
           li.className = "nav-menu-links";
           li.id = article["title"];
-          li.innerText = `${article.title} - ${article.author}`;
+          console.log(article.author);
+          li.innerText = `${article.title}  ${article.author?.length ? `- ${article.author}` : ""}`;
           li.dataset.title = title;
           list.appendChild(li);
         });
@@ -283,7 +284,7 @@ export function createArticlePeek(object) {
         img.style.marginBottom = "1em";
         img.style.float = "none";
         img.insertAdjacentElement("afterend", author);
-        description.style.width = "80%"
+        description.style.width = "80%";
         description.style.marginLeft = "auto";
         description.style.marginRight = "auto";
       }
